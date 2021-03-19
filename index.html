@@ -10,19 +10,19 @@
         <script src="main.js"></script>
     </head>
     <body>
-        <div class="d-flex justify-content-center flex-column mx-auto pt-2 mt-4 w-50 ">
+        <div class="d-flex justify-content-center flex-column mx-auto mt-4 w-md-50">
             <h3 class="text-center">🏘️ 📱 👋<br>Understanding the Influence of<br>Sharing Communities in Digital Spaces<br>on  Neighbourhood Engagement<br>[DRAFT]</h3>
             <p class='text-center'>
                 <p class="link-secondary text-center" type="button" data-bs-toggle="collapse" data-bs-target="#about" aria-expanded="false" aria-controls="collapseExample">About the Study</p>
             </p>
             <div class="collapse" id="about">
-                <div class="mb-5 text-center">
+                <div class="mb-5 mx-5 text-center">
                   This study was conducted as part of the SUTD MUSPP Research Studio, in collaboration with HDB.
                 </div>
             </div>
         </div>
-        <div class="container">
-            <ul class="nav nav-tabs nav-fill px-5 justify-content-center" id="myTab" role="tablist">
+        <div>
+            <ul class="nav nav-tabs px-md-5 justify-content-center" id="myTab" role="tablist">
                 <li class="nav-item" role="presentation">
                     <button class="nav-link" id="introduction-tab" data-bs-toggle="tab" data-bs-target="#introduction" type="button" role="tab" aria-controls="introduction" aria-selected="true">1) Introduction</button>
                 </li>
@@ -46,15 +46,15 @@
                 </li>
             </ul>
         </div>
-            <div class="container">
-            <div class="tab-content d-flex justify-content-center align-items-center flex-column m-5">
-                <div id='introduction' class='tab-pane fade w-50'>
+            <div class="container-fluid d-flex justify-content-center">
+            <div class="tab-content d-flex justify-content-center align-items-center flex-column m-md-5 px-md-4 my-3 col-md-6 col-11">
+                <div id='introduction' class='tab-pane fade'>
                     <p>This is where the Background, Problem Statement, RQ, will go.</p>
                 </div>
-                <div id='litreview' class='tab-pane fades w-50'>
+                <div id='litreview' class='tab-pane fades'>
                     This is where the lit review will go.
                 </div>
-                <div id='observational' class='tab-pane fades show active w-50'>
+                <div id='observational' class='tab-pane fades show active'>
                     <div style='text-align: justify;'>
                         <p class='fw-bold'>3.1. Method</p>
                         <p>We conducted an observational study on the digital sharing communities centred within three towns in Singapore: Punggol, Toa Payoh, and Jurong.</p>
@@ -66,10 +66,10 @@
                         <p>Based on this selection criteria, we used a combination of keyword matching and snowball sampling to search for these communities online, through the search functions on social media platforms: Facebook, Telegram and Instagram.</p>
                         <p>For keyword matching, we used location names at three levels of place specificity, as well as their combined names:</p>
                         <ul>
-                            <li>Level 1: Town Name, e.g. "Punggol", "Toa Payoh"</li>
-                            <li>Level 2: Estate Name, e.g. "Northshore", "Ave 3"</li>
-                            <li>Level 3: Block Name, e.g. "Blk 42", "512"</li>
-                            <li>Combinations of the above: e.g. "Punggol Oasis", "Toa Payoh Blk 4"</li>
+                            <li><b>Level 1:</b> Town Name, e.g. "Punggol", "Toa Payoh"</li>
+                            <li><b>Level 2:</b> Estate Name, e.g. "Northshore", "Ave 3"</li>
+                            <li><b>Level 3:</b> Block Name, e.g. "Blk 42", "512"</li>
+                            <li><b>Combinations of the above:</b> e.g. "Punggol Oasis", "Toa Payoh Blk 4"</li>
                         </ul>
                         <p>To account for communities that are shared via invite links and not necessarily discoverable on social media platforms, we employed snowball sampling and crawled through the shared links within the communities we found and added found communities that satisfied our selection criteria.</p>
 
@@ -92,8 +92,8 @@
                         
                         <p class='fw-bold mt-4'>3.2.2. Purposes of Digital Sharing Communities</p>
                         <p>We discovered 5 classifications of purposes of digital sharing communities, which we have classified as: Residential, BTO, Interest Group, Groupbuys and Community Markets.</p>
-                        <div class='card-body'>
-                            <ul class=' list-group-flush'>
+                        <div class='card-body py-0'>
+                            <ul class='list-group-flush p-0'>
                                 <li class='list-group-item'><b>Residential:</b> These communities are the most general community, consisting of members from all walks of life, simply associated with the location anchoring the group. Generally, members are residences of the associated place.</li>
                                 <li class='list-group-item'><b>BTO:</b> These communities form when a new BTO site is announced and serves as a common grounds for potential houseowners of the site. Hence, while its members might not currently reside in the location, they represent the potential residences of a place.</li>
                                 <li class='list-group-item'><b>Interest Groups:</b> These communities are constructed around members sharing a common hobby or activity of interest, while at the same time associated to a place.</li>
@@ -109,11 +109,11 @@
 
                         <p class='fw-bold mt-4'>3.2.3. Effect of Place Specificity</p>
                         <p>Place specificity defines the physical boundary of the location associated with the community. We discovered that the communities found could grouped into three levels of place specificity:</p>
-                        <div class='card-body'>
-                            <ul class=' list-group-flush'>
-                                <li class='list-group-item'>Estate-level: The smallest sense of place physically, where the community is associated within a block or estate.</li>
-                                <li class='list-group-item'>Town-level: The community is associated with the town, making no distinction between the estates within the town.</li>
-                                <li class='list-group-item'>Region-level: The largest sense of place physically, where the community is not just associated with the town, but also extends into its neighbouring towns.</li>
+                        <div class='card-body py-0'>
+                            <ul class=' list-group-flush p-0'>
+                                <li class='list-group-item'><b>Estate-level:</b> The smallest sense of place physically, where the community is associated within a block or estate.</li>
+                                <li class='list-group-item'><b>Town-level:</b> The community is associated with the town, making no distinction between the estates within the town.</li>
+                                <li class='list-group-item'><b>Region-level:</b> The largest sense of place physically, where the community is not just associated with the town, but also extends into its neighbouring towns.</li>
                             </ul>
                         </div>
                         <div class='row'>
@@ -135,12 +135,14 @@
                         </div>
                         <p class='fw-bold mt-4'>3.2.4. Effect of Accessibility</p>
                         We were also able to categorise our communities by accessibility using 4 categories:
-                        <ol>
-                            <li><b>Open:</b> Anyone is free to join the community; Non-members are able to see the activities occuring within the community.</li>
-                            <li><b>Open with Verification:</b> Anyone is able to join the community upon answering a simple question, one usually related to the community's purpose; Non-members are able to see the activities occuring within the community.</li>
-                            <li><b>Closed with Permission:</b> One needs to seek permission from the manager of the community before allowed into the community. Non-members are unable to see the activities occuring within the community.</li>
-                            <li><b>Closed with Verification:</b> One needs to produce a verification of their identity and the community's manager verifies that they meet the membership criteria before given membership. Non-members are unable to see the activities occuring within the community.</li>
-                        </ol>
+                        <div class='card-body py-0'>
+                            <ul class=' list-group-flush p-0'>
+                                <li class='list-group-item'><b>Open:</b> Anyone is free to join the community; Non-members are able to see the activities occuring within the community.</li>
+                                <li class='list-group-item'><b>Open with Verification:</b> Anyone is able to join the community upon answering a simple question, one usually related to the community's purpose; Non-members are able to see the activities occuring within the community.</li>
+                                <li class='list-group-item'><b>Closed with Permission:</b> One needs to seek permission from the manager of the community before allowed into the community. Non-members are unable to see the activities occuring within the community.</li>
+                                <li class='list-group-item'><b>Closed with Verification:</b> One needs to produce a verification of their identity and the community's manager verifies that they meet the membership criteria before given membership. Non-members are unable to see the activities occuring within the community.</li>
+                            </ul>
+                        </div>
                         <canvas id='accessibilitySpecificity'></canvas>
                         <br>
                         <canvas id='accessibilitySize'></canvas>
@@ -154,16 +156,16 @@
                         </div>
                     </div>
                 </div>
-                <div id='analysis' class='tab-pane fades w-50'>
+                <div id='analysis' class='tab-pane fades'>
                     This is where the network analysis will go.
                 </div>
-                <div id='interview' class='tab-pane fades w-50'>
+                <div id='interview' class='tab-pane fades'>
                     This is where the interviews will go.
                 </div>
-                <div id='discussion' class='tab-pane fades w-50'>
+                <div id='discussion' class='tab-pane fades'>
                     This is where the discussions will go.
                 </div>
-                <div id='conclusion' class='tab-pane fades w-50'>
+                <div id='conclusion' class='tab-pane fades'>
                     This is where the conclusion will go.
                 </div>
             </div>
