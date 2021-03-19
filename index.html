@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>🏙️ Understanding Digital Sharing Communities</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.7.0"></script>
+        <script src="main.js"></script>
+    </head>
+    <body>
+        <div class="d-flex justify-content-center flex-column mx-auto pt-2 mt-4 w-50 ">
+            <h3 class="text-center">🏘️ 📱 👋<br>Understanding the Influence of<br>Sharing Communities in Digital Spaces<br>on  Neighbourhood Engagement<br>[DRAFT]</h3>
+            <p class='text-center'>
+                <p class="link-secondary text-center" type="button" data-bs-toggle="collapse" data-bs-target="#about" aria-expanded="false" aria-controls="collapseExample">About the Study</p>
+            </p>
+            <div class="collapse" id="about">
+                <div class="mb-5 text-center">
+                  This study was conducted as part of the SUTD MUSPP Research Studio, in collaboration with HDB.
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <ul class="nav nav-tabs nav-fill px-5 justify-content-center" id="myTab" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="introduction-tab" data-bs-toggle="tab" data-bs-target="#introduction" type="button" role="tab" aria-controls="introduction" aria-selected="true">1) Introduction</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="litreview-tab" data-bs-toggle="tab" data-bs-target="#litreview" type="button" role="tab" aria-controls="litreview" aria-selected="false">2) Lit. Review</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="observational-tab" data-bs-toggle="tab" data-bs-target="#observational" type="button" role="tab" aria-controls="observational" aria-selected="false">3) Observational Study</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="analysis-tab" data-bs-toggle="tab" data-bs-target="#analysis" type="button" role="tab" aria-controls="analysis" aria-selected="false">4) Social Network Analysis</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="interview-tab" data-bs-toggle="tab" data-bs-target="#interview" type="button" role="tab" aria-controls="interview" aria-selected="false">5) Interviews</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="discussion-tab" data-bs-toggle="tab" data-bs-target="#discussion" type="button" role="tab" aria-controls="discussion" aria-selected="false">6) Discussions</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="conclusion-tab" data-bs-toggle="tab" data-bs-target="#conclusion" type="button" role="tab" aria-controls="conclusion" aria-selected="false">7) Conclusion</button>
+                </li>
+            </ul>
+        </div>
+            <div class="container">
+            <div class="tab-content d-flex justify-content-center align-items-center flex-column m-5">
+                <div id='introduction' class='tab-pane fade w-50'>
+                    <p>This is where the Background, Problem Statement, RQ, will go.</p>
+                </div>
+                <div id='litreview' class='tab-pane fades w-50'>
+                    This is where the lit review will go.
+                </div>
+                <div id='observational' class='tab-pane fades show active w-50'>
+                    <div style='text-align: justify;'>
+                        <p class='fw-bold'>3.1. Method</p>
+                        <p>We conducted an observational study on the digital sharing communities centred within three towns in Singapore: Punggol, Toa Payoh, and Jurong.</p>
+                        <p>Our selection criteria for a digital sharing community to belong to a town informed our search process to discovering these communities online. We consider a digital sharing community to belong to a town if it has one or more of these characteristics:</p>
+                        <ul>
+                            <li>The community's name includes the town name, or the name of an estate located within the town.</li>
+                            <li>Residence in the town is a prerequisite of community membership.</li>
+                        </ul>
+                        <p>Based on this selection criteria, we used a combination of keyword matching and snowball sampling to search for these communities online, through the search functions on social media platforms: Facebook, Telegram and Instagram.</p>
+                        <p>For keyword matching, we used location names at three levels of place specificity, as well as their combined names:</p>
+                        <ul>
+                            <li>Level 1: Town Name, e.g. "Punggol", "Toa Payoh"</li>
+                            <li>Level 2: Estate Name, e.g. "Northshore", "Ave 3"</li>
+                            <li>Level 3: Block Name, e.g. "Blk 42", "512"</li>
+                            <li>Combinations of the above: e.g. "Punggol Oasis", "Toa Payoh Blk 4"</li>
+                        </ul>
+                        <p>To account for communities that are shared via invite links and not necessarily discoverable on social media platforms, we employed snowball sampling and crawled through the shared links within the communities we found and added found communities that satisfied our selection criteria.</p>
+
+                        <p class='fw-bold mt-4'>3.2. Results</p>
+                        <p class='fw-bold mt-4'>3.2.1. Distribution Across Towns and Platforms</p>
+                        <p>In total, we found 79 instances of digital sharing communities between the three towns.</p>
+                        <div class='row'>
+                            <div class='col-4'>
+                                <canvas id='townDistribution'></canvas>
+                            </div>
+                            <div class='col'>
+                                <p>We observed positive correlation between the number of digital sharing communities and the maturity of the town. Punggol had the highest number of digital sharing communities (n=37) and is also the youngest town of the three.</p>
+                                <p>This could be attributed to the higher digital literacy of Punggol residents, given their younger demographic makeup, with 22% of residents aged 30-39 years old, comparing to 13% in Toa Payoh and 14% in Jurong. (<a id='citation1a' href='#citation1'>Singapore Department of Statistics</a>)</p>
+                            </div>
+                        </div>
+                        <p>Seen in the figure below, among the social media platforms, Facebook and Telegram emerge as platforms that best facilitate the discovery of digital sharing communities. WhatsApp communities were the least discoverable as the platform does not offer a search function, and entry into the community requires invite links. The communities we did find had promoted their invite links on the other social platforms. Instagram is popularly used for such promotion. Community accounts on Instagram rarely use the platform for community engagement, but as an advertising medium, to direct people towards their actual community hosted on a another social platform.</p>
+                        <canvas id='platformDistribution'></canvas>
+                        By looking at when these groups were created, we can also observe a trend in platform preferences. While Facebook was the popular platform for many initial digital sharing communities, Telegram has been gaining popularity in the recent years.
+                        <canvas id='platformTimeSeries'></canvas>
+                        
+                        <p class='fw-bold mt-4'>3.2.2. Purposes of Digital Sharing Communities</p>
+                        <p>We discovered 5 classifications of purposes of digital sharing communities, which we have classified as: Residential, BTO, Interest Group, Groupbuys and Community Markets.</p>
+                        <div class='card-body'>
+                            <ul class=' list-group-flush'>
+                                <li class='list-group-item'><b>Residential:</b> These communities are the most general community, consisting of members from all walks of life, simply associated with the location anchoring the group. Generally, members are residences of the associated place.</li>
+                                <li class='list-group-item'><b>BTO:</b> These communities form when a new BTO site is announced and serves as a common grounds for potential houseowners of the site. Hence, while its members might not currently reside in the location, they represent the potential residences of a place.</li>
+                                <li class='list-group-item'><b>Interest Groups:</b> These communities are constructed around members sharing a common hobby or activity of interest, while at the same time associated to a place.</li>
+                                <li class='list-group-item'><b>Groupbuys:</b> These communities are primarily commerce driven, often of purchasing and collection of groceries and household items. Its members seek to benefit by pooling orders together in order to purchase in bulk at a cheaper price.</li>
+                                <li class='list-group-item'><b>Community Markets:</b> These communities are primarily commerce driven, often of the informal purchase and selling of second-hand goods.</li>
+                            </ul>
+                        </div>
+                        <p>The distribution of these different communities across the three towns can be seen in this figure.</p>
+                        <canvas id='purposeDistribution'></canvas>
+                        <p>Residential and Groupbuys were the most frequent communities observed, a characteristic observed in all three towns. This makese sense as these communities are relevant to the largest proportion of residents, while BTO and Interst Groups communities are composed of more specific demographics.</p>
+                        <canvas id='purposeTimeSeries'></canvas>
+                        <p>By looking at when these communities were created along the years, we can also observe that while Residential communities have been around for a while, Groupbuys are a more recent phenomenon, experiencing sharp growth in 2020.</p>
+
+                        <p class='fw-bold mt-4'>3.2.3. Effect of Place Specificity</p>
+                        <p>Place specificity defines the physical boundary of the location associated with the community. We discovered that the communities found could grouped into three levels of place specificity:</p>
+                        <div class='card-body'>
+                            <ul class=' list-group-flush'>
+                                <li class='list-group-item'>Estate-level: The smallest sense of place physically, where the community is associated within a block or estate.</li>
+                                <li class='list-group-item'>Town-level: The community is associated with the town, making no distinction between the estates within the town.</li>
+                                <li class='list-group-item'>Region-level: The largest sense of place physically, where the community is not just associated with the town, but also extends into its neighbouring towns.</li>
+                            </ul>
+                        </div>
+                        <div class='row'>
+                            <div class='col-6'>
+                                <p>When we break down the communities by their place specificity, i.e. the physical bounded location that is associated with the community, we see that Punggol has the highest number of estate-level communitis, while Toa Payoh and Jurong have more town-level communities.</p>
+                                <p>One possible reason for this is that the younger demographic of Punggol residents might prefer smaller communities. Small communities are easier to manage and more capable of fostering stronger neighbourly ties.</p>
+                            </div>
+                            <div class='col-6'>
+                                <canvas id='placeSpecificityGroup'></canvas>
+                            </div>
+                        </div>
+                        <div class='row'>
+                            <div class='col-6'>
+                                <canvas id='placeSpecificityMember'></canvas>
+                            </div>
+                            <div class='col-6'>
+                                <p>However, when we look at the mean size of these communities, it becomes apparent that generally, the size of the community scales as it is associated to a broader location. This makes sense as more residents would identify with the location associated with the community. Hence, region-level communities are able to reach a wider group of people, while estate-level communities are smaller and more diverse.</p>
+                            </div>
+                        </div>
+                        <p class='fw-bold mt-4'>3.2.4. Effect of Accessibility</p>
+                        We were also able to categorise our communities by accessibility using 4 categories:
+                        <ol>
+                            <li><b>Open:</b> Anyone is free to join the community; Non-members are able to see the activities occuring within the community.</li>
+                            <li><b>Open with Verification:</b> Anyone is able to join the community upon answering a simple question, one usually related to the community's purpose; Non-members are able to see the activities occuring within the community.</li>
+                            <li><b>Closed with Permission:</b> One needs to seek permission from the manager of the community before allowed into the community. Non-members are unable to see the activities occuring within the community.</li>
+                            <li><b>Closed with Verification:</b> One needs to produce a verification of their identity and the community's manager verifies that they meet the membership criteria before given membership. Non-members are unable to see the activities occuring within the community.</li>
+                        </ol>
+                        <canvas id='accessibilitySpecificity'></canvas>
+                        <br>
+                        <canvas id='accessibilitySize'></canvas>
+
+                        <p>[more to be added...]</p>
+                        <div class='pt-3 mt-5 border-top border-secondary border-bottom pb-5'>
+                            <p class='fw-bold'>References</p>
+                            <div>
+                                <span class='ps-4'>[<a id='citation1' href='#citation1a'>1</a>]</span> Singapore Department of Statistics. 2020. (<a href="https://www.singstat.gov.sg/">Source</a>)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id='analysis' class='tab-pane fades w-50'>
+                    This is where the network analysis will go.
+                </div>
+                <div id='interview' class='tab-pane fades w-50'>
+                    This is where the interviews will go.
+                </div>
+                <div id='discussion' class='tab-pane fades w-50'>
+                    This is where the discussions will go.
+                </div>
+                <div id='conclusion' class='tab-pane fades w-50'>
+                    This is where the conclusion will go.
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+
