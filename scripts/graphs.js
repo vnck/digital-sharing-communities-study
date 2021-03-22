@@ -67,19 +67,19 @@ let f = (s) => {
 }
 
 sigma.parsers.gexf(
-'PunggolBTO.gexf',
-{
-    container: 'punggolbto-container'
-},s => f(s));
+    'graphs/PunggolBTO.gexf',
+    {
+        container: 'punggolbto-container'
+    },s => f(s));
 
 sigma.parsers.gexf(
-    'PunggolResidential.gexf',
+    'graphs/PunggolResidential.gexf',
     {
         container: 'punggolresidential-container'
     },s => f(s));
 
-    sigma.parsers.gexf(
-        'JurongResidential.gexf',
-        {
-            container: 'jurongresidential-container'
-        },s => f(s));
+sigma.parsers.gexf(
+    'graphs/JurongResidential.gexf',
+    {
+        container: 'jurongresidential-container'
+    },s => f(s));
