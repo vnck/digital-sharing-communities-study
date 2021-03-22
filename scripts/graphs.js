@@ -83,3 +83,21 @@ sigma.parsers.gexf(
     {
         container: 'jurongresidential-container'
     },s => f(s));
+
+sigma.parsers.gexf(
+    'graphs/JurongBTO.gexf',
+    {
+        container: 'jurongbto-container'
+    },s => f(s));
+
+sigma.parsers.gexf(
+    'graphs/ToaPayohResidential.gexf',
+    {
+        container: 'toapayohresidential-container'
+    },s => f(s));
+
+sigma.parsers.gexf(
+    'graphs/ToaPayohBTO.gexf',
+    {
+        container: 'toapayohbto-container'
+    },s => f(s));
