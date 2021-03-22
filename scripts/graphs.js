@@ -1,8 +1,6 @@
 window.onload = () => {
     sigma.settings.minArrowSize = 25;
 
-    console.log(sigma.settings);
-
     sigma.classes.graph.addMethod('neighbors', function(nodeId) {
         var k,
             neighbors = {},
@@ -17,7 +15,6 @@ window.onload = () => {
     let f = (s) => {
         // We first need to save the original colors of our
         // nodes and edges, like this:
-        console.log(s.graph.edges());
         s.graph.nodes().forEach(function(n) {
             n.originalColor = n.color;
         });
