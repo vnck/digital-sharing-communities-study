@@ -1,4 +1,4 @@
-window.onload = () => {
+window.onloadFuncs.push(() => {
     sigma.settings.minArrowSize = 25;
 
     sigma.classes.graph.addMethod('neighbors', function(nodeId) {
@@ -170,4 +170,4 @@ window.onload = () => {
             }
         }),
         s => f(s));
-}
+});
