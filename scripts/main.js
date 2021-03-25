@@ -1,4 +1,5 @@
 window.onload = () => {
+    
     Chart.plugins.register(ChartDataLabels);
     Chart.helpers.merge(Chart.defaults.global.plugins.datalabels, {
         color: '#111111',
