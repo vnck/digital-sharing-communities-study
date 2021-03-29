@@ -69,6 +69,8 @@ window.onloadFuncs.push(() => {
         s.refresh();
         });
     }
+
+    document.getElementById('analysis-tab').addEventListener('click', () => {
     sigma.parsers.gexf(
         'graphs/PunggolBTO.gexf',
         new sigma({
@@ -170,4 +172,4 @@ window.onloadFuncs.push(() => {
             }
         }),
         s => f(s));
-});
+    })});

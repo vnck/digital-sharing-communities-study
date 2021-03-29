@@ -15,7 +15,7 @@ window.onloadFuncs.push(() => {
                 labels: ['Punggol', 'Toa Payoh', 'Jurong'],
                 datasets: [{
                     label: '',
-                    data: [37,17,25],
+                    data: [37,18,26],
                     backgroundColor: [
                         'mediumslateblue','salmon','mediumseagreen'
                     ],
@@ -36,7 +36,7 @@ window.onloadFuncs.push(() => {
                 },
                 title: {
                     display: true,
-                    text: 'No. of Digital Sharing Communities'
+                    text: 'Figure 1: Distribution of Digital Communities across Towns'
                 }
             }
         }
@@ -49,7 +49,7 @@ window.onloadFuncs.push(() => {
                 labels: ['Punggol', 'Toa Payoh', 'Jurong'],
                 datasets: [{
                     label: 'Facebook',
-                    data: [17,6,6],
+                    data: [17,7,7],
                     backgroundColor: [
                         'royalblue','royalblue','royalblue'
                     ],
@@ -86,7 +86,7 @@ window.onloadFuncs.push(() => {
                 },
                 title: {
                     display: true,
-                    text: 'Distribution of Communities across Platforms'
+                    text: 'Figure 2: Distribution of Digital Communities across Platforms'
                 },
                 tooltips: {
                     mode: 'label',
@@ -122,7 +122,7 @@ window.onloadFuncs.push(() => {
                 labels: [2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021],
                 datasets: [{
                     label: 'Facebook',
-                    data: [1,1,1,1,1,1,'',4,5,3,3,'',8,''],
+                    data: [1,1,1,1,1,1,'',4,6,3,3,1,8,''],
                     backgroundColor: 'royalblue',
                     borderColor: 'royalblue',
                     fill: false,
@@ -152,7 +152,7 @@ window.onloadFuncs.push(() => {
             options: {
                 title: {
                     display: true,
-                    text: 'Year of Creation of Digital Sharing Communities'
+                    text: 'Figure 3: Year of Creation of Digital Sharing Communities'
                 },
             }
         }
@@ -177,7 +177,7 @@ window.onloadFuncs.push(() => {
                     ],
                 }, {
                     label: 'Interest Group',
-                    data: [5,4,3],
+                    data: [5,5,3],
                     backgroundColor: [
                         'plum','plum','plum'
                     ],
@@ -189,7 +189,7 @@ window.onloadFuncs.push(() => {
                     ],
                 }, {
                     label: 'Community Market',
-                    data: [1,'',2],
+                    data: [1,'',3],
                     backgroundColor: [
                         'sandybrown','sandybrown','sandybrown'
                     ],
@@ -208,7 +208,7 @@ window.onloadFuncs.push(() => {
                 },
                 title: {
                     display: true,
-                    text: 'Distribution of Community Purpose across Towns'
+                    text: 'Figure 4: Distribution of Community Purpose across Towns'
                 },
                 tooltips: {
                     mode: 'label',
@@ -281,7 +281,7 @@ window.onloadFuncs.push(() => {
             options: {
                 title: {
                     display: true,
-                    text: 'Year of Creation of Digital Sharing Communities'
+                    text: 'Figure 5: Year of Creation of Digital Sharing Communities'
                 },
             }
         }
@@ -300,7 +300,7 @@ window.onloadFuncs.push(() => {
                     ],
                 }, {
                     label: 'Town',
-                    data: [7, 11, 14],
+                    data: [7, 12, 15],
                     backgroundColor: [
                         'mediumpurple','mediumpurple','mediumpurple'
                     ],
@@ -322,7 +322,7 @@ window.onloadFuncs.push(() => {
                 }]},
                 title: {
                     display: true,
-                    text: 'Distribution of Communities by Place Specificity'
+                    text: 'Figure 6: Distribution of Communities by Place Specificity'
                 }
             }
         }
@@ -341,7 +341,7 @@ window.onloadFuncs.push(() => {
                     ],
                 }, {
                     label: 'Town',
-                    data: [1342, 280, 436],
+                    data: [1342, 283, 746],
                     backgroundColor: [
                         'mediumpurple','mediumpurple','mediumpurple'
                     ],
@@ -364,7 +364,7 @@ window.onloadFuncs.push(() => {
                 },
                 title: {
                     display: true,
-                    text: 'Mean Size of Communities by Place Specificity'
+                    text: 'Figure 7: Mean Size of Communities by Place Specificity'
                 }
             }
         }
@@ -377,13 +377,13 @@ window.onloadFuncs.push(() => {
                 labels: ['Estate', 'Town', 'Region'],
                 datasets: [{
                     label: 'Open',
-                    data: [18, 26, 8],
+                    data: [18, 28, 8],
                     backgroundColor: [
                         'mediumaquamarine','mediumaquamarine','mediumaquamarine'
                     ],
                 }, {
                     label: 'Open with Verification',
-                    data: [9, 1, 2],
+                    data: [2, 1, 1],
                     backgroundColor: [
                         'mediumseagreen','mediumseagreen','mediumseagreen'
                     ],
@@ -395,7 +395,7 @@ window.onloadFuncs.push(() => {
                     ],
                 }, {
                     label: 'Closed with Verification',
-                    data: [9, 0, 1],
+                    data: [9,'',''],
                     backgroundColor: [
                         'orangered','orangered','orangered'
                     ],
@@ -411,7 +411,7 @@ window.onloadFuncs.push(() => {
                 }]},
                 title: {
                     display: true,
-                    text: 'No. of Communities by Place Specificity and Accessibility'
+                    text: 'Figure 8: No. of Communities by Place Specificity and Accessibility'
                 },
                 tooltips: {
                     mode: 'label',
@@ -447,7 +447,7 @@ window.onloadFuncs.push(() => {
                 labels: ['Estate', 'Town', 'Region'],
                 datasets: [{
                     label: 'Open',
-                    data: [532, 638, 2105],
+                    data: [532, 786, 2105],
                     backgroundColor: [
                         'mediumaquamarine','mediumaquamarine','mediumaquamarine'
                     ],
@@ -481,7 +481,7 @@ window.onloadFuncs.push(() => {
                 }]},
                 title: {
                     display: true,
-                    text: 'Mean Size of Communities by Place Specificity and Accessibility'
+                    text: 'Figure 9: Mean Size of Communities by Place Specificity and Accessibility'
                 },
                 tooltips: {
                     mode: 'label',
@@ -504,6 +504,73 @@ window.onloadFuncs.push(() => {
                     datalabels: {
                       align: 'right',
                       offset: 0
+                    }
+                }
+            }
+        }
+    )
+
+    let purposeOrg = new Chart(
+        document.getElementById('purposeOrg').getContext('2d'), {
+            type: 'horizontalBar',
+            data: {
+                labels: ['BTO', 'Residential', 'Groupbuy', 'Interest Group','Community Market'],
+                datasets: [{
+                    label: 'Flat Hierarchy',
+                    data: [9,15,2,8,2],
+                    backgroundColor: [
+                        'mediumaquamarine','mediumaquamarine','mediumaquamarine','mediumaquamarine','mediumaquamarine'
+                    ],
+                }, {
+                    label: 'Hierarchical',
+                    data: [8,1,7,5,2],
+                    backgroundColor: [
+                        'orange','orange','orange','orange','orange'
+                    ],
+                }, {
+                    label: 'One-Way',
+                    data: ['',8,13,'',''],
+                    backgroundColor: [
+                        'orangered','orangered','orangered','orangered','orangered'
+                    ],
+                }]
+            },
+            options: {
+                aspectRatio: 2.6,
+                scales: {
+                    xAxes: [{
+                        ticks: {
+                            beginAtZero: true,
+                        },
+                        stacked: true,
+                    }],
+                    yAxes: [{stacked: true}],
+                },
+                title: {
+                    display: true,
+                    text: 'Figure 10: Organisation Structure of Communities by Purpose'
+                },
+                tooltips: {
+                    mode: 'label',
+                    callbacks: {
+                        afterTitle: function() {
+                            window.total = 0;
+                        },
+                        label: function(tooltipItem, data) {
+                            var corporation = data.datasets[tooltipItem.datasetIndex].label;
+                            var valor = data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index];
+                            window.total += valor;
+                            return corporation + ": " + valor.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");             
+                        },
+                        footer: function() {
+                            return "Total: " + window.total.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+                        }
+                    }
+                },
+                plugins: {
+                    datalabels: {
+                        align: 'left',
+                        offset: -1
                     }
                 }
             }
