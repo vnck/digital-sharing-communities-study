@@ -1,0 +1,454 @@
+{
+    "nodes": [
+        {
+            "id": 40,
+            "modularity_class": 2,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 17,
+            "modularity_class": 2,
+            "eigencentrality": 0.010407,
+            "outdegree": 1
+        },
+        {
+            "id": 22,
+            "modularity_class": 2,
+            "eigencentrality": 0.0,
+            "outdegree": 2
+        },
+        {
+            "id": 6,
+            "modularity_class": 2,
+            "eigencentrality": 0.010407,
+            "outdegree": 0
+        },
+        {
+            "id": 33,
+            "modularity_class": 2,
+            "eigencentrality": 0.071905,
+            "outdegree": 0
+        },
+        {
+            "id": 45,
+            "modularity_class": 5,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 32,
+            "modularity_class": 5,
+            "eigencentrality": 0.010407,
+            "outdegree": 0
+        },
+        {
+            "id": 38,
+            "modularity_class": 6,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 47,
+            "modularity_class": 6,
+            "eigencentrality": 0.010407,
+            "outdegree": 0
+        },
+        {
+            "id": 9,
+            "modularity_class": 7,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 18,
+            "modularity_class": 7,
+            "eigencentrality": 0.010407,
+            "outdegree": 2
+        },
+        {
+            "id": 7,
+            "modularity_class": 9,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 5,
+            "modularity_class": 9,
+            "eigencentrality": 0.010407,
+            "outdegree": 0
+        },
+        {
+            "id": 12,
+            "modularity_class": 10,
+            "eigencentrality": 0.010407,
+            "outdegree": 1
+        },
+        {
+            "id": 13,
+            "modularity_class": 10,
+            "eigencentrality": 0.071905,
+            "outdegree": 0
+        },
+        {
+            "id": 43,
+            "modularity_class": 10,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 20,
+            "modularity_class": 11,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 1,
+            "modularity_class": 11,
+            "eigencentrality": 0.010407,
+            "outdegree": 0
+        },
+        {
+            "id": 31,
+            "modularity_class": 12,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 2,
+            "modularity_class": 12,
+            "eigencentrality": 0.010407,
+            "outdegree": 0
+        },
+        {
+            "id": 15,
+            "modularity_class": 7,
+            "eigencentrality": 0.061498,
+            "outdegree": 0
+        },
+        {
+            "id": 24,
+            "modularity_class": 13,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 21,
+            "modularity_class": 13,
+            "eigencentrality": 0.010407,
+            "outdegree": 0
+        },
+        {
+            "id": 39,
+            "modularity_class": 14,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 34,
+            "modularity_class": 14,
+            "eigencentrality": 0.010407,
+            "outdegree": 0
+        },
+        {
+            "id": 27,
+            "modularity_class": 15,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 4,
+            "modularity_class": 15,
+            "eigencentrality": 0.010407,
+            "outdegree": 0
+        },
+        {
+            "id": 23,
+            "modularity_class": 7,
+            "eigencentrality": 0.061498,
+            "outdegree": 0
+        },
+        {
+            "id": 41,
+            "modularity_class": 18,
+            "eigencentrality": 0.989593,
+            "outdegree": 2
+        },
+        {
+            "id": 37,
+            "modularity_class": 18,
+            "eigencentrality": 0.989593,
+            "outdegree": 1
+        },
+        {
+            "id": 26,
+            "modularity_class": 16,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 36,
+            "modularity_class": 16,
+            "eigencentrality": 0.010407,
+            "outdegree": 0
+        },
+        {
+            "id": 29,
+            "modularity_class": 18,
+            "eigencentrality": 1.0,
+            "outdegree": 0
+        },
+        {
+            "id": 35,
+            "modularity_class": 18,
+            "eigencentrality": 0.0,
+            "outdegree": 3
+        },
+        {
+            "id": 25,
+            "modularity_class": 10,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 42,
+            "modularity_class": 19,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 11,
+            "modularity_class": 19,
+            "eigencentrality": 0.010407,
+            "outdegree": 1
+        },
+        {
+            "id": 8,
+            "modularity_class": 19,
+            "eigencentrality": 0.061498,
+            "outdegree": 0
+        },
+        {
+            "id": 19,
+            "modularity_class": 18,
+            "eigencentrality": 0.010407,
+            "outdegree": 0
+        },
+        {
+            "id": 14,
+            "modularity_class": 18,
+            "eigencentrality": 0.010407,
+            "outdegree": 0
+        },
+        {
+            "id": 44,
+            "modularity_class": 20,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 28,
+            "modularity_class": 20,
+            "eigencentrality": 0.010407,
+            "outdegree": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 40,
+            "target": 17,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 22,
+            "target": 6,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 17,
+            "target": 33,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 22,
+            "target": 33,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 45,
+            "target": 32,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 38,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 9,
+            "target": 18,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 7,
+            "target": 5,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 43,
+            "target": 12,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 20,
+            "target": 1,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 31,
+            "target": 2,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 18,
+            "target": 15,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 24,
+            "target": 21,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 39,
+            "target": 34,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 27,
+            "target": 4,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 18,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 41,
+            "target": 37,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 37,
+            "target": 41,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 26,
+            "target": 36,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 41,
+            "target": 29,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 35,
+            "target": 29,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 25,
+            "target": 13,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 42,
+            "target": 11,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 11,
+            "target": 8,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 35,
+            "target": 19,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 35,
+            "target": 14,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 44,
+            "target": 28,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        }
+    ]
+}

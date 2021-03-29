@@ -12,10 +12,13 @@
         <!-- sigma.js -->
         <script src="scripts/sigma.min.js"></script>
         <script src="scripts/sigma.parsers.gexf.min.js"></script>
+        <!-- d3.js -->
+        <script src="https://d3js.org/d3.v6.min.js"></script>
         <!-- my scripts -->
         <script src="scripts/main.js"></script>
         <script src="scripts/observational-charts.js"></script>
         <script src="scripts/socialnetwork-graphs.js"></script>
+        <script src="scripts/d3-graphs.js"></script>
     </head>
     <body>
         <div class="d-flex justify-content-center flex-column mx-auto mt-4 w-md-50">
@@ -274,47 +277,53 @@
                             <caption>Figure 11. Selected Digital Communities for Social Network Analysis</caption>
                         </table>
                         <p class='fw-bold mt-4'>4.2.2. Network Visualisation</p>
+                        We used the open-source GEPHI network visualisation software to analyse our social networks. To discover community structures within our social networks, we partitioned the users using modularity classes. Modularity produces clusters by looking for nodes that are more connected together than the rest of the network. We also measured the out-degree of each node to identify active users who engage with a wider proportion of their community.
                         <p class='fw-bold mt-4'>4.3. Network Visualisatins</p>
                         <p>Legend:</p>
                         <ul>
                             <li>Each node is a community member.</li>
                             <li>Node Color corresponds to clustering defined by modularity.</li>
-                            <li>Node Size corresponds to eigenvector centrality.</li>
+                            <li>Node Size corresponds to out-degree.</li>
                             <li>Edge Color corresponds to type of interaction:</li>
                             <ul>
-                                <li><span style='color: blue;'>Blue</span> ➡️ : Text Message</li>
-                                <li><span style='color: green;'>Green</span> ➡️ : Added Member</li>
-                                <li><span style='color: red;'>Red</span> ➡️ : Removed Member</li>
+                                <li><span style='color: dodgerblue;'>Blue</span> ➡️ : Text Message</li>
+                                <li><span style='color: mediumaquamarine;'>Green</span> ➡️ : Added Member</li>
+                                <li><span style='color: tomato;'>Red</span> ➡️ : Removed Member</li>
                             </ul>
                             <li>Edge Thickness corresponds to relative number of interactions.</li>
                         </ul>
                     </div>
                     <div class="d-flex flex-column align-items-center">
                         <div class="mb-5">
-                            <p class='text-center fw-bold m-1'>Punggol BTO</p>
-                            <div id="punggolbto-container" style="border: 1px solid black; height: 360px; width:600px;"></div>
+                            <svg style="border: 1px solid black;" id='graph1'></svg>
+                            <p class='figure-caption'>Figure 11: Punggol BTO</p>
                         </div>
                         <div class="mb-5">
-                            <p class='text-center fw-bold m-1'>Punggol Residential</p>
-                            <div id="punggolresidential-container" style="border: 1px solid black; height: 360px; width:600px;"></div>
+                            <svg style="border: 1px solid black;" id='graph2'></svg>
+                            <p class='figure-caption'>Figure 12: Punggol Residential</p>
                         </div>
                         <div class="mb-5">
-                            <p class='text-center fw-bold m-1'>Jurong Residential</p>
-                            <div id="jurongresidential-container" style="border: 1px solid black; height: 360px; width:600px;"></div>
+                            <svg style="border: 1px solid black;" id='graph3'></svg>
+                            <p class='figure-caption'>Figure 13: Jurong BTO</p>
                         </div>
                         <div class="mb-5">
-                            <p class='text-center fw-bold m-1'>Jurong BTO</p>
-                            <div id="jurongbto-container" style="border: 1px solid black; height: 360px; width:600px;"></div>
+                            <svg style="border: 1px solid black;" id='graph4'></svg>
+                            <p class='figure-caption'>Figure 14: Jurong Residential</p>
                         </div>
                         <div class="mb-5">
-                            <p class='text-center fw-bold m-1'>Toa Payoh Residential</p>
-                            <div id="toapayohresidential-container" style="border: 1px solid black; height: 360px; width:600px;"></div>
+                            <svg style="border: 1px solid black;" id='graph5'></svg>
+                            <p class='figure-caption'>Figure 15: Toa Payoh BTO</p>
                         </div>
                         <div class="mb-5">
-                            <p class='text-center fw-bold m-1'>Toa Payoh BTO</p>
-                            <div id="toapayohbto-container" style="border: 1px solid black; height: 360px; width:600px;"></div>
+                            <svg style="border: 1px solid black;" id='graph6'></svg>
+                            <p class='figure-caption'>Figure 16: Toa Payoh Residential</p>
                         </div>
                     </div>
+                    <p class='fw-bold mt-4'>4.4. Findings</p>
+                    <p class='fw-bold mt-4'>4.4.1. Super-members</p>
+                    <p>Within 5 of the 6 communities studied, there exists a community members with high out-degree and in-degree. For example, user 118 in Punggol BTO group with out-degree=140 and in-degree=108. We label these users as 'super-members', which are characterised by two-way communication with a large proportion of their community. These super-members serve as an anchor into the community for other members.</p>
+                    <p class='fw-bold mt-4'>4.4.2. Self-invitatin</p>
+                    <p>We discovered that majority of the interactions on the platform were text replies. We can infer that members of these communities came to be through a process of self-discovery as opposed to invitation.</p>
                 </div>
                 <div id='interview' class='tab-pane fades'>
                     This is where the interviews will go.

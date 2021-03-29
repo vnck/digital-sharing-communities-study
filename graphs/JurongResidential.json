@@ -1,0 +1,4485 @@
+{
+    "nodes": [
+        {
+            "id": 23,
+            "modularity_class": 1,
+            "eigencentrality": 1.0,
+            "outdegree": 28
+        },
+        {
+            "id": 16,
+            "modularity_class": 1,
+            "eigencentrality": 0.908089,
+            "outdegree": 32
+        },
+        {
+            "id": 54,
+            "modularity_class": 1,
+            "eigencentrality": 0.980207,
+            "outdegree": 26
+        },
+        {
+            "id": 60,
+            "modularity_class": 1,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 94,
+            "modularity_class": 1,
+            "eigencentrality": 0.060118,
+            "outdegree": 1
+        },
+        {
+            "id": 20,
+            "modularity_class": 1,
+            "eigencentrality": 0.629684,
+            "outdegree": 14
+        },
+        {
+            "id": 61,
+            "modularity_class": 1,
+            "eigencentrality": 0.582944,
+            "outdegree": 14
+        },
+        {
+            "id": 48,
+            "modularity_class": 1,
+            "eigencentrality": 0.006117,
+            "outdegree": 2
+        },
+        {
+            "id": 7,
+            "modularity_class": 1,
+            "eigencentrality": 0.080012,
+            "outdegree": 4
+        },
+        {
+            "id": 106,
+            "modularity_class": 1,
+            "eigencentrality": 0.184847,
+            "outdegree": 3
+        },
+        {
+            "id": 90,
+            "modularity_class": 1,
+            "eigencentrality": 0.743505,
+            "outdegree": 23
+        },
+        {
+            "id": 89,
+            "modularity_class": 1,
+            "eigencentrality": 0.048815,
+            "outdegree": 0
+        },
+        {
+            "id": 19,
+            "modularity_class": 0,
+            "eigencentrality": 0.0,
+            "outdegree": 2
+        },
+        {
+            "id": 102,
+            "modularity_class": 0,
+            "eigencentrality": 0.000661,
+            "outdegree": 0
+        },
+        {
+            "id": 5,
+            "modularity_class": 0,
+            "eigencentrality": 0.000661,
+            "outdegree": 0
+        },
+        {
+            "id": 101,
+            "modularity_class": 1,
+            "eigencentrality": 0.123481,
+            "outdegree": 4
+        },
+        {
+            "id": 105,
+            "modularity_class": 1,
+            "eigencentrality": 0.848066,
+            "outdegree": 19
+        },
+        {
+            "id": 72,
+            "modularity_class": 1,
+            "eigencentrality": 0.207304,
+            "outdegree": 5
+        },
+        {
+            "id": 28,
+            "modularity_class": 1,
+            "eigencentrality": 0.686124,
+            "outdegree": 14
+        },
+        {
+            "id": 95,
+            "modularity_class": 1,
+            "eigencentrality": 0.172767,
+            "outdegree": 4
+        },
+        {
+            "id": 77,
+            "modularity_class": 1,
+            "eigencentrality": 0.73563,
+            "outdegree": 12
+        },
+        {
+            "id": 64,
+            "modularity_class": 1,
+            "eigencentrality": 0.995124,
+            "outdegree": 25
+        },
+        {
+            "id": 55,
+            "modularity_class": 1,
+            "eigencentrality": 0.457672,
+            "outdegree": 6
+        },
+        {
+            "id": 96,
+            "modularity_class": 1,
+            "eigencentrality": 0.756094,
+            "outdegree": 19
+        },
+        {
+            "id": 47,
+            "modularity_class": 1,
+            "eigencentrality": 0.762814,
+            "outdegree": 8
+        },
+        {
+            "id": 21,
+            "modularity_class": 1,
+            "eigencentrality": 0.168544,
+            "outdegree": 3
+        },
+        {
+            "id": 24,
+            "modularity_class": 1,
+            "eigencentrality": 0.652006,
+            "outdegree": 15
+        },
+        {
+            "id": 44,
+            "modularity_class": 1,
+            "eigencentrality": 0.140127,
+            "outdegree": 3
+        },
+        {
+            "id": 26,
+            "modularity_class": 1,
+            "eigencentrality": 0.131167,
+            "outdegree": 1
+        },
+        {
+            "id": 79,
+            "modularity_class": 1,
+            "eigencentrality": 0.328657,
+            "outdegree": 6
+        },
+        {
+            "id": 104,
+            "modularity_class": 1,
+            "eigencentrality": 0.697598,
+            "outdegree": 15
+        },
+        {
+            "id": 123,
+            "modularity_class": 1,
+            "eigencentrality": 0.722721,
+            "outdegree": 13
+        },
+        {
+            "id": 49,
+            "modularity_class": 1,
+            "eigencentrality": 0.049357,
+            "outdegree": 0
+        },
+        {
+            "id": 57,
+            "modularity_class": 1,
+            "eigencentrality": 0.131167,
+            "outdegree": 4
+        },
+        {
+            "id": 32,
+            "modularity_class": 1,
+            "eigencentrality": 0.583753,
+            "outdegree": 11
+        },
+        {
+            "id": 59,
+            "modularity_class": 1,
+            "eigencentrality": 0.184404,
+            "outdegree": 1
+        },
+        {
+            "id": 118,
+            "modularity_class": 1,
+            "eigencentrality": 0.876372,
+            "outdegree": 18
+        },
+        {
+            "id": 81,
+            "modularity_class": 1,
+            "eigencentrality": 0.636939,
+            "outdegree": 16
+        },
+        {
+            "id": 100,
+            "modularity_class": 1,
+            "eigencentrality": 0.041757,
+            "outdegree": 2
+        },
+        {
+            "id": 34,
+            "modularity_class": 1,
+            "eigencentrality": 0.041757,
+            "outdegree": 1
+        },
+        {
+            "id": 35,
+            "modularity_class": 1,
+            "eigencentrality": 0.0,
+            "outdegree": 2
+        },
+        {
+            "id": 39,
+            "modularity_class": 1,
+            "eigencentrality": 0.170212,
+            "outdegree": 1
+        },
+        {
+            "id": 27,
+            "modularity_class": 1,
+            "eigencentrality": 0.113736,
+            "outdegree": 3
+        },
+        {
+            "id": 107,
+            "modularity_class": 1,
+            "eigencentrality": 0.063834,
+            "outdegree": 0
+        },
+        {
+            "id": 111,
+            "modularity_class": 1,
+            "eigencentrality": 0.060118,
+            "outdegree": 2
+        },
+        {
+            "id": 31,
+            "modularity_class": 1,
+            "eigencentrality": 0.004571,
+            "outdegree": 0
+        },
+        {
+            "id": 91,
+            "modularity_class": 1,
+            "eigencentrality": 0.060975,
+            "outdegree": 0
+        },
+        {
+            "id": 10,
+            "modularity_class": 1,
+            "eigencentrality": 0.000661,
+            "outdegree": 1
+        },
+        {
+            "id": 46,
+            "modularity_class": 1,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 25,
+            "modularity_class": 1,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 110,
+            "modularity_class": 1,
+            "eigencentrality": 0.065167,
+            "outdegree": 1
+        },
+        {
+            "id": 30,
+            "modularity_class": 1,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 56,
+            "modularity_class": 1,
+            "eigencentrality": 0.126244,
+            "outdegree": 1
+        },
+        {
+            "id": 41,
+            "modularity_class": 1,
+            "eigencentrality": 0.060118,
+            "outdegree": 0
+        },
+        {
+            "id": 97,
+            "modularity_class": 1,
+            "eigencentrality": 0.048815,
+            "outdegree": 0
+        },
+        {
+            "id": 8,
+            "modularity_class": 4,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 83,
+            "modularity_class": 4,
+            "eigencentrality": 0.034869,
+            "outdegree": 9
+        },
+        {
+            "id": 120,
+            "modularity_class": 4,
+            "eigencentrality": 0.065352,
+            "outdegree": 1
+        },
+        {
+            "id": 85,
+            "modularity_class": 4,
+            "eigencentrality": 0.071658,
+            "outdegree": 3
+        },
+        {
+            "id": 76,
+            "modularity_class": 4,
+            "eigencentrality": 0.005234,
+            "outdegree": 2
+        },
+        {
+            "id": 52,
+            "modularity_class": 4,
+            "eigencentrality": 0.019302,
+            "outdegree": 7
+        },
+        {
+            "id": 42,
+            "modularity_class": 4,
+            "eigencentrality": 0.011497,
+            "outdegree": 0
+        },
+        {
+            "id": 74,
+            "modularity_class": 4,
+            "eigencentrality": 0.005234,
+            "outdegree": 1
+        },
+        {
+            "id": 33,
+            "modularity_class": 4,
+            "eigencentrality": 0.013761,
+            "outdegree": 2
+        },
+        {
+            "id": 70,
+            "modularity_class": 4,
+            "eigencentrality": 0.018279,
+            "outdegree": 0
+        },
+        {
+            "id": 37,
+            "modularity_class": 4,
+            "eigencentrality": 0.008427,
+            "outdegree": 1
+        },
+        {
+            "id": 126,
+            "modularity_class": 4,
+            "eigencentrality": 0.011145,
+            "outdegree": 3
+        },
+        {
+            "id": 114,
+            "modularity_class": 4,
+            "eigencentrality": 0.053184,
+            "outdegree": 22
+        },
+        {
+            "id": 65,
+            "modularity_class": 4,
+            "eigencentrality": 0.084916,
+            "outdegree": 7
+        },
+        {
+            "id": 50,
+            "modularity_class": 4,
+            "eigencentrality": 0.007469,
+            "outdegree": 0
+        },
+        {
+            "id": 103,
+            "modularity_class": 4,
+            "eigencentrality": 0.008527,
+            "outdegree": 1
+        },
+        {
+            "id": 82,
+            "modularity_class": 4,
+            "eigencentrality": 0.048815,
+            "outdegree": 12
+        },
+        {
+            "id": 43,
+            "modularity_class": 4,
+            "eigencentrality": 0.003805,
+            "outdegree": 0
+        },
+        {
+            "id": 113,
+            "modularity_class": 4,
+            "eigencentrality": 0.003805,
+            "outdegree": 0
+        },
+        {
+            "id": 87,
+            "modularity_class": 4,
+            "eigencentrality": 0.009188,
+            "outdegree": 3
+        },
+        {
+            "id": 112,
+            "modularity_class": 4,
+            "eigencentrality": 0.067116,
+            "outdegree": 3
+        },
+        {
+            "id": 75,
+            "modularity_class": 4,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 99,
+            "modularity_class": 4,
+            "eigencentrality": 0.009137,
+            "outdegree": 1
+        },
+        {
+            "id": 4,
+            "modularity_class": 4,
+            "eigencentrality": 0.017386,
+            "outdegree": 3
+        },
+        {
+            "id": 0,
+            "modularity_class": 4,
+            "eigencentrality": 0.015996,
+            "outdegree": 0
+        },
+        {
+            "id": 58,
+            "modularity_class": 4,
+            "eigencentrality": 0.003193,
+            "outdegree": 1
+        },
+        {
+            "id": 73,
+            "modularity_class": 2,
+            "eigencentrality": 0.000888,
+            "outdegree": 1
+        },
+        {
+            "id": 40,
+            "modularity_class": 2,
+            "eigencentrality": 0.000888,
+            "outdegree": 1
+        },
+        {
+            "id": 17,
+            "modularity_class": 4,
+            "eigencentrality": 0.003193,
+            "outdegree": 0
+        },
+        {
+            "id": 6,
+            "modularity_class": 4,
+            "eigencentrality": 0.013291,
+            "outdegree": 2
+        },
+        {
+            "id": 108,
+            "modularity_class": 4,
+            "eigencentrality": 0.074065,
+            "outdegree": 0
+        },
+        {
+            "id": 125,
+            "modularity_class": 4,
+            "eigencentrality": 0.011517,
+            "outdegree": 4
+        },
+        {
+            "id": 121,
+            "modularity_class": 4,
+            "eigencentrality": 0.002319,
+            "outdegree": 3
+        },
+        {
+            "id": 2,
+            "modularity_class": 4,
+            "eigencentrality": 0.06208,
+            "outdegree": 0
+        },
+        {
+            "id": 45,
+            "modularity_class": 4,
+            "eigencentrality": 0.00886,
+            "outdegree": 6
+        },
+        {
+            "id": 80,
+            "modularity_class": 4,
+            "eigencentrality": 0.0,
+            "outdegree": 2
+        },
+        {
+            "id": 18,
+            "modularity_class": 4,
+            "eigencentrality": 0.059629,
+            "outdegree": 1
+        },
+        {
+            "id": 66,
+            "modularity_class": 4,
+            "eigencentrality": 0.003847,
+            "outdegree": 1
+        },
+        {
+            "id": 3,
+            "modularity_class": 4,
+            "eigencentrality": 0.008527,
+            "outdegree": 0
+        },
+        {
+            "id": 115,
+            "modularity_class": 4,
+            "eigencentrality": 0.008527,
+            "outdegree": 1
+        },
+        {
+            "id": 62,
+            "modularity_class": 4,
+            "eigencentrality": 0.008527,
+            "outdegree": 1
+        },
+        {
+            "id": 84,
+            "modularity_class": 4,
+            "eigencentrality": 0.002623,
+            "outdegree": 1
+        },
+        {
+            "id": 71,
+            "modularity_class": 3,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 116,
+            "modularity_class": 3,
+            "eigencentrality": 0.000661,
+            "outdegree": 0
+        },
+        {
+            "id": 12,
+            "modularity_class": 4,
+            "eigencentrality": 0.05262,
+            "outdegree": 1
+        },
+        {
+            "id": 1,
+            "modularity_class": 4,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 11,
+            "modularity_class": 4,
+            "eigencentrality": 0.003805,
+            "outdegree": 0
+        },
+        {
+            "id": 109,
+            "modularity_class": 4,
+            "eigencentrality": 0.010488,
+            "outdegree": 2
+        },
+        {
+            "id": 119,
+            "modularity_class": 4,
+            "eigencentrality": 0.00481,
+            "outdegree": 1
+        },
+        {
+            "id": 122,
+            "modularity_class": 4,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 38,
+            "modularity_class": 4,
+            "eigencentrality": 0.010056,
+            "outdegree": 2
+        },
+        {
+            "id": 22,
+            "modularity_class": 4,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 124,
+            "modularity_class": 4,
+            "eigencentrality": 0.010599,
+            "outdegree": 2
+        },
+        {
+            "id": 15,
+            "modularity_class": 4,
+            "eigencentrality": 0.010599,
+            "outdegree": 3
+        },
+        {
+            "id": 9,
+            "modularity_class": 4,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 117,
+            "modularity_class": 4,
+            "eigencentrality": 0.008527,
+            "outdegree": 1
+        },
+        {
+            "id": 13,
+            "modularity_class": 4,
+            "eigencentrality": 0.002073,
+            "outdegree": 0
+        },
+        {
+            "id": 78,
+            "modularity_class": 4,
+            "eigencentrality": 0.008527,
+            "outdegree": 1
+        },
+        {
+            "id": 36,
+            "modularity_class": 4,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 63,
+            "modularity_class": 4,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 98,
+            "modularity_class": 4,
+            "eigencentrality": 0.00453,
+            "outdegree": 4
+        },
+        {
+            "id": 92,
+            "modularity_class": 4,
+            "eigencentrality": 0.00219,
+            "outdegree": 1
+        },
+        {
+            "id": 14,
+            "modularity_class": 4,
+            "eigencentrality": 0.0,
+            "outdegree": 2
+        },
+        {
+            "id": 51,
+            "modularity_class": 4,
+            "eigencentrality": 0.00204,
+            "outdegree": 0
+        },
+        {
+            "id": 29,
+            "modularity_class": 4,
+            "eigencentrality": 0.000888,
+            "outdegree": 2
+        },
+        {
+            "id": 93,
+            "modularity_class": 5,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 68,
+            "modularity_class": 5,
+            "eigencentrality": 0.000661,
+            "outdegree": 0
+        },
+        {
+            "id": 69,
+            "modularity_class": 1,
+            "eigencentrality": 0.049894,
+            "outdegree": 1
+        },
+        {
+            "id": 67,
+            "modularity_class": 4,
+            "eigencentrality": 0.00512,
+            "outdegree": 1
+        },
+        {
+            "id": 86,
+            "modularity_class": 4,
+            "eigencentrality": 0.005739,
+            "outdegree": 0
+        },
+        {
+            "id": 53,
+            "modularity_class": 4,
+            "eigencentrality": 0.0,
+            "outdegree": 1
+        },
+        {
+            "id": 88,
+            "modularity_class": 1,
+            "eigencentrality": 0.004042,
+            "outdegree": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 23,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 17,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 15,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 28,
+            "action": "text_reply"
+        },
+        {
+            "source": 60,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 37,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 21,
+            "action": "text_reply"
+        },
+        {
+            "source": 94,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 94,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 20,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 61,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 48,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 7,
+            "target": 61,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 48,
+            "target": 7,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 7,
+            "target": 48,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 106,
+            "target": 7,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 7,
+            "target": 106,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 7,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 7,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 61,
+            "Type": "Directed",
+            "Weight": 8,
+            "action": "text_reply"
+        },
+        {
+            "source": 61,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 61,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 89,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 31,
+            "action": "text_reply"
+        },
+        {
+            "source": 19,
+            "target": 102,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 19,
+            "target": 5,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 61,
+            "target": 101,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 21,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 36,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 38,
+            "action": "text_reply"
+        },
+        {
+            "source": 61,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 7,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 61,
+            "Type": "Directed",
+            "Weight": 7,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 37,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 61,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 16,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 22,
+            "action": "text_reply"
+        },
+        {
+            "source": 61,
+            "target": 72,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 72,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 72,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 28,
+            "Type": "Directed",
+            "Weight": 40,
+            "action": "text_reply"
+        },
+        {
+            "source": 28,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 50,
+            "action": "text_reply"
+        },
+        {
+            "source": 28,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 11,
+            "action": "text_reply"
+        },
+        {
+            "source": 95,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 14,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 12,
+            "action": "text_reply"
+        },
+        {
+            "source": 61,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 8,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 61,
+            "Type": "Directed",
+            "Weight": 11,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 106,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 27,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 27,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 21,
+            "action": "text_reply"
+        },
+        {
+            "source": 106,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 11,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 95,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 95,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 95,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 95,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 17,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 23,
+            "action": "text_reply"
+        },
+        {
+            "source": 72,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 72,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 20,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 16,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 20,
+            "Type": "Directed",
+            "Weight": 15,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 36,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 14,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 17,
+            "action": "text_reply"
+        },
+        {
+            "source": 61,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 61,
+            "Type": "Directed",
+            "Weight": 8,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 76,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 16,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 69,
+            "action": "text_reply"
+        },
+        {
+            "source": 77,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 27,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 77,
+            "target": 28,
+            "Type": "Directed",
+            "Weight": 11,
+            "action": "text_reply"
+        },
+        {
+            "source": 28,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 35,
+            "action": "text_reply"
+        },
+        {
+            "source": 28,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 19,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 28,
+            "Type": "Directed",
+            "Weight": 18,
+            "action": "text_reply"
+        },
+        {
+            "source": 77,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 77,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 55,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 8,
+            "action": "text_reply"
+        },
+        {
+            "source": 61,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 6,
+            "action": "text_reply"
+        },
+        {
+            "source": 77,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 16,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 7,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 28,
+            "action": "text_reply"
+        },
+        {
+            "source": 61,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 72,
+            "target": 61,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 72,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 10,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 77,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 72,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 61,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 21,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 15,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 19,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 20,
+            "Type": "Directed",
+            "Weight": 12,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 20,
+            "Type": "Directed",
+            "Weight": 6,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 20,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 20,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 6,
+            "action": "text_reply"
+        },
+        {
+            "source": 61,
+            "target": 20,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 27,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 8,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 20,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 20,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 55,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 6,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 55,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 44,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 15,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 10,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 55,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 20,
+            "target": 28,
+            "Type": "Directed",
+            "Weight": 8,
+            "action": "text_reply"
+        },
+        {
+            "source": 28,
+            "target": 20,
+            "Type": "Directed",
+            "Weight": 11,
+            "action": "text_reply"
+        },
+        {
+            "source": 28,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 11,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 28,
+            "Type": "Directed",
+            "Weight": 8,
+            "action": "text_reply"
+        },
+        {
+            "source": 28,
+            "target": 28,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 61,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 21,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 61,
+            "target": 21,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 21,
+            "target": 61,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 21,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 20,
+            "target": 61,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 24,
+            "Type": "Directed",
+            "Weight": 11,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 9,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 11,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 61,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 9,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 13,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 61,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 20,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 15,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 20,
+            "Type": "Directed",
+            "Weight": 10,
+            "action": "text_reply"
+        },
+        {
+            "source": 44,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 44,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 44,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 44,
+            "target": 101,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 44,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 101,
+            "target": 44,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 30,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 24,
+            "Type": "Directed",
+            "Weight": 19,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 24,
+            "Type": "Directed",
+            "Weight": 16,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 27,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 12,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 10,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 26,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 26,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 26,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 77,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 6,
+            "action": "text_reply"
+        },
+        {
+            "source": 79,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 9,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 28,
+            "Type": "Directed",
+            "Weight": 18,
+            "action": "text_reply"
+        },
+        {
+            "source": 28,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 18,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 28,
+            "Type": "Directed",
+            "Weight": 6,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 28,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 28,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 10,
+            "action": "text_reply"
+        },
+        {
+            "source": 20,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 14,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 79,
+            "Type": "Directed",
+            "Weight": 11,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 79,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 79,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 79,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 79,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 28,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 6,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 28,
+            "Type": "Directed",
+            "Weight": 8,
+            "action": "text_reply"
+        },
+        {
+            "source": 28,
+            "target": 24,
+            "Type": "Directed",
+            "Weight": 7,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 24,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 104,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 104,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 104,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 104,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 104,
+            "Type": "Directed",
+            "Weight": 14,
+            "action": "text_reply"
+        },
+        {
+            "source": 104,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 15,
+            "action": "text_reply"
+        },
+        {
+            "source": 123,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 9,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 123,
+            "Type": "Directed",
+            "Weight": 19,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 123,
+            "Type": "Directed",
+            "Weight": 6,
+            "action": "text_reply"
+        },
+        {
+            "source": 123,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 13,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "Type": "Directed",
+            "Weight": 7,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 104,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 123,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 10,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 123,
+            "Type": "Directed",
+            "Weight": 16,
+            "action": "text_reply"
+        },
+        {
+            "source": 77,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 77,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 104,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 123,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 47,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 123,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 104,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 28,
+            "target": 104,
+            "Type": "Directed",
+            "Weight": 7,
+            "action": "text_reply"
+        },
+        {
+            "source": 104,
+            "target": 28,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 20,
+            "target": 123,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 104,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 104,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 49,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 123,
+            "target": 28,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 28,
+            "target": 123,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 123,
+            "target": 20,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 57,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 24,
+            "Type": "Directed",
+            "Weight": 8,
+            "action": "text_reply"
+        },
+        {
+            "source": 57,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 57,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 57,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 32,
+            "Type": "Directed",
+            "Weight": 8,
+            "action": "text_reply"
+        },
+        {
+            "source": 104,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 22,
+            "action": "text_reply"
+        },
+        {
+            "source": 123,
+            "target": 104,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 104,
+            "Type": "Directed",
+            "Weight": 12,
+            "action": "text_reply"
+        },
+        {
+            "source": 104,
+            "target": 123,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 32,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 32,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 123,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 57,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 47,
+            "target": 61,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 59,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 79,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 59,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 59,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 57,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 59,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 49,
+            "action": "text_reply"
+        },
+        {
+            "source": 21,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 21,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 104,
+            "target": 32,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 32,
+            "Type": "Directed",
+            "Weight": 23,
+            "action": "text_reply"
+        },
+        {
+            "source": 32,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 19,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 32,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 28,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 123,
+            "Type": "Directed",
+            "Weight": 8,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 123,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 17,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 19,
+            "action": "text_reply"
+        },
+        {
+            "source": 77,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 28,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 11,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 8,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 8,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 47,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 123,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 9,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 59,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 7,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 104,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 104,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 7,
+            "action": "text_reply"
+        },
+        {
+            "source": 32,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 32,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 55,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 15,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 16,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 32,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 32,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 32,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 17,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 24,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 123,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 123,
+            "Type": "Directed",
+            "Weight": 10,
+            "action": "text_reply"
+        },
+        {
+            "source": 47,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 32,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 101,
+            "target": 61,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 101,
+            "target": 101,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 101,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 101,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 79,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 79,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 24,
+            "Type": "Directed",
+            "Weight": 10,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 81,
+            "Type": "Directed",
+            "Weight": 68,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 64,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 36,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 81,
+            "Type": "Directed",
+            "Weight": 29,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 6,
+            "action": "text_reply"
+        },
+        {
+            "source": 47,
+            "target": 64,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 47,
+            "target": 81,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 47,
+            "target": 123,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 123,
+            "Type": "Directed",
+            "Weight": 10,
+            "action": "text_reply"
+        },
+        {
+            "source": 123,
+            "target": 81,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 7,
+            "action": "text_reply"
+        },
+        {
+            "source": 104,
+            "target": 81,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 96,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 81,
+            "Type": "Directed",
+            "Weight": 14,
+            "action": "text_reply"
+        },
+        {
+            "source": 55,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 55,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 77,
+            "target": 104,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 77,
+            "target": 81,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 96,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 7,
+            "action": "text_reply"
+        },
+        {
+            "source": 61,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 79,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 123,
+            "target": 123,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 55,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 55,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 123,
+            "target": 55,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 81,
+            "Type": "Directed",
+            "Weight": 7,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 24,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 11,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 104,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 104,
+            "target": 24,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 95,
+            "target": 24,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 81,
+            "Type": "Directed",
+            "Weight": 15,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 81,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 105,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 32,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 24,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 105,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 20,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 9,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 79,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 47,
+            "target": 55,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 100,
+            "target": 20,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 123,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 34,
+            "target": 81,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 34,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 100,
+            "target": 81,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 100,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 32,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 81,
+            "target": 32,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 32,
+            "target": 81,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 55,
+            "target": 81,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 54,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 106,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 106,
+            "target": 118,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 106,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 72,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 104,
+            "target": 20,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 20,
+            "target": 104,
+            "Type": "Directed",
+            "Weight": 6,
+            "action": "text_reply"
+        },
+        {
+            "source": 35,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 64,
+            "target": 39,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 39,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 39,
+            "target": 47,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 20,
+            "target": 39,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 20,
+            "target": 32,
+            "Type": "Directed",
+            "Weight": 12,
+            "action": "text_reply"
+        },
+        {
+            "source": 32,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 79,
+            "target": 81,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 32,
+            "target": 20,
+            "Type": "Directed",
+            "Weight": 10,
+            "action": "text_reply"
+        },
+        {
+            "source": 32,
+            "target": 32,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 20,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 20,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 27,
+            "target": 104,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 104,
+            "target": 27,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 27,
+            "target": 27,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 27,
+            "target": 77,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 27,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 35,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 54,
+            "target": 107,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 104,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 111,
+            "target": 31,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 111,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 111,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 91,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 10,
+            "target": 91,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 46,
+            "target": 10,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 55,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 55,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 25,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 110,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 110,
+            "target": 110,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 30,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 56,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 41,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 23,
+            "target": 56,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 56,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 97,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 8,
+            "target": 83,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 120,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 120,
+            "target": 83,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 83,
+            "target": 120,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 85,
+            "target": 23,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 83,
+            "target": 83,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 76,
+            "target": 83,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 85,
+            "target": 83,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 83,
+            "target": 76,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 83,
+            "target": 85,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 52,
+            "target": 85,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 76,
+            "target": 85,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 83,
+            "target": 42,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 83,
+            "target": 74,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 74,
+            "target": 83,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 85,
+            "target": 42,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 33,
+            "target": 70,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 37,
+            "target": 85,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 83,
+            "target": 37,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 52,
+            "target": 37,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 33,
+            "target": 83,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 85,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 126,
+            "target": 83,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 83,
+            "target": 33,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 95,
+            "target": 16,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 33,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 65,
+            "target": 50,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 103,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 83,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 83,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 103,
+            "target": 83,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 70,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 65,
+            "Type": "Directed",
+            "Weight": 6,
+            "action": "text_reply"
+        },
+        {
+            "source": 82,
+            "target": 43,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 65,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 82,
+            "target": 113,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 87,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 87,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 82,
+            "target": 112,
+            "Type": "Directed",
+            "Weight": 6,
+            "action": "text_reply"
+        },
+        {
+            "source": 112,
+            "target": 65,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 75,
+            "target": 65,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 112,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 65,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 99,
+            "target": 99,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 65,
+            "target": 99,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 65,
+            "target": 52,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 87,
+            "target": 70,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 112,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 112,
+            "target": 70,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 82,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 4,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 65,
+            "target": 4,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 4,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 4,
+            "target": 65,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 65,
+            "target": 0,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 0,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 52,
+            "target": 112,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 65,
+            "target": 65,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 82,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 8,
+            "action": "text_reply"
+        },
+        {
+            "source": 58,
+            "target": 52,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 52,
+            "target": 58,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 73,
+            "target": 40,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 40,
+            "target": 73,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 52,
+            "target": 17,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 52,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 6,
+            "target": 126,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 126,
+            "target": 6,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 126,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 6,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 126,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 82,
+            "target": 20,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 6,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 108,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 108,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 125,
+            "target": 108,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 125,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 125,
+            "Type": "Directed",
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 121,
+            "target": 125,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 125,
+            "target": 121,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 121,
+            "target": 108,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 16,
+            "target": 2,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 45,
+            "target": 2,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 45,
+            "target": 125,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 52,
+            "target": 45,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 52,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 121,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 80,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 45,
+            "target": 18,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 125,
+            "target": 66,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 3,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 82,
+            "target": 18,
+            "Type": "Directed",
+            "Weight": 7,
+            "action": "text_reply"
+        },
+        {
+            "source": 18,
+            "target": 18,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 82,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 45,
+            "target": 6,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 115,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 115,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 18,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 62,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 62,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 45,
+            "target": 84,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 84,
+            "target": 45,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 71,
+            "target": 116,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 82,
+            "target": 12,
+            "Type": "Directed",
+            "Weight": 21,
+            "action": "text_reply"
+        },
+        {
+            "source": 1,
+            "target": 84,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 82,
+            "target": 11,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 109,
+            "target": 119,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 109,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 109,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 119,
+            "target": 4,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 4,
+            "target": 119,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 45,
+            "target": 109,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 122,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 38,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 82,
+            "target": 45,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 22,
+            "target": 6,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 80,
+            "target": 52,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 124,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 124,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 15,
+            "target": 124,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 124,
+            "target": 15,
+            "Type": "Directed",
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 9,
+            "target": 87,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 117,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 117,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 15,
+            "target": 13,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 78,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 78,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 36,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 63,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 15,
+            "target": 108,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 114,
+            "target": 15,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 98,
+            "target": 92,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 92,
+            "target": 98,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 14,
+            "target": 45,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 14,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 12,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 12,
+            "target": 90,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 38,
+            "target": 51,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 38,
+            "target": 98,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 98,
+            "target": 38,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 98,
+            "target": 52,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 66,
+            "target": 98,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 98,
+            "target": 66,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 29,
+            "target": 29,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 29,
+            "target": 114,
+            "Type": "Directed",
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 93,
+            "target": 68,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 90,
+            "target": 69,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 82,
+            "target": 67,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 67,
+            "target": 67,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 82,
+            "target": 86,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 87,
+            "target": 86,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 53,
+            "target": 92,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 69,
+            "target": 88,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 88,
+            "target": 69,
+            "Type": "Directed",
+            "Weight": 1,
+            "action": "text_reply"
+        }
+    ]
+}
