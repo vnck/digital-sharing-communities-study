@@ -21,7 +21,7 @@
         <div class="d-flex justify-content-center flex-column mx-auto mt-4 w-md-50">
             <h3 class="text-center">🏘️ 📱 👋<br>Understanding the Influence of<br>Sharing Communities in Digital Spaces<br>on  Neighbourhood Engagement<br>[DRAFT]</h3>
             <p class='text-center'>
-                <p class="link-secondary text-center" type="button" data-bs-toggle="collapse" data-bs-target="#about" aria-expanded="false" aria-controls="collapseExample">About the Study</p>
+                <p class="link-secondary text-center shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#about" aria-expanded="false" aria-controls="collapseExample">About the Study</p>
             </p>
             <div class="collapse text-center" id="about">
                 <div style='text-align: justify;' class="mb-md-5 mb-4 mx-md-5 col-md-6 col-11 d-inline-block border-secondary border-bottom border-top pt-3git">
@@ -216,7 +216,7 @@
                             <li>Open groups that are:</li>
                             <li>Still active and/or
                                 <ul><li>We definite active as having at least 20 interactions in the past month. (e.g. posting, messaging, commenting)</li></ul></li>
-                            <li>Selection with a preference of large > medium > small Communities.</li>
+                            <li>Selection with a preference of large > medium > small communities.</li>
                         </ol>
                         <p>The selected groups can be seen in Figure 11.</p>
                         <table class="table table-bordered">
@@ -279,10 +279,13 @@
                         <ul>
                             <li>Each node is a community member.</li>
                             <li>Node Color corresponds to clustering defined by modularity.</li>
-                            <li>Node Size corresponds to number of messages sent by member.</li>
-                            <li><span style='color: deepskyblue;'>Blue</span> ➡️ : Text Message</li>
-                            <li><span style='color: red;'>Red</span> ➡️ : Added Member</li>
-                            <li><span style='color: purple;'>Purple</span> ➡️ : Removed Member</li>
+                            <li>Node Size corresponds to eigenvector centrality.</li>
+                            <li>Edge Color corresponds to type of interaction:</li>
+                            <ul>
+                                <li><span style='color: blue;'>Blue</span> ➡️ : Text Message</li>
+                                <li><span style='color: green;'>Green</span> ➡️ : Added Member</li>
+                                <li><span style='color: red;'>Red</span> ➡️ : Removed Member</li>
+                            </ul>
                             <li>Edge Thickness corresponds to relative number of interactions.</li>
                         </ul>
                     </div>
