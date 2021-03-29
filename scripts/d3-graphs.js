@@ -1,10 +1,10 @@
 window.onloadFuncs.push(() => {
-    create_graph('../graphs/PunggolBTO.json','#graph1')
-    create_graph('../graphs/PunggolResidential.json','#graph2')
-    create_graph('../graphs/JurongBTO.json','#graph3', 600, 480)
-    create_graph('../graphs/JurongResidential.json','#graph4', 600, 480)
-    create_graph('../graphs/ToaPayohBTO.json','#graph5', 500, 400)
-    create_graph('../graphs/ToaPayohResidential.json','#graph6', 500, 400)
+    create_graph('/graphs/PunggolBTO.json','#graph1')
+    create_graph('/graphs/PunggolResidential.json','#graph2')
+    create_graph('/graphs/JurongBTO.json','#graph3', 600, 480)
+    create_graph('/graphs/JurongResidential.json','#graph4', 600, 480)
+    create_graph('/graphs/ToaPayohBTO.json','#graph5', 500, 400)
+    create_graph('/graphs/ToaPayohResidential.json','#graph6', 500, 400)
 })
 
 let drag = simulation => {
