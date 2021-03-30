@@ -38,10 +38,10 @@
                     <button class="nav-link" id="litreview-tab" data-bs-toggle="tab" data-bs-target="#litreview" type="button" role="tab" aria-controls="litreview" aria-selected="false">2) Lit. Review</button>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="observational-tab" data-bs-toggle="tab" data-bs-target="#observational" type="button" role="tab" aria-controls="observational" aria-selected="false">3) Observational Study</button>
+                    <button class="nav-link" id="observational-tab" data-bs-toggle="tab" data-bs-target="#observational" type="button" role="tab" aria-controls="observational" aria-selected="false">3) Observational Study</button>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="analysis-tab" data-bs-toggle="tab" data-bs-target="#analysis" type="button" role="tab" aria-controls="analysis" aria-selected="false">4) Social Network Analysis</button>
+                    <button class="nav-link active" id="analysis-tab" data-bs-toggle="tab" data-bs-target="#analysis" type="button" role="tab" aria-controls="analysis" aria-selected="false">4) Social Network Analysis</button>
                 </li>
                 <li class="nav-item" role="presentation">
                     <button class="nav-link" id="interview-tab" data-bs-toggle="tab" data-bs-target="#interview" type="button" role="tab" aria-controls="interview" aria-selected="false">5) Interviews</button>
@@ -62,7 +62,7 @@
                 <div id='litreview' class='tab-pane fades'>
                     This is where the lit review will go.
                 </div>
-                <div id='observational' class='tab-pane fades active'>
+                <div id='observational' class='tab-pane fades'>
                     <div style='text-align: justify;'>
                         <p class='fw-bold'>3.1. Rationale</p>
                         <p>Our rationale for this observational study was to sample examples of digital communities to construct a typology of digital communities, by uncovering the common and distinguishing characteristics between the variety of digital communities in the wild. Through this typology, we can then discover the factors that contribute to a vibrant and active digital community. 
@@ -203,7 +203,7 @@
                         </div>
                     </div>
                 </div>
-                <div id='analysis' class='tab-pane fades show'>
+                <div id='analysis' class='tab-pane fades active'>
                     <div class="mb-5" style='text-align: justify;'>
                         <p class='fw-bold mt-4'>4.1. Rationale</p>
                         <p>Our rationale behind conducting a social network analysis is to extract structures of digital communities and characterise them quantitatively, as well as characterise users within the community based on their interactions.</p>
@@ -290,6 +290,13 @@
                         </ul>
                     </div>
                     <div class="d-flex flex-column align-items-center">
+                        <div class='mb-3 w-75'>
+                            <label class="form-label">
+                                Adjust visibility of links (min-weight):
+                                <output class='me-2'id="minWeightOutput">0</output>
+                            </label>
+                            <input class='form-range' type="range" min="0" max="50" value="0" step="5" oninput="d3.select('#minWeightOutput').text(value); minWeight=value; updateGraphs();">
+                        </div>
                         <div class="mb-5 w-100">
                             <svg style="border: 1px solid black;" id='graph1'></svg>
                             <p class='figure-caption'>Figure 12: Punggol BTO</p>

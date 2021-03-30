@@ -3,8 +3,15 @@
         <script src="https://d3js.org/d3.v6.min.js"></script>
         <script src="scripts/main.js"></script>
         <script src="scripts/d3-graphs.js"></script>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
     </head>
     <body>
-        <svg id='graph1'></svg>
+        <label style="width: max-content;" class="d-flex">
+            <span class='pe-1'>min weight: </span>
+            <output class='pe-2' id="minWeightOutput">0</output>
+            <input style="margin-top: 2;" type="range" min="0" max="100" value="0" step="1" oninput="d3.select('#minWeightOutput').text(value); minWeight=value; updateGraphs();">
+        </label>
+        <svg id='graph4'></svg>
     </body>
 </html>
