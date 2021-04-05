@@ -1,3080 +1,4447 @@
 {
     "nodes": [
         {
-            "id": 147,
+            "id": 1212,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 0,
             "eigencentrality": 1.0,
-            "outdegree": 30
+            "indegree": 20,
+            "outdegree": 30,
+            "Degree": 50
         },
         {
-            "id": 150,
+            "id": 1217,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 0,
             "eigencentrality": 0.849113,
-            "outdegree": 19
+            "indegree": 15,
+            "outdegree": 19,
+            "Degree": 34
         },
         {
-            "id": 134,
+            "id": 1096,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 1,
             "eigencentrality": 0.0,
-            "outdegree": 1
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
         },
         {
-            "id": 56,
+            "id": 426,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 1,
             "eigencentrality": 0.001188,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
-            "id": 114,
+            "id": 949,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 2,
             "eigencentrality": 0.0,
-            "outdegree": 1
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
         },
         {
-            "id": 22,
+            "id": 164,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 2,
             "eigencentrality": 0.001188,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
-            "id": 23,
+            "id": 166,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 0,
             "eigencentrality": 0.186285,
-            "outdegree": 3
+            "indegree": 3,
+            "outdegree": 3,
+            "Degree": 6
         },
         {
-            "id": 46,
+            "id": 356,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 0,
             "eigencentrality": 0.022815,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
-            "id": 45,
+            "id": 339,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 3,
             "eigencentrality": 0.0,
-            "outdegree": 2
+            "indegree": 0,
+            "outdegree": 2,
+            "Degree": 2
         },
         {
-            "id": 130,
+            "id": 1066,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 3,
             "eigencentrality": 0.001188,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
-            "id": 35,
+            "id": 270,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 3,
             "eigencentrality": 0.001188,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
-            "id": 110,
+            "id": 926,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 0,
             "eigencentrality": 0.632104,
-            "outdegree": 9
+            "indegree": 12,
+            "outdegree": 9,
+            "Degree": 21
         },
         {
-            "id": 105,
+            "id": 886,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 0,
             "eigencentrality": 0.47014,
-            "outdegree": 6
+            "indegree": 6,
+            "outdegree": 6,
+            "Degree": 12
         },
         {
-            "id": 101,
+            "id": 848,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 0,
             "eigencentrality": 0.466561,
-            "outdegree": 15
-        },
-        {
-            "id": 14,
-            "modularity_class": 0,
-            "eigencentrality": 0.118792,
-            "outdegree": 0
-        },
-        {
-            "id": 64,
-            "modularity_class": 0,
-            "eigencentrality": 0.128885,
-            "outdegree": 2
-        },
-        {
-            "id": 144,
-            "modularity_class": 0,
-            "eigencentrality": 0.678532,
-            "outdegree": 3
-        },
-        {
-            "id": 52,
-            "modularity_class": 0,
-            "eigencentrality": 0.100464,
-            "outdegree": 0
-        },
-        {
-            "id": 47,
-            "modularity_class": 0,
-            "eigencentrality": 0.429214,
-            "outdegree": 11
-        },
-        {
-            "id": 17,
-            "modularity_class": 0,
-            "eigencentrality": 0.258221,
-            "outdegree": 3
-        },
-        {
-            "id": 33,
-            "modularity_class": 0,
-            "eigencentrality": 0.283988,
-            "outdegree": 3
-        },
-        {
-            "id": 80,
-            "modularity_class": 0,
-            "eigencentrality": 0.393452,
-            "outdegree": 6
-        },
-        {
-            "id": 70,
-            "modularity_class": 0,
-            "eigencentrality": 0.219256,
-            "outdegree": 3
-        },
-        {
-            "id": 37,
-            "modularity_class": 0,
-            "eigencentrality": 0.135745,
-            "outdegree": 1
-        },
-        {
-            "id": 138,
-            "modularity_class": 0,
-            "eigencentrality": 0.237369,
-            "outdegree": 11
-        },
-        {
-            "id": 102,
-            "modularity_class": 0,
-            "eigencentrality": 0.176097,
-            "outdegree": 5
-        },
-        {
-            "id": 68,
-            "modularity_class": 0,
-            "eigencentrality": 0.021288,
-            "outdegree": 0
-        },
-        {
-            "id": 124,
-            "modularity_class": 0,
-            "eigencentrality": 0.033538,
-            "outdegree": 0
-        },
-        {
-            "id": 25,
-            "modularity_class": 4,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 6,
-            "modularity_class": 4,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 149,
-            "modularity_class": 5,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 41,
-            "modularity_class": 5,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 91,
-            "modularity_class": 6,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 89,
-            "modularity_class": 6,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 90,
-            "modularity_class": 7,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 125,
-            "modularity_class": 7,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 100,
-            "modularity_class": 0,
-            "eigencentrality": 0.010093,
-            "outdegree": 1
-        },
-        {
-            "id": 77,
-            "modularity_class": 0,
-            "eigencentrality": 0.122741,
-            "outdegree": 1
-        },
-        {
-            "id": 5,
-            "modularity_class": 0,
-            "eigencentrality": 0.285776,
-            "outdegree": 2
-        },
-        {
-            "id": 133,
-            "modularity_class": 0,
-            "eigencentrality": 0.710581,
-            "outdegree": 17
-        },
-        {
-            "id": 16,
-            "modularity_class": 0,
-            "eigencentrality": 0.118792,
-            "outdegree": 1
-        },
-        {
-            "id": 142,
-            "modularity_class": 8,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 39,
-            "modularity_class": 8,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 140,
-            "modularity_class": 0,
-            "eigencentrality": 0.142205,
-            "outdegree": 2
-        },
-        {
-            "id": 13,
-            "modularity_class": 0,
-            "eigencentrality": 0.191837,
-            "outdegree": 2
-        },
-        {
-            "id": 65,
-            "modularity_class": 0,
-            "eigencentrality": 0.756429,
-            "outdegree": 10
-        },
-        {
-            "id": 24,
-            "modularity_class": 0,
-            "eigencentrality": 0.084623,
-            "outdegree": 1
-        },
-        {
-            "id": 67,
-            "modularity_class": 0,
-            "eigencentrality": 0.284453,
-            "outdegree": 5
-        },
-        {
-            "id": 145,
-            "modularity_class": 9,
-            "eigencentrality": 0.0,
-            "outdegree": 2
-        },
-        {
-            "id": 11,
-            "modularity_class": 9,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 4,
-            "modularity_class": 0,
-            "eigencentrality": 0.427349,
-            "outdegree": 1
-        },
-        {
-            "id": 146,
-            "modularity_class": 0,
-            "eigencentrality": 0.118792,
-            "outdegree": 2
-        },
-        {
-            "id": 136,
-            "modularity_class": 0,
-            "eigencentrality": 0.207052,
-            "outdegree": 6
-        },
-        {
-            "id": 62,
-            "modularity_class": 0,
-            "eigencentrality": 0.100464,
-            "outdegree": 0
-        },
-        {
-            "id": 34,
-            "modularity_class": 0,
-            "eigencentrality": 0.571571,
-            "outdegree": 13
-        },
-        {
-            "id": 119,
-            "modularity_class": 9,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 3,
-            "modularity_class": 0,
-            "eigencentrality": 0.16464,
-            "outdegree": 2
-        },
-        {
-            "id": 139,
-            "modularity_class": 0,
-            "eigencentrality": 0.174192,
-            "outdegree": 1
-        },
-        {
-            "id": 55,
-            "modularity_class": 0,
-            "eigencentrality": 0.240333,
-            "outdegree": 0
-        },
-        {
-            "id": 32,
-            "modularity_class": 0,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 60,
-            "modularity_class": 0,
-            "eigencentrality": 0.084633,
-            "outdegree": 3
-        },
-        {
-            "id": 86,
-            "modularity_class": 0,
-            "eigencentrality": 0.075633,
-            "outdegree": 0
-        },
-        {
-            "id": 10,
-            "modularity_class": 0,
-            "eigencentrality": 0.025628,
-            "outdegree": 1
-        },
-        {
-            "id": 48,
-            "modularity_class": 0,
-            "eigencentrality": 0.140033,
-            "outdegree": 1
-        },
-        {
-            "id": 19,
-            "modularity_class": 0,
-            "eigencentrality": 0.100705,
-            "outdegree": 1
-        },
-        {
-            "id": 2,
-            "modularity_class": 0,
-            "eigencentrality": 0.072272,
-            "outdegree": 4
-        },
-        {
-            "id": 141,
-            "modularity_class": 10,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 117,
-            "modularity_class": 10,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 116,
-            "modularity_class": 0,
-            "eigencentrality": 0.034032,
-            "outdegree": 0
-        },
-        {
-            "id": 26,
-            "modularity_class": 0,
-            "eigencentrality": 0.072272,
-            "outdegree": 1
-        },
-        {
-            "id": 103,
-            "modularity_class": 11,
-            "eigencentrality": 0.006708,
-            "outdegree": 1
-        },
-        {
-            "id": 122,
-            "modularity_class": 11,
-            "eigencentrality": 0.036626,
-            "outdegree": 3
-        },
-        {
-            "id": 61,
-            "modularity_class": 11,
-            "eigencentrality": 0.006708,
-            "outdegree": 1
-        },
-        {
-            "id": 115,
-            "modularity_class": 0,
-            "eigencentrality": 0.0554,
-            "outdegree": 1
-        },
-        {
-            "id": 53,
-            "modularity_class": 12,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 106,
-            "modularity_class": 12,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 83,
-            "modularity_class": 13,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 36,
-            "modularity_class": 13,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 127,
-            "modularity_class": 0,
-            "eigencentrality": 0.001188,
-            "outdegree": 7
-        },
-        {
-            "id": 28,
-            "modularity_class": 0,
-            "eigencentrality": 0.186753,
-            "outdegree": 4
-        },
-        {
-            "id": 79,
-            "modularity_class": 0,
-            "eigencentrality": 0.021079,
-            "outdegree": 0
-        },
-        {
-            "id": 93,
-            "modularity_class": 0,
-            "eigencentrality": 0.095524,
-            "outdegree": 2
-        },
-        {
-            "id": 49,
-            "modularity_class": 0,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 1,
-            "modularity_class": 0,
-            "eigencentrality": 0.01246,
-            "outdegree": 0
-        },
-        {
-            "id": 95,
-            "modularity_class": 0,
-            "eigencentrality": 0.001766,
-            "outdegree": 0
-        },
-        {
-            "id": 38,
-            "modularity_class": 0,
-            "eigencentrality": 0.010093,
-            "outdegree": 0
-        },
-        {
-            "id": 66,
-            "modularity_class": 0,
-            "eigencentrality": 0.0,
-            "outdegree": 2
-        },
-        {
-            "id": 132,
-            "modularity_class": 0,
-            "eigencentrality": 0.029701,
-            "outdegree": 4
-        },
-        {
-            "id": 118,
-            "modularity_class": 0,
-            "eigencentrality": 0.004955,
-            "outdegree": 0
-        },
-        {
-            "id": 87,
-            "modularity_class": 0,
-            "eigencentrality": 0.00459,
-            "outdegree": 1
+            "indegree": 7,
+            "outdegree": 15,
+            "Degree": 22
         },
         {
             "id": 111,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 0,
-            "eigencentrality": 0.137577,
-            "outdegree": 3
+            "eigencentrality": 0.118792,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
-            "id": 121,
+            "id": 530,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 0,
-            "eigencentrality": 0.069295,
-            "outdegree": 0
+            "eigencentrality": 0.128885,
+            "indegree": 2,
+            "outdegree": 2,
+            "Degree": 4
         },
         {
-            "id": 7,
+            "id": 1135,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 0,
-            "eigencentrality": 0.151252,
-            "outdegree": 9
+            "eigencentrality": 0.678532,
+            "indegree": 13,
+            "outdegree": 3,
+            "Degree": 16
         },
         {
-            "id": 131,
+            "id": 395,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 0,
-            "eigencentrality": 0.030538,
-            "outdegree": 1
+            "eigencentrality": 0.100464,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
-            "id": 85,
-            "modularity_class": 14,
+            "id": 357,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.429214,
+            "indegree": 7,
+            "outdegree": 11,
+            "Degree": 18
+        },
+        {
+            "id": 139,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.258221,
+            "indegree": 5,
+            "outdegree": 3,
+            "Degree": 8
+        },
+        {
+            "id": 265,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.283988,
+            "indegree": 3,
+            "outdegree": 3,
+            "Degree": 6
+        },
+        {
+            "id": 628,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.393452,
+            "indegree": 4,
+            "outdegree": 6,
+            "Degree": 10
+        },
+        {
+            "id": 571,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.219256,
+            "indegree": 2,
+            "outdegree": 3,
+            "Degree": 5
+        },
+        {
+            "id": 284,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.135745,
+            "indegree": 2,
+            "outdegree": 1,
+            "Degree": 3
+        },
+        {
+            "id": 1108,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.237369,
+            "indegree": 5,
+            "outdegree": 11,
+            "Degree": 16
+        },
+        {
+            "id": 851,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.176097,
+            "indegree": 2,
+            "outdegree": 5,
+            "Degree": 7
+        },
+        {
+            "id": 562,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.021288,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 1031,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.033538,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 175,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 4,
             "eigencentrality": 0.0,
-            "outdegree": 1
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
         },
         {
-            "id": 88,
-            "modularity_class": 14,
+            "id": 39,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 4,
             "eigencentrality": 0.001188,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
-            "id": 43,
-            "modularity_class": 0,
-            "eigencentrality": 0.146274,
-            "outdegree": 0
-        },
-        {
-            "id": 123,
-            "modularity_class": 15,
+            "id": 1216,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 5,
             "eigencentrality": 0.0,
-            "outdegree": 1
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 319,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 5,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 747,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 6,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 736,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 6,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 739,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 7,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 1032,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 7,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 840,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.010093,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 604,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.122741,
+            "indegree": 3,
+            "outdegree": 1,
+            "Degree": 4
+        },
+        {
+            "id": 36,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.285776,
+            "indegree": 4,
+            "outdegree": 2,
+            "Degree": 6
+        },
+        {
+            "id": 1089,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.710581,
+            "indegree": 13,
+            "outdegree": 17,
+            "Degree": 30
         },
         {
             "id": 126,
-            "modularity_class": 15,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.118792,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 1126,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 8,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 301,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 8,
             "eigencentrality": 0.001188,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 1117,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.142205,
+            "indegree": 2,
+            "outdegree": 2,
+            "Degree": 4
         },
         {
             "id": 108,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 0,
-            "eigencentrality": 0.001766,
-            "outdegree": 0
+            "eigencentrality": 0.191837,
+            "indegree": 3,
+            "outdegree": 2,
+            "Degree": 5
         },
         {
-            "id": 137,
+            "id": 531,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 0,
+            "eigencentrality": 0.756429,
+            "indegree": 12,
+            "outdegree": 10,
+            "Degree": 22
+        },
+        {
+            "id": 171,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.084623,
+            "indegree": 2,
+            "outdegree": 1,
+            "Degree": 3
+        },
+        {
+            "id": 558,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.284453,
+            "indegree": 4,
+            "outdegree": 5,
+            "Degree": 9
+        },
+        {
+            "id": 1193,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 9,
             "eigencentrality": 0.0,
-            "outdegree": 1
+            "indegree": 0,
+            "outdegree": 2,
+            "Degree": 2
         },
         {
-            "id": 135,
-            "modularity_class": 0,
-            "eigencentrality": 0.004721,
-            "outdegree": 2
-        },
-        {
-            "id": 57,
-            "modularity_class": 0,
-            "eigencentrality": 0.006381,
-            "outdegree": 1
-        },
-        {
-            "id": 104,
-            "modularity_class": 0,
-            "eigencentrality": 0.0,
-            "outdegree": 2
-        },
-        {
-            "id": 8,
-            "modularity_class": 0,
+            "id": 102,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 9,
             "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 76,
-            "modularity_class": 16,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 109,
-            "modularity_class": 16,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 98,
-            "modularity_class": 0,
-            "eigencentrality": 0.094235,
-            "outdegree": 1
-        },
-        {
-            "id": 9,
-            "modularity_class": 0,
-            "eigencentrality": 0.089588,
-            "outdegree": 0
-        },
-        {
-            "id": 112,
-            "modularity_class": 0,
-            "eigencentrality": 0.0,
-            "outdegree": 4
-        },
-        {
-            "id": 143,
-            "modularity_class": 17,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 51,
-            "modularity_class": 17,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 30,
-            "modularity_class": 0,
-            "eigencentrality": 0.127764,
-            "outdegree": 5
-        },
-        {
-            "id": 71,
-            "modularity_class": 0,
-            "eigencentrality": 0.018075,
-            "outdegree": 1
-        },
-        {
-            "id": 21,
-            "modularity_class": 0,
-            "eigencentrality": 0.018075,
-            "outdegree": 2
-        },
-        {
-            "id": 29,
-            "modularity_class": 0,
-            "eigencentrality": 0.003828,
-            "outdegree": 0
-        },
-        {
-            "id": 92,
-            "modularity_class": 0,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 72,
-            "modularity_class": 0,
-            "eigencentrality": 0.025628,
-            "outdegree": 0
-        },
-        {
-            "id": 81,
-            "modularity_class": 0,
-            "eigencentrality": 0.0,
-            "outdegree": 2
-        },
-        {
-            "id": 12,
-            "modularity_class": 0,
-            "eigencentrality": 0.024339,
-            "outdegree": 1
-        },
-        {
-            "id": 42,
-            "modularity_class": 0,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 0,
-            "modularity_class": 18,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 44,
-            "modularity_class": 18,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 74,
-            "modularity_class": 19,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 113,
-            "modularity_class": 19,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 129,
-            "modularity_class": 20,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 18,
-            "modularity_class": 20,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 63,
-            "modularity_class": 0,
-            "eigencentrality": 0.072272,
-            "outdegree": 1
-        },
-        {
-            "id": 59,
-            "modularity_class": 0,
-            "eigencentrality": 0.123936,
-            "outdegree": 0
-        },
-        {
-            "id": 148,
-            "modularity_class": 0,
-            "eigencentrality": 0.029701,
-            "outdegree": 0
-        },
-        {
-            "id": 94,
-            "modularity_class": 0,
-            "eigencentrality": 0.001766,
-            "outdegree": 0
-        },
-        {
-            "id": 82,
-            "modularity_class": 21,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 75,
-            "modularity_class": 21,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 15,
-            "modularity_class": 22,
-            "eigencentrality": 0.0,
-            "outdegree": 2
-        },
-        {
-            "id": 54,
-            "modularity_class": 22,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 27,
-            "modularity_class": 22,
-            "eigencentrality": 0.001188,
-            "outdegree": 0
-        },
-        {
-            "id": 128,
-            "modularity_class": 0,
-            "eigencentrality": 0.029701,
-            "outdegree": 1
-        },
-        {
-            "id": 96,
-            "modularity_class": 0,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 78,
-            "modularity_class": 0,
-            "eigencentrality": 0.001188,
-            "outdegree": 1
-        },
-        {
-            "id": 73,
-            "modularity_class": 0,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 84,
-            "modularity_class": 0,
-            "eigencentrality": 0.001188,
-            "outdegree": 1
-        },
-        {
-            "id": 120,
-            "modularity_class": 0,
-            "eigencentrality": 0.001766,
-            "outdegree": 0
-        },
-        {
-            "id": 40,
-            "modularity_class": 0,
-            "eigencentrality": 0.0,
-            "outdegree": 2
-        },
-        {
-            "id": 99,
-            "modularity_class": 0,
-            "eigencentrality": 0.032897,
-            "outdegree": 1
-        },
-        {
-            "id": 97,
-            "modularity_class": 23,
-            "eigencentrality": 0.0,
-            "outdegree": 1
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
             "id": 31,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.427349,
+            "indegree": 6,
+            "outdegree": 1,
+            "Degree": 7
+        },
+        {
+            "id": 1201,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.118792,
+            "indegree": 1,
+            "outdegree": 2,
+            "Degree": 3
+        },
+        {
+            "id": 1103,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.207052,
+            "indegree": 4,
+            "outdegree": 6,
+            "Degree": 10
+        },
+        {
+            "id": 488,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.100464,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 267,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.571571,
+            "indegree": 17,
+            "outdegree": 13,
+            "Degree": 30
+        },
+        {
+            "id": 1003,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 9,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 24,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.16464,
+            "indegree": 2,
+            "outdegree": 2,
+            "Degree": 4
+        },
+        {
+            "id": 1110,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.174192,
+            "indegree": 2,
+            "outdegree": 1,
+            "Degree": 3
+        },
+        {
+            "id": 411,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.240333,
+            "indegree": 3,
+            "outdegree": 0,
+            "Degree": 3
+        },
+        {
+            "id": 262,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 476,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.084633,
+            "indegree": 1,
+            "outdegree": 3,
+            "Degree": 4
+        },
+        {
+            "id": 692,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.075633,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 100,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.025628,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 362,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.140033,
+            "indegree": 2,
+            "outdegree": 1,
+            "Degree": 3
+        },
+        {
+            "id": 155,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.100705,
+            "indegree": 2,
+            "outdegree": 1,
+            "Degree": 3
+        },
+        {
+            "id": 21,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.072272,
+            "indegree": 1,
+            "outdegree": 4,
+            "Degree": 5
+        },
+        {
+            "id": 1118,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 10,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 974,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 10,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 971,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.034032,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 202,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.072272,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 852,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 11,
+            "eigencentrality": 0.006708,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 1015,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 11,
+            "eigencentrality": 0.036626,
+            "indegree": 3,
+            "outdegree": 3,
+            "Degree": 6
+        },
+        {
+            "id": 484,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 11,
+            "eigencentrality": 0.006708,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 963,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.0554,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 399,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 12,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 913,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 12,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 660,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 13,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 275,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 13,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 1050,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 7,
+            "Degree": 8
+        },
+        {
+            "id": 230,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.186753,
+            "indegree": 5,
+            "outdegree": 4,
+            "Degree": 9
+        },
+        {
+            "id": 624,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.021079,
+            "indegree": 2,
+            "outdegree": 0,
+            "Degree": 2
+        },
+        {
+            "id": 773,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.095524,
+            "indegree": 2,
+            "outdegree": 2,
+            "Degree": 4
+        },
+        {
+            "id": 363,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 11,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.01246,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 818,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.001766,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 285,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.010093,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 535,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 2,
+            "Degree": 2
+        },
+        {
+            "id": 1076,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.029701,
+            "indegree": 1,
+            "outdegree": 4,
+            "Degree": 5
+        },
+        {
+            "id": 995,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.004955,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 694,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.00459,
+            "indegree": 2,
+            "outdegree": 1,
+            "Degree": 3
+        },
+        {
+            "id": 939,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.137577,
+            "indegree": 3,
+            "outdegree": 3,
+            "Degree": 6
+        },
+        {
+            "id": 1006,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.069295,
+            "indegree": 2,
+            "outdegree": 0,
+            "Degree": 2
+        },
+        {
+            "id": 59,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.151252,
+            "indegree": 8,
+            "outdegree": 9,
+            "Degree": 17
+        },
+        {
+            "id": 1073,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.030538,
+            "indegree": 3,
+            "outdegree": 1,
+            "Degree": 4
+        },
+        {
+            "id": 680,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 14,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 698,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 14,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 334,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.146274,
+            "indegree": 3,
+            "outdegree": 0,
+            "Degree": 3
+        },
+        {
+            "id": 1018,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 15,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 1046,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 15,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 920,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.001766,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 1105,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 1099,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.004721,
+            "indegree": 3,
+            "outdegree": 2,
+            "Degree": 5
+        },
+        {
+            "id": 431,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.006381,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 861,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 2,
+            "Degree": 2
+        },
+        {
+            "id": 62,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 594,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 16,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 925,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 16,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 830,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.094235,
+            "indegree": 2,
+            "outdegree": 1,
+            "Degree": 3
+        },
+        {
+            "id": 90,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.089588,
+            "indegree": 2,
+            "outdegree": 0,
+            "Degree": 2
+        },
+        {
+            "id": 940,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 4,
+            "Degree": 4
+        },
+        {
+            "id": 1129,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 17,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 393,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 17,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 240,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.127764,
+            "indegree": 4,
+            "outdegree": 5,
+            "Degree": 9
+        },
+        {
+            "id": 573,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.018075,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 163,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.018075,
+            "indegree": 1,
+            "outdegree": 2,
+            "Degree": 3
+        },
+        {
+            "id": 239,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.003828,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 749,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 576,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.025628,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 640,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 2,
+            "Degree": 2
+        },
+        {
+            "id": 103,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.024339,
+            "indegree": 3,
+            "outdegree": 1,
+            "Degree": 4
+        },
+        {
+            "id": 321,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 10,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 18,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 335,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 18,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 579,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 19,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 941,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 19,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 1060,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 20,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 143,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 20,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 502,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.072272,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 470,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.123936,
+            "indegree": 3,
+            "outdegree": 0,
+            "Degree": 3
+        },
+        {
+            "id": 1214,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.029701,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 816,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.001766,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 646,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 21,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 587,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 21,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 123,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 22,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 2,
+            "Degree": 2
+        },
+        {
+            "id": 403,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 22,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 207,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 22,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 1051,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.029701,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 820,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 619,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 578,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 675,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.001188,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 1005,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.001766,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 312,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 2,
+            "Degree": 2
+        },
+        {
+            "id": 834,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.032897,
+            "indegree": 2,
+            "outdegree": 1,
+            "Degree": 3
+        },
+        {
+            "id": 823,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 23,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 249,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 23,
             "eigencentrality": 0.001188,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
-            "id": 69,
+            "id": 563,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 0,
             "eigencentrality": 0.021963,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
-            "id": 50,
+            "id": 367,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 24,
             "eigencentrality": 0.002879,
-            "outdegree": 1
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
         },
         {
-            "id": 58,
+            "id": 459,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 24,
             "eigencentrality": 0.004993,
-            "outdegree": 2
+            "indegree": 2,
+            "outdegree": 2,
+            "Degree": 4
         },
         {
-            "id": 107,
+            "id": 916,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 25,
             "eigencentrality": 0.0,
-            "outdegree": 1
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
         },
         {
-            "id": 20,
+            "id": 162,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 25,
             "eigencentrality": 0.001188,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         }
     ],
     "links": [
         {
-            "source": 147,
-            "target": 150,
+            "source": 1212,
+            "target": 1217,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 36,
             "action": "text_reply"
         },
         {
-            "source": 150,
-            "target": 147,
+            "source": 1217,
+            "target": 1212,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 26,
             "action": "text_reply"
         },
         {
-            "source": 134,
-            "target": 56,
+            "source": 1096,
+            "target": 426,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 114,
-            "target": 22,
+            "source": 949,
+            "target": 164,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 23,
-            "target": 46,
+            "source": 166,
+            "target": 356,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 45,
-            "target": 130,
+            "source": 339,
+            "target": 1066,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 45,
-            "target": 35,
+            "source": 339,
+            "target": 270,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 147,
-            "target": 110,
+            "source": 1212,
+            "target": 926,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 12,
             "action": "text_reply"
         },
         {
-            "source": 147,
-            "target": 105,
+            "source": 1212,
+            "target": 886,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 4,
             "action": "text_reply"
         },
         {
-            "source": 150,
-            "target": 110,
+            "source": 1217,
+            "target": 926,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 3,
             "action": "text_reply"
         },
         {
-            "source": 101,
-            "target": 110,
+            "source": 848,
+            "target": 926,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 3,
             "action": "text_reply"
         },
         {
-            "source": 147,
-            "target": 14,
+            "source": 1212,
+            "target": 111,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 101,
-            "target": 147,
+            "source": 848,
+            "target": 1212,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 15,
             "action": "text_reply"
         },
         {
-            "source": 64,
-            "target": 144,
+            "source": 530,
+            "target": 1135,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 101,
-            "target": 144,
+            "source": 848,
+            "target": 1135,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 147,
-            "target": 64,
+            "source": 1212,
+            "target": 530,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 150,
-            "target": 52,
+            "source": 1217,
+            "target": 395,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 47,
-            "target": 147,
+            "source": 357,
+            "target": 1212,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 17,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 3,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 17,
-            "Type": "Directed",
-            "Weight": 5,
-            "action": "text_reply"
-        },
-        {
-            "source": 47,
-            "target": 101,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 47,
-            "target": 17,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 105,
-            "target": 17,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 150,
-            "target": 47,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 150,
-            "target": 101,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 101,
-            "target": 150,
-            "Type": "Directed",
-            "Weight": 6,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 33,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 150,
-            "target": 80,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 80,
-            "target": 150,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 150,
-            "target": 150,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 33,
-            "target": 150,
-            "Type": "Directed",
-            "Weight": 4,
-            "action": "text_reply"
-        },
-        {
-            "source": 33,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 70,
-            "target": 110,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 110,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 80,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 80,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 37,
-            "target": 37,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 37,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 138,
-            "Type": "Directed",
-            "Weight": 3,
-            "action": "text_reply"
-        },
-        {
-            "source": 101,
-            "target": 105,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 102,
-            "target": 68,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 33,
-            "target": 124,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 25,
-            "target": 6,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 149,
-            "target": 41,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 91,
-            "target": 89,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 90,
-            "target": 125,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 100,
-            "target": 77,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 105,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 3,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 70,
-            "Type": "Directed",
-            "Weight": 3,
-            "action": "text_reply"
-        },
-        {
-            "source": 150,
-            "target": 70,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 105,
-            "target": 101,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 5,
-            "Type": "Directed",
-            "Weight": 3,
-            "action": "text_reply"
-        },
-        {
-            "source": 5,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 17,
-            "target": 133,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 16,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 70,
-            "target": 17,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 105,
-            "target": 150,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 102,
-            "target": 105,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 150,
-            "target": 105,
-            "Type": "Directed",
-            "Weight": 3,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 144,
-            "Type": "Directed",
-            "Weight": 10,
-            "action": "text_reply"
-        },
-        {
-            "source": 150,
-            "target": 102,
-            "Type": "Directed",
-            "Weight": 3,
-            "action": "text_reply"
-        },
-        {
-            "source": 138,
-            "target": 150,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 9,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 150,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 47,
-            "target": 144,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 142,
-            "target": 39,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 140,
-            "target": 144,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 13,
-            "target": 140,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 140,
-            "target": 13,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 140,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 110,
-            "target": 144,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 133,
-            "Type": "Directed",
-            "Weight": 12,
-            "action": "text_reply"
-        },
-        {
-            "source": 65,
-            "target": 110,
-            "Type": "Directed",
-            "Weight": 7,
-            "action": "text_reply"
-        },
-        {
-            "source": 24,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 105,
-            "target": 24,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 138,
-            "target": 24,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 138,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 150,
-            "target": 144,
-            "Type": "Directed",
-            "Weight": 9,
-            "action": "text_reply"
-        },
-        {
-            "source": 47,
-            "target": 150,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 13,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 67,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 47,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 102,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 65,
-            "Type": "Directed",
-            "Weight": 6,
-            "action": "text_reply"
-        },
-        {
-            "source": 138,
-            "target": 65,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 65,
-            "target": 138,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 65,
-            "Type": "Directed",
-            "Weight": 4,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 101,
-            "Type": "Directed",
-            "Weight": 9,
-            "action": "text_reply"
-        },
-        {
-            "source": 144,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 3,
-            "action": "text_reply"
-        },
-        {
-            "source": 102,
-            "target": 110,
-            "Type": "Directed",
-            "Weight": 3,
-            "action": "text_reply"
-        },
-        {
-            "source": 102,
-            "target": 150,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 110,
-            "target": 102,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 110,
-            "target": 150,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 145,
-            "target": 11,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 147,
-            "target": 4,
-            "Type": "Directed",
-            "Weight": 5,
-            "action": "text_reply"
-        },
-        {
-            "source": 5,
-            "target": 4,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 4,
-            "target": 5,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 80,
-            "target": 65,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 110,
-            "target": 65,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 150,
-            "target": 65,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 65,
-            "target": 80,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 146,
-            "target": 110,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 136,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 105,
-            "target": 144,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 150,
-            "target": 62,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 34,
-            "Type": "Directed",
-            "Weight": 5,
-            "action": "text_reply"
-        },
-        {
-            "source": 144,
-            "target": 150,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 70,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 150,
-            "target": 34,
-            "Type": "Directed",
-            "Weight": 3,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 146,
-            "Type": "Directed",
-            "Weight": 3,
-            "action": "text_reply"
-        },
-        {
-            "source": 146,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 145,
-            "target": 119,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 147,
-            "target": 3,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 64,
-            "target": 5,
-            "Type": "Directed",
-            "Weight": 1,
             "action": "text_reply"
         },
         {
             "source": 139,
-            "target": 55,
+            "target": 1212,
             "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 150,
-            "target": 5,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 34,
-            "Type": "Directed",
-            "Weight": 7,
-            "action": "text_reply"
-        },
-        {
-            "source": 34,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 105,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 139,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 34,
-            "target": 150,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 110,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 55,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 150,
-            "target": 55,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 32,
-            "target": 150,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 110,
-            "target": 34,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 60,
-            "target": 110,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 80,
-            "target": 133,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 150,
-            "target": 23,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 23,
-            "target": 150,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 60,
-            "target": 133,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 60,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 23,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 23,
-            "target": 133,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 80,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 80,
-            "target": 3,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 101,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 144,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 110,
-            "target": 86,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 80,
-            "target": 144,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 136,
-            "target": 67,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 60,
-            "target": 136,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 101,
-            "target": 67,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 67,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 67,
-            "target": 144,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 67,
-            "target": 101,
-            "Type": "Directed",
+            "timeset": null,
             "Weight": 3,
             "action": "text_reply"
         },
         {
-            "source": 101,
+            "source": 1212,
             "target": 139,
             "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 67,
-            "target": 4,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 67,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 136,
-            "target": 10,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 101,
-            "target": 48,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 48,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 48,
-            "target": 133,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 150,
-            "target": 4,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 101,
-            "target": 4,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 101,
-            "target": 133,
-            "Type": "Directed",
-            "Weight": 4,
-            "action": "text_reply"
-        },
-        {
-            "source": 150,
-            "target": 133,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 4,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 101,
-            "target": 34,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 77,
-            "target": 19,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 147,
-            "target": 77,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 19,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 19,
-            "target": 133,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 144,
-            "target": 133,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 34,
-            "target": 2,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 2,
-            "target": 34,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 141,
-            "target": 117,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 13,
-            "target": 147,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 67,
-            "target": 116,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 101,
-            "target": 13,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 2,
-            "target": 64,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 34,
-            "target": 26,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 26,
-            "target": 34,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 103,
-            "target": 122,
-            "Type": "Directed",
-            "Weight": 3,
-            "action": "text_reply"
-        },
-        {
-            "source": 17,
-            "target": 122,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 122,
-            "target": 17,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 122,
-            "target": 103,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 61,
-            "target": 122,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 122,
-            "target": 61,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 110,
-            "target": 33,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 65,
-            "target": 133,
-            "Type": "Directed",
+            "timeset": null,
             "Weight": 5,
             "action": "text_reply"
         },
         {
-            "source": 65,
-            "target": 33,
+            "source": 357,
+            "target": 848,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 115,
-            "target": 65,
+            "source": 357,
+            "target": 139,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 65,
-            "target": 105,
+            "source": 886,
+            "target": 139,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 34,
-            "target": 133,
+            "source": 1217,
+            "target": 357,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 136,
-            "target": 110,
+            "source": 1217,
+            "target": 848,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 65,
-            "target": 65,
+            "source": 848,
+            "target": 1217,
             "Type": "Directed",
-            "Weight": 1,
+            "timeset": null,
+            "Weight": 6,
             "action": "text_reply"
         },
         {
-            "source": 47,
-            "target": 133,
+            "source": 1212,
+            "target": 265,
             "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 101,
-            "target": 65,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 101,
-            "target": 115,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 53,
-            "target": 106,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 34,
-            "target": 110,
-            "Type": "Directed",
+            "timeset": null,
             "Weight": 2,
             "action": "text_reply"
         },
         {
-            "source": 2,
-            "target": 100,
+            "source": 1217,
+            "target": 628,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 83,
+            "source": 628,
+            "target": 1217,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 1217,
+            "target": 1217,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 265,
+            "target": 1217,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 265,
+            "target": 1212,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1212,
+            "target": 1212,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 571,
+            "target": 926,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 926,
+            "target": 1212,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 628,
+            "target": 1212,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 1212,
+            "target": 628,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 284,
+            "target": 284,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1212,
+            "target": 284,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1212,
+            "target": 1108,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 848,
+            "target": 886,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 851,
+            "target": 562,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 265,
+            "target": 1031,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 175,
+            "target": 39,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 1216,
+            "target": 319,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 747,
+            "target": 736,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 739,
+            "target": 1032,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 840,
+            "target": 604,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 886,
+            "target": 1212,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 1212,
+            "target": 571,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 1217,
+            "target": 571,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 886,
+            "target": 848,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1212,
             "target": 36,
             "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 127,
-            "target": 28,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 3,
-            "target": 79,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 3,
-            "target": 93,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 49,
-            "target": 79,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 110,
-            "target": 93,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 65,
-            "target": 28,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 93,
-            "target": 110,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 93,
-            "target": 1,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 127,
-            "target": 95,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 2,
-            "target": 38,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 28,
-            "target": 65,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 66,
-            "target": 77,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 66,
-            "target": 28,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 132,
-            "target": 118,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 47,
-            "target": 65,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 127,
-            "target": 87,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 111,
-            "target": 121,
-            "Type": "Directed",
+            "timeset": null,
             "Weight": 3,
             "action": "text_reply"
         },
         {
-            "source": 111,
-            "target": 47,
+            "source": 36,
+            "target": 1212,
             "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 47,
-            "target": 121,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 47,
-            "target": 111,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 34,
-            "target": 28,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 34,
-            "target": 47,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 65,
-            "target": 47,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 111,
-            "target": 7,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 7,
-            "target": 144,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 28,
-            "target": 131,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 85,
-            "target": 88,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 132,
-            "target": 43,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 132,
-            "target": 47,
-            "Type": "Directed",
+            "timeset": null,
             "Weight": 2,
             "action": "text_reply"
         },
         {
-            "source": 47,
-            "target": 43,
+            "source": 139,
+            "target": 1089,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 123,
+            "source": 1212,
             "target": 126,
             "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
         },
         {
-            "source": 138,
-            "target": 34,
+            "source": 571,
+            "target": 139,
             "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 886,
+            "target": 1217,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 851,
+            "target": 886,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1217,
+            "target": 886,
+            "Type": "Directed",
+            "timeset": null,
             "Weight": 3,
             "action": "text_reply"
         },
         {
-            "source": 127,
+            "source": 1212,
+            "target": 1135,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 10,
+            "action": "text_reply"
+        },
+        {
+            "source": 1217,
+            "target": 851,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 1108,
+            "target": 1217,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 1212,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 9,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 1217,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 357,
+            "target": 1135,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 1126,
+            "target": 301,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 1117,
+            "target": 1135,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 108,
+            "target": 1117,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1117,
             "target": 108,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 137,
-            "target": 144,
+            "source": 1212,
+            "target": 1117,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 135,
-            "target": 131,
+            "source": 926,
+            "target": 1135,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 57,
-            "target": 131,
+            "source": 1212,
+            "target": 1089,
             "Type": "Directed",
+            "timeset": null,
+            "Weight": 12,
+            "action": "text_reply"
+        },
+        {
+            "source": 531,
+            "target": 926,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 7,
+            "action": "text_reply"
+        },
+        {
+            "source": 171,
+            "target": 1212,
+            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 65,
-            "target": 43,
+            "source": 886,
+            "target": 171,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 131,
-            "target": 57,
+            "source": 1108,
+            "target": 171,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 47,
-            "target": 136,
+            "source": 1108,
+            "target": 1212,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 136,
-            "target": 47,
+            "source": 1217,
+            "target": 1135,
             "Type": "Directed",
+            "timeset": null,
+            "Weight": 9,
+            "action": "text_reply"
+        },
+        {
+            "source": 357,
+            "target": 1217,
+            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 127,
-            "target": 135,
+            "source": 1212,
+            "target": 108,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 28,
-            "target": 34,
+            "source": 1212,
+            "target": 558,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 28,
-            "target": 7,
+            "source": 1212,
+            "target": 357,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 7,
-            "target": 28,
+            "source": 851,
+            "target": 1212,
             "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 531,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 6,
+            "action": "text_reply"
+        },
+        {
+            "source": 1108,
+            "target": 531,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 531,
+            "target": 1108,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1212,
+            "target": 531,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 1212,
+            "target": 848,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 9,
+            "action": "text_reply"
+        },
+        {
+            "source": 1135,
+            "target": 1212,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 851,
+            "target": 926,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 851,
+            "target": 1217,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 926,
+            "target": 851,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 926,
+            "target": 1217,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1193,
+            "target": 102,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 1212,
+            "target": 31,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 36,
+            "target": 31,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 31,
+            "target": 36,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 628,
+            "target": 531,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 926,
+            "target": 531,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 1217,
+            "target": 531,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 531,
+            "target": 628,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1201,
+            "target": 926,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1212,
+            "target": 1103,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 886,
+            "target": 1135,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1217,
+            "target": 488,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1212,
+            "target": 267,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 1135,
+            "target": 1217,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 571,
+            "target": 1212,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1217,
+            "target": 267,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 1212,
+            "target": 1201,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 1201,
+            "target": 1212,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 1193,
+            "target": 1003,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 1212,
+            "target": 24,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 530,
+            "target": 36,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1110,
+            "target": 411,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 1217,
+            "target": 36,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 267,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 7,
+            "action": "text_reply"
+        },
+        {
+            "source": 267,
+            "target": 1212,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 886,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1212,
+            "target": 1110,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 267,
+            "target": 1217,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 926,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1212,
+            "target": 411,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1217,
+            "target": 411,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 262,
+            "target": 1217,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 926,
+            "target": 267,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 476,
+            "target": 926,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 628,
+            "target": 1089,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1217,
+            "target": 166,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 166,
+            "target": 1217,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 476,
+            "target": 1089,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 476,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 166,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 166,
+            "target": 1089,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 628,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 628,
+            "target": 24,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 848,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 1135,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 926,
+            "target": 692,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 628,
+            "target": 1135,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1103,
+            "target": 558,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 476,
+            "target": 1103,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 848,
+            "target": 558,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 558,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 558,
+            "target": 1135,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 558,
+            "target": 848,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 848,
+            "target": 1110,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 558,
+            "target": 31,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 558,
+            "target": 1212,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1103,
+            "target": 100,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 848,
+            "target": 362,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 362,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 362,
+            "target": 1089,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1217,
+            "target": 31,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 848,
+            "target": 31,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 848,
+            "target": 1089,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 4,
+            "action": "text_reply"
+        },
+        {
+            "source": 1217,
+            "target": 1089,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 31,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 848,
+            "target": 267,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 604,
+            "target": 155,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1212,
+            "target": 604,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 155,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 155,
+            "target": 1089,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1135,
+            "target": 1089,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 267,
+            "target": 21,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 21,
+            "target": 267,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1118,
+            "target": 974,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 108,
+            "target": 1212,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 558,
+            "target": 971,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 848,
+            "target": 108,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 21,
+            "target": 530,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 267,
+            "target": 202,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 202,
+            "target": 267,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 852,
+            "target": 1015,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 139,
+            "target": 1015,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1015,
+            "target": 139,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1015,
+            "target": 852,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 484,
+            "target": 1015,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1015,
+            "target": 484,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 926,
+            "target": 265,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 531,
+            "target": 1089,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 5,
+            "action": "text_reply"
+        },
+        {
+            "source": 531,
+            "target": 265,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 963,
+            "target": 531,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 531,
+            "target": 886,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 267,
+            "target": 1089,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1103,
+            "target": 926,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 531,
+            "target": 531,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 357,
+            "target": 1089,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 848,
+            "target": 531,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 848,
+            "target": 963,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 399,
+            "target": 913,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 267,
+            "target": 926,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 21,
+            "target": 840,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 660,
+            "target": 275,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 1050,
+            "target": 230,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 624,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 24,
+            "target": 773,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 363,
+            "target": 624,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 926,
+            "target": 773,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 531,
+            "target": 230,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 773,
+            "target": 926,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 773,
+            "target": 11,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 1050,
+            "target": 818,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 21,
+            "target": 285,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 230,
+            "target": 531,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 535,
+            "target": 604,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 535,
+            "target": 230,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1076,
+            "target": 995,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 357,
+            "target": 531,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 1050,
+            "target": 694,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 939,
+            "target": 1006,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 939,
+            "target": 357,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 357,
+            "target": 1006,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 357,
+            "target": 939,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 267,
+            "target": 230,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 267,
+            "target": 357,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 531,
+            "target": 357,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 939,
+            "target": 59,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 59,
+            "target": 1135,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 230,
+            "target": 1073,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 680,
+            "target": 698,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 1076,
+            "target": 334,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1076,
+            "target": 357,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 357,
+            "target": 334,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1018,
+            "target": 1046,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 1108,
+            "target": 267,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 3,
+            "action": "text_reply"
+        },
+        {
+            "source": 1050,
+            "target": 920,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1105,
+            "target": 1135,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1099,
+            "target": 1073,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 431,
+            "target": 1073,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 531,
+            "target": 334,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1073,
+            "target": 431,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 357,
+            "target": 1103,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1103,
+            "target": 357,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1050,
+            "target": 1099,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 230,
+            "target": 267,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 230,
+            "target": 59,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 59,
+            "target": 230,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 100,
+            "target": 267,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 694,
+            "target": 694,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 861,
+            "target": 62,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 594,
+            "target": 925,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 1103,
+            "target": 1103,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 267,
+            "target": 830,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 59,
+            "target": 830,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 830,
+            "target": 59,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 90,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1076,
+            "target": 90,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1108,
+            "target": 1076,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 940,
+            "target": 267,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1129,
+            "target": 393,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 240,
+            "target": 59,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 240,
+            "target": 267,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 59,
+            "target": 240,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 573,
+            "target": 240,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 240,
+            "target": 573,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 163,
+            "target": 267,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 163,
+            "target": 239,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 267,
+            "target": 531,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 240,
+            "target": 163,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 861,
+            "target": 939,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1089,
+            "target": 939,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 749,
+            "target": 267,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1103,
+            "target": 576,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 126,
+            "target": 59,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1050,
+            "target": 59,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 640,
+            "target": 103,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 2,
+            "action": "text_reply"
+        },
+        {
+            "source": 940,
+            "target": 103,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 640,
+            "target": 321,
+            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
             "source": 10,
-            "target": 34,
+            "target": 335,
             "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 87,
-            "target": 87,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 104,
-            "target": 8,
-            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 76,
-            "target": 109,
+            "source": 940,
+            "target": 166,
             "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 579,
+            "target": 941,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1060,
+            "target": 143,
+            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 136,
-            "target": 136,
+            "source": 267,
+            "target": 502,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 34,
-            "target": 98,
+            "source": 502,
+            "target": 267,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 7,
-            "target": 98,
+            "source": 1108,
+            "target": 240,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 98,
-            "target": 7,
+            "source": 59,
+            "target": 470,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 133,
-            "target": 9,
+            "source": 1108,
+            "target": 470,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 132,
-            "target": 9,
+            "source": 267,
+            "target": 240,
             "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 138,
-            "target": 132,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 112,
-            "target": 34,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 143,
-            "target": 51,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 30,
-            "target": 7,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 30,
-            "target": 34,
-            "Type": "Directed",
+            "timeset": null,
             "Weight": 2,
             "action": "text_reply"
         },
         {
-            "source": 7,
-            "target": 30,
+            "source": 267,
+            "target": 470,
             "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 71,
-            "target": 30,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 30,
-            "target": 71,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 21,
-            "target": 34,
-            "Type": "Directed",
+            "timeset": null,
             "Weight": 2,
             "action": "text_reply"
         },
         {
-            "source": 21,
-            "target": 29,
+            "source": 1108,
+            "target": 1214,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 34,
-            "target": 65,
+            "source": 940,
+            "target": 1050,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 30,
-            "target": 21,
+            "source": 1050,
+            "target": 816,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 104,
-            "target": 111,
+            "source": 646,
+            "target": 587,
             "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 133,
-            "target": 111,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 92,
-            "target": 34,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 136,
-            "target": 72,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 16,
-            "target": 7,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 127,
-            "target": 7,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 81,
-            "target": 12,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 112,
-            "target": 12,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 81,
-            "target": 42,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 0,
-            "target": 44,
-            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 112,
-            "target": 23,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 74,
-            "target": 113,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 129,
-            "target": 18,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 34,
-            "target": 63,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 63,
-            "target": 34,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 138,
-            "target": 30,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 7,
+            "source": 848,
             "target": 59,
             "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 138,
-            "target": 59,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 34,
-            "target": 30,
-            "Type": "Directed",
+            "timeset": null,
             "Weight": 2,
             "action": "text_reply"
         },
         {
-            "source": 34,
-            "target": 59,
+            "source": 59,
+            "target": 848,
             "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 138,
-            "target": 148,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 112,
-            "target": 127,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 127,
-            "target": 94,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 82,
-            "target": 75,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 101,
-            "target": 7,
-            "Type": "Directed",
-            "Weight": 2,
-            "action": "text_reply"
-        },
-        {
-            "source": 7,
-            "target": 101,
-            "Type": "Directed",
+            "timeset": null,
             "Weight": 3,
             "action": "text_reply"
         },
         {
-            "source": 15,
-            "target": 54,
+            "source": 123,
+            "target": 403,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 15,
-            "target": 27,
+            "source": 123,
+            "target": 207,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 30,
-            "target": 138,
+            "source": 240,
+            "target": 1108,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 138,
-            "target": 128,
+            "source": 1108,
+            "target": 1051,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 128,
-            "target": 138,
+            "source": 1051,
+            "target": 1108,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 7,
-            "target": 34,
+            "source": 59,
+            "target": 267,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 12,
-            "target": 7,
+            "source": 103,
+            "target": 59,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 7,
-            "target": 12,
+            "source": 59,
+            "target": 103,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 96,
-            "target": 135,
+            "source": 820,
+            "target": 1099,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 78,
-            "target": 135,
+            "source": 619,
+            "target": 1099,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 73,
-            "target": 78,
+            "source": 578,
+            "target": 619,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 84,
-            "target": 120,
+            "source": 675,
+            "target": 1005,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 40,
-            "target": 84,
+            "source": 312,
+            "target": 675,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 40,
-            "target": 34,
+            "source": 312,
+            "target": 267,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 138,
-            "target": 99,
+            "source": 1108,
+            "target": 834,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 99,
-            "target": 138,
+            "source": 834,
+            "target": 1108,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 135,
-            "target": 99,
+            "source": 1099,
+            "target": 834,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 97,
-            "target": 31,
+            "source": 823,
+            "target": 249,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 7,
-            "target": 69,
+            "source": 59,
+            "target": 563,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 50,
-            "target": 58,
+            "source": 367,
+            "target": 459,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 4,
             "action": "text_reply"
         },
         {
-            "source": 58,
-            "target": 50,
+            "source": 459,
+            "target": 367,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 3,
             "action": "text_reply"
         },
         {
-            "source": 58,
-            "target": 58,
+            "source": 459,
+            "target": 459,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 107,
-            "target": 20,
+            "source": 916,
+            "target": 162,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         }

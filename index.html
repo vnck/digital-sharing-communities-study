@@ -272,68 +272,119 @@
                             </tbody>
                             <caption>Figure 11. Selected Digital Communities for Social Network Analysis</caption>
                         </table>
-                        <p class='fw-bold mt-4'>4.2.2. Network Visualisation</p>
+                        <p class='fw-bold mt-4'>4.2.2. Network Analysis</p>
                         We used the open-source GEPHI network visualisation software to analyse our social networks. To discover community structures within our social networks, we partitioned the users using modularity classes. Modularity produces clusters by looking for nodes that are more connected together than the rest of the network. We also measured the out-degree of each node to identify active users who engage with a wider proportion of their community.
-                        <p class='fw-bold mt-4'>4.3. Network Visualisatins</p>
-                        <p>Legend:</p>
-                        <ul>
-                            <li>Each node is a community member.</li>
-                            <li>Node Color corresponds to clustering defined by modularity.</li>
-                            <li>Node Size corresponds to out-degree.</li>
-                            <li>Edge Color corresponds to type of interaction:</li>
-                            <ul>
-                                <li><span style='color: dodgerblue;'>Blue</span> ➡️ : Text Message</li>
-                                <li><span style='color: mediumaquamarine;'>Green</span> ➡️ : Added Member</li>
-                                <li><span style='color: tomato;'>Red</span> ➡️ : Removed Member</li>
-                            </ul>
-                            <li>Edge Thickness corresponds to relative number of interactions.</li>
-                        </ul>
+                        <p class='fw-bold mt-4'>4.3. Network Visualisation</p>
                     </div>
                     <div class="d-flex flex-column align-items-center">
-                        <div class='mb-3 w-75'>
-                            <label class="form-label">
-                                Adjust visibility of links (min-weight):
-                                <output class='me-2'id="minWeightOutput">0</output>
-                            </label>
-                            <input class='form-range' type="range" min="0" max="50" value="0" step="5" oninput="d3.select('#minWeightOutput').text(value); minWeight=value; updateGraphs();">
-                        </div>
-                        <div class="mb-5 w-100">
-                            <svg style="border: 1px solid black;" id='graph1'></svg>
-                            <p class='figure-caption'>Figure 12: Punggol BTO</p>
-                            <p>% represented: 324/561=58%</p>
-                        </div>
-                        <div class="mb-5 w-100">
-                            <svg style="border: 1px solid black;" id='graph2'></svg>
-                            <p class='figure-caption'>Figure 13: Punggol Residential</p>
-                            <p>% represented: 507/1217=42%</p>
-                        </div>
-                        <div class="mb-5 w-100">
-                            <svg style="border: 1px solid black;" id='graph3'></svg>
-                            <p class='figure-caption'>Figure 14: Jurong BTO</p>
-                            <p>% represented: 151/265=57%</p>
-                        </div>
-                        <div class="mb-5 w-100">
-                            <svg style="border: 1px solid black;" id='graph4'></svg>
-                            <p class='figure-caption'>Figure 15: Jurong Residential</p>
-                            <p>% represented: 127/489=26%</p>
-                        </div>
-                        <div class="mb-5 w-100">
-                            <svg style="border: 1px solid black;" id='graph6'></svg>
-                            <p class='figure-caption'>Figure 16: Toa Payoh BTO</p>
-                            <p>% represented: 42/73=58%</p>
-                        </div>
-                        <div class="mb-5 w-100">
-                            <svg style="border: 1px solid black;" id='graph5'></svg>
-                            <p class='figure-caption'>Figure 17: Toa Payoh Residential</p>
-                            <p>% represented: 85/220=39%</p>
+                        <form class="row g-2 align-items-center w-100 pb-4">
+                            <div class="col-md form-floating w-30">
+                                <select class="form-select" id="inlineFormSelectPref" oninput="selectedGraph=value; create_graph(selectedGraph);">
+                                  <option selected value="punggolBTO">Punggol BTO</option>
+                                  <option value="PunggolResidential">Punggol Residential</option>
+                                  <option value="JurongBTO">Jurong BTO</option>
+                                  <option value="JurongResidential">Jurong Residential</option>
+                                  <option value="ToaPayohBTO">Toa Payoh BTO</option>
+                                  <option value="ToaPayohResidential">Toa Payoh Residential</option>
+                                </select>
+                                <label for="inlineFormSelectPref">Community</label>
+                              </div>
+                              <div class="col-md w-25">
+                                <label class="form-label"for="inlineFormSlider">Min Weight: <output class="ms-2" id="sliderValue">0</output>
+                                </label>
+                                <input class='form-range' id="inlineFormSlider" type="range" min="0" max="50" value="0" step="1" oninput="d3.select('#sliderValue').text(value); minWeight=value; updateGraphs();">
+                              </div>
+                              <div class="col-md form-floating w-30">
+                                <select class="form-select" id="inlineFormSelectPref" oninput="nodeSize=value; create_graph(selectedGraph);">
+                                  <option selected value="outdegree">Out-Degree</option>
+                                  <option value="indegree">In-Degree</option>
+                                  <option value="Degree">Degree</option>
+                                  <option value="eigencentrality">Eigencentrality</option>
+                                </select>
+                                <label for="inlineFormSelectPref">Node Size</label>
+                              </div>
+                        </form>
+                        <svg class="w-100" style="height: 400px; border: 1px solid black;" id='graph'></svg>
+                        <p class='figure-caption mb-1'>Figure 12: Network Visualisation of Telegram Community Groups</p>
+                        <div style="width: 100%; font-size: 9px;">
+                            <p class="mb-1" style="font-weight: bold; font-size: 11px;">Legend</p>
+                            <div class='d-flex d-row flex-wrap'>
+                                <p class="my-1 me-3"><svg width='16px' height='16px'><circle cx="8" cy="8" r="5" stroke="black" stroke-width="1" fill="white"/></svg> community member</p>
+                                <p class="my-1 me-3"><svg width='16px' height='16px'><circle cx="8" cy="8" r="5" stroke="black" stroke-width="1" fill="white"/></svg> color: modularity cluster</p>
+                                <p class="my-1 me-3">
+                                    <svg width='16px' height='16px'>
+                                    <defs>
+                                    <marker id='head' orient="auto" markerWidth='3' markerHeight='4'refX='0.1' refY='2'>
+                                        <path d='M0,0 V4 L2,2 Z' fill="dodgerblue"/>
+                                    </marker>
+                                    </defs>
+                                    <path id='arrow-line' marker-end='url(#head)' stroke-width='1' fill='none' stroke='dodgerblue' d='M4,8, 12 8,8'/></svg> text message
+                                </p>
+                                <p class="my-1 me-3">
+                                    <svg width='16px' height='16px'>
+                                    <defs>
+                                    <marker id='head1' orient="auto" markerWidth='3' markerHeight='4'refX='0.1' refY='2'>
+                                        <path d='M0,0 V4 L2,2 Z' fill="mediumaquamarine"/>
+                                    </marker>
+                                    </defs>
+                                    <path id='arrow-line' marker-end='url(#head1)' stroke-width='1' fill='none' stroke='mediumaquamarine' d='M4,8, 12 8,8'/></svg> add member
+                                </p>
+                                <p class="my-1 me-3">
+                                    <svg width='16px' height='16px'>
+                                    <defs>
+                                    <marker id='head2' orient="auto" markerWidth='3' markerHeight='4'refX='0.1' refY='2'>
+                                        <path d='M0,0 V4 L2,2 Z' fill="tomato"/>
+                                    </marker>
+                                    </defs>
+                                    <path id='arrow-line' marker-end='url(#head2)' stroke-width='1' fill='none' stroke='tomato' d='M4,8, 12 8,8'/></svg> remove member
+                                </p>
+                                <p class="my-1 me-3">
+                                    <svg width='16px' height='16px'>
+                                    <defs>
+                                    <marker id='head3' orient="auto" markerWidth='3' markerHeight='4'refX='0.1' refY='2'>
+                                        <path d='M0,0 V4 L2,2 Z' fill="black"/>
+                                    </marker>
+                                    </defs>
+                                    <path id='arrow-line' marker-end='url(#head3)' stroke-width='1' fill='none' stroke='black' d='M4,8, 12 8,8'/></svg> thickness: no. of interactions
+                                </p>
+                            </div>
                         </div>
                     </div>
-                    <p class='fw-bold mt-4'>4.4. Findings</p>
-                    <p class='fw-bold mt-4'>4.4.1. Super-members and Lurkers</p>
-                    <p>Within 5 of the 6 communities studied, there exists a community members with high out-degree and in-degree. For example, user 118 in Punggol BTO group with out-degree=140 and in-degree=108. We label these users as 'super-members', which are characterised by two-way communication with a large proportion of their community. These super-members serve as an anchor into the community for other members.</p>
-                    <p>On the other hand, our social network analysis has revealed that each digital community will inevitably have users who exist within the community but do not take part in any form of interaction within. We label these users as 'lurkers'. These users appear in the periphary of our visualisation and many of them are a product of being invited by another lurker.</p>
-                    <p class='fw-bold mt-4'>4.4.2. Expansion of Community</p>
-                    <p>A sign of growth within a community are members inviting new members into the community. While the small number of member invitations within our data suggests that most members come to join the community by their own searching capabilities, we observe that there are also some people who join via invitations from the members within the community, as seen by the green arrows. We observe that the characteristic of the user inviting the newcomer is a strong predictor for the characteristic of the newcomer themself. If the inviting user is a proactive member of the community with strong out-degree-ness, the newcomer invited by that person is more likely to also engage in interaction with the rest of the community. In contrast, newcomers invited by lurkers are likely to also be lurkers.</p>
+                    <div class="mb-5" style='text-align: justify;'>
+                        <p class='fw-bold mt-4'>4.4. Findings</p>
+                        <p>A network analysis of a social community allows us to define quantitative metrics that measure the interactivity of each member within the network. We calculate these three metrics for each member in the network:</p>
+                        <div class='card-body py-4 pb-2'>
+                            <ul class=' list-group-flush p-0'>
+                                <li class='list-group-item'><b>In-Degree:</b> The number of edges directed towards the node. This measures the extent to which other users interact with this node.</li>
+                                <li class='list-group-item'><b>Out-Degree:</b> The number of edges directed away from the node. This measures the extent to which the node interacts with other users.</li>
+                                <li class='list-group-item'><b>Degree:</b> The sum of in-degree and out-degree. This is a measure of the total interactions of the node with other users.</li>
+                                <li class='list-group-item'><b>Eigencentrality:</b> A measure of the influence of a node in a network. A person with few connections could have a very high eigenvector centrality if those few connections were to very well-connected others.</li>
+                                <li class='list-group-item'><b>Betweeness Centrality:</b> A measure of centrality in a graph based on shortest paths. It allows us to identify bridging positions, members that connect sub-communities together.</li>
+                                <li class='list-group-item'><b>Modularity:</b> A measure of the number of edges falling within groups minus the expected number in an equivalent network with edges placed at random. Positive modularity indicates the possible presence of community structure.</li>
+                            </ul>
+                        </div>
+                        <p>With this, we characterise the members within the six selected digital sharing communities:</p>
+                        <p class='fw-bold mt-4'>4.4.1. A typology of users</p>
+                        <p class='fw-bold mt-4'>4.4.1.1. Super Members</p>
+                        <p>We identified a type of member called a <b>super member</b> which is characterised by a high degree relative to the other members in the community. Super members were found within 3 of the digital sharing communities: Punggol BTO, Punggol Residential and Jurong BTO, as seen in Figure 13.</p>
+                        <figure class="figure">
+                            <img src="img/degree-plot.png" class="figure-img img-fluid rounded" alt="...">
+                            <figcaption class="figure-caption">Figure 13. Scatterplot of in-degree and out-degree against degree for each 6 communities</figcaption>
+                        </figure>
+                        <p class='fw-bold mt-4'>4.4.1.2. Lurkers</p>
+                        <figure class="figure">
+                            <img src="img/degree-hist-plot.png" class="figure-img img-fluid rounded" alt="...">
+                            <figcaption class="figure-caption">Figure 14. Histogram of zero degree and non-zero degree members for each 6 communities</figcaption>
+                        </figure>
+                        <p>We observed the presence of many members within that do not interact with other members (degree=0), which we have labelled as <b>lurkers</b>. The high proportion of lurkers is characteristic of open groups, which do not exclude members based on their activeness. However, because we use the explicit mention of another user to measure interaction (such as tagging a user i.e. '@user123'), our method is limited in that it cannot detect interactions that happen without explicit mentions.</p>
+                        <p class='fw-bold mt-4'>4.4.1.3. Bridging Members</p>
+                        <figure class="figure">
+                            <img src="img/betweeness-plot.png" class="figure-img img-fluid rounded" alt="...">
+                            <figcaption class="figure-caption">Figure 15. Scatterplot of betweeness centrality against degree for each 6 communities</figcaption>
+                        </figure>
+                        <p>Within the chat groups in Jurong, we identified members that have high betweeness centrality while having low degree. These are members of the community that while do not interact as often as super members, are integral in connecting sub-communities found within the larger community. These sub-communities themselves can be found through modularity. (Modularity clustering is visualised by the node color in Figure 12.)</p>
+                        <p>The presence of bridging members is also a measure of how cohesive a community is. In the Punggol communities, we observe both the lack of bridging users, as well as the identification of one majority cluster by modularity.</p>
+                    </div>
                 </div>
                 <div id='interview' class='tab-pane fades'>
                     This is where the interviews will go.

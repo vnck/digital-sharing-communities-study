@@ -1,452 +1,900 @@
 {
     "nodes": [
         {
-            "id": 40,
-            "modularity_class": 2,
+            "id": 1058,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
             "eigencentrality": 0.0,
-            "outdegree": 1
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
         },
         {
-            "id": 17,
-            "modularity_class": 2,
+            "id": 400,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
             "eigencentrality": 0.010407,
-            "outdegree": 1
-        },
-        {
-            "id": 22,
-            "modularity_class": 2,
-            "eigencentrality": 0.0,
-            "outdegree": 2
-        },
-        {
-            "id": 6,
-            "modularity_class": 2,
-            "eigencentrality": 0.010407,
-            "outdegree": 0
-        },
-        {
-            "id": 33,
-            "modularity_class": 2,
-            "eigencentrality": 0.071905,
-            "outdegree": 0
-        },
-        {
-            "id": 45,
-            "modularity_class": 5,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 32,
-            "modularity_class": 5,
-            "eigencentrality": 0.010407,
-            "outdegree": 0
-        },
-        {
-            "id": 38,
-            "modularity_class": 6,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 47,
-            "modularity_class": 6,
-            "eigencentrality": 0.010407,
-            "outdegree": 0
-        },
-        {
-            "id": 9,
-            "modularity_class": 7,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 18,
-            "modularity_class": 7,
-            "eigencentrality": 0.010407,
-            "outdegree": 2
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
         },
         {
             "id": 7,
-            "modularity_class": 9,
-            "eigencentrality": 0.0,
-            "outdegree": 1
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 1,
+            "eigencentrality": 0.989593,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
         },
         {
-            "id": 5,
-            "modularity_class": 9,
+            "id": 212,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 2,
+            "eigencentrality": 0.989593,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 529,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 2,
+            "Degree": 2
+        },
+        {
+            "id": 67,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
             "eigencentrality": 0.010407,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
-            "id": 12,
-            "modularity_class": 10,
-            "eigencentrality": 0.010407,
-            "outdegree": 1
-        },
-        {
-            "id": 13,
-            "modularity_class": 10,
-            "eigencentrality": 0.071905,
-            "outdegree": 0
-        },
-        {
-            "id": 43,
-            "modularity_class": 10,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 20,
-            "modularity_class": 11,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 1,
-            "modularity_class": 11,
-            "eigencentrality": 0.010407,
-            "outdegree": 0
-        },
-        {
-            "id": 31,
-            "modularity_class": 12,
-            "eigencentrality": 0.0,
-            "outdegree": 1
+            "id": 389,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 3,
+            "eigencentrality": 0.989593,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
         },
         {
             "id": 2,
-            "modularity_class": 12,
-            "eigencentrality": 0.010407,
-            "outdegree": 0
-        },
-        {
-            "id": 15,
-            "modularity_class": 7,
-            "eigencentrality": 0.061498,
-            "outdegree": 0
-        },
-        {
-            "id": 24,
-            "modularity_class": 13,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 21,
-            "modularity_class": 13,
-            "eigencentrality": 0.010407,
-            "outdegree": 0
-        },
-        {
-            "id": 39,
-            "modularity_class": 14,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 34,
-            "modularity_class": 14,
-            "eigencentrality": 0.010407,
-            "outdegree": 0
-        },
-        {
-            "id": 27,
-            "modularity_class": 15,
-            "eigencentrality": 0.0,
-            "outdegree": 1
-        },
-        {
-            "id": 4,
-            "modularity_class": 15,
-            "eigencentrality": 0.010407,
-            "outdegree": 0
-        },
-        {
-            "id": 23,
-            "modularity_class": 7,
-            "eigencentrality": 0.061498,
-            "outdegree": 0
-        },
-        {
-            "id": 41,
-            "modularity_class": 18,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 4,
             "eigencentrality": 0.989593,
-            "outdegree": 2
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
         },
         {
-            "id": 37,
-            "modularity_class": 18,
-            "eigencentrality": 0.989593,
-            "outdegree": 1
+            "id": 865,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 0,
+            "eigencentrality": 0.071905,
+            "indegree": 2,
+            "outdegree": 0,
+            "Degree": 2
         },
         {
-            "id": 26,
-            "modularity_class": 16,
+            "id": 1147,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 5,
             "eigencentrality": 0.0,
-            "outdegree": 1
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
         },
         {
-            "id": 36,
-            "modularity_class": 16,
+            "id": 836,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 5,
             "eigencentrality": 0.010407,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
-            "id": 29,
+            "id": 991,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 6,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 1194,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 6,
+            "eigencentrality": 0.010407,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 170,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 7,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 421,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 7,
+            "eigencentrality": 0.010407,
+            "indegree": 1,
+            "outdegree": 2,
+            "Degree": 3
+        },
+        {
+            "id": 784,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 8,
+            "eigencentrality": 0.989593,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 118,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 9,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 43,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 9,
+            "eigencentrality": 0.010407,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 240,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 18,
-            "eigencentrality": 1.0,
-            "outdegree": 0
+            "eigencentrality": 0.010407,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
         },
         {
-            "id": 35,
+            "id": 252,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 18,
+            "eigencentrality": 0.071905,
+            "indegree": 2,
+            "outdegree": 0,
+            "Degree": 2
+        },
+        {
+            "id": 1125,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 18,
             "eigencentrality": 0.0,
-            "outdegree": 3
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
         },
         {
-            "id": 25,
+            "id": 483,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 10,
             "eigencentrality": 0.0,
-            "outdegree": 1
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
         },
         {
-            "id": 42,
+            "id": 5,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 10,
+            "eigencentrality": 0.010407,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 815,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 11,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 6,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 11,
+            "eigencentrality": 0.010407,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 329,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 7,
+            "eigencentrality": 0.061498,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 598,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 12,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 520,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 12,
+            "eigencentrality": 0.010407,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 1010,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 13,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 947,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 13,
+            "eigencentrality": 0.010407,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 658,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 14,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 33,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 14,
+            "eigencentrality": 0.010407,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 586,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 7,
+            "eigencentrality": 0.061498,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 1077,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 17,
+            "eigencentrality": 0.989593,
+            "indegree": 1,
+            "outdegree": 2,
+            "Degree": 3
+        },
+        {
+            "id": 979,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 17,
+            "eigencentrality": 0.989593,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 623,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 15,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 973,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 15,
+            "eigencentrality": 0.010407,
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
+        },
+        {
+            "id": 1174,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 16,
+            "eigencentrality": 0.989593,
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
+        },
+        {
+            "id": 748,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 17,
+            "eigencentrality": 1.0,
+            "indegree": 2,
+            "outdegree": 0,
+            "Degree": 2
+        },
+        {
+            "id": 969,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 17,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 3,
+            "Degree": 3
+        },
+        {
+            "id": 622,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 18,
+            "eigencentrality": 0.0,
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
+        },
+        {
+            "id": 1102,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 19,
             "eigencentrality": 0.0,
-            "outdegree": 1
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
         },
         {
-            "id": 11,
+            "id": 238,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 19,
             "eigencentrality": 0.010407,
-            "outdegree": 1
+            "indegree": 1,
+            "outdegree": 1,
+            "Degree": 2
         },
         {
-            "id": 8,
+            "id": 152,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 19,
             "eigencentrality": 0.061498,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
-            "id": 19,
-            "modularity_class": 18,
+            "id": 462,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 17,
             "eigencentrality": 0.010407,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
-            "id": 14,
-            "modularity_class": 18,
+            "id": 258,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
+            "modularity_class": 17,
             "eigencentrality": 0.010407,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         },
         {
-            "id": 44,
+            "id": 1140,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 20,
             "eigencentrality": 0.0,
-            "outdegree": 1
+            "indegree": 0,
+            "outdegree": 1,
+            "Degree": 1
         },
         {
-            "id": 28,
+            "id": 674,
+            "timeset": null,
+            "Eccentricity": 0,
+            "closnesscentrality": 0,
+            "harmonicclosnesscentrality": 0,
+            "betweenesscentrality": 0,
             "modularity_class": 20,
             "eigencentrality": 0.010407,
-            "outdegree": 0
+            "indegree": 1,
+            "outdegree": 0,
+            "Degree": 1
         }
     ],
     "links": [
         {
-            "source": 40,
-            "target": 17,
+            "source": 1058,
+            "target": 400,
             "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 22,
-            "target": 6,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 17,
-            "target": 33,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 22,
-            "target": 33,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 45,
-            "target": 32,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 38,
-            "target": 47,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 9,
-            "target": 18,
-            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
             "source": 7,
-            "target": 5,
+            "target": 7,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
-            "action": "invite_members"
+            "action": "remove_members"
         },
         {
-            "source": 12,
-            "target": 13,
+            "source": 212,
+            "target": 212,
             "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "remove_members"
+        },
+        {
+            "source": 529,
+            "target": 67,
+            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 43,
-            "target": 12,
+            "source": 389,
+            "target": 389,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
-            "action": "text_reply"
+            "action": "remove_members"
         },
         {
-            "source": 20,
-            "target": 1,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "invite_members"
-        },
-        {
-            "source": 31,
+            "source": 2,
             "target": 2,
             "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "remove_members"
+        },
+        {
+            "source": 400,
+            "target": 865,
+            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 18,
-            "target": 15,
+            "source": 529,
+            "target": 865,
             "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1147,
+            "target": 836,
+            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 24,
-            "target": 21,
+            "source": 991,
+            "target": 1194,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 39,
-            "target": 34,
+            "source": 170,
+            "target": 421,
             "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 27,
-            "target": 4,
-            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 18,
-            "target": 23,
+            "source": 784,
+            "target": 784,
             "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 118,
+            "target": 43,
+            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 41,
-            "target": 37,
+            "source": 240,
+            "target": 252,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 37,
-            "target": 41,
+            "source": 1125,
+            "target": 240,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 26,
-            "target": 36,
+            "source": 483,
+            "target": 5,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 41,
-            "target": 29,
+            "source": 815,
+            "target": 6,
             "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 35,
-            "target": 29,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 25,
-            "target": 13,
-            "Type": "Directed",
-            "Weight": 1,
-            "action": "text_reply"
-        },
-        {
-            "source": 42,
-            "target": 11,
-            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 11,
-            "target": 8,
+            "source": 421,
+            "target": 329,
             "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "invite_members"
         },
         {
-            "source": 35,
-            "target": 19,
+            "source": 598,
+            "target": 520,
             "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 1010,
+            "target": 947,
+            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 35,
-            "target": 14,
+            "source": 658,
+            "target": 33,
             "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 421,
+            "target": 586,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 1077,
+            "target": 979,
+            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         },
         {
-            "source": 44,
-            "target": 28,
+            "source": 979,
+            "target": 1077,
             "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 623,
+            "target": 973,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 1174,
+            "target": 1174,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1077,
+            "target": 748,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 969,
+            "target": 748,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 622,
+            "target": 252,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1102,
+            "target": 238,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 238,
+            "target": 152,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "invite_members"
+        },
+        {
+            "source": 969,
+            "target": 462,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 969,
+            "target": 258,
+            "Type": "Directed",
+            "timeset": null,
+            "Weight": 1,
+            "action": "text_reply"
+        },
+        {
+            "source": 1140,
+            "target": 674,
+            "Type": "Directed",
+            "timeset": null,
             "Weight": 1,
             "action": "text_reply"
         }
