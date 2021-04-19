@@ -23,6 +23,7 @@ window.onloadFuncs.push(() => {
             },
             options: {
                 aspectRatio: 0.6,
+                maintainAspectRatio: false,
                 scales: {
                     yAxes: [{
                         ticks: {
@@ -75,6 +76,7 @@ window.onloadFuncs.push(() => {
             },
             options: {
                 aspectRatio: 3,
+                maintainAspectRatio: false,
                 scales: {
                     xAxes: [{
                         ticks: {
@@ -150,6 +152,7 @@ window.onloadFuncs.push(() => {
                 }
             ]},
             options: {
+                maintainAspectRatio: false,
                 title: {
                     display: true,
                     text: 'Figure 3: Year of Creation of Digital Sharing Communities'
@@ -197,6 +200,7 @@ window.onloadFuncs.push(() => {
             },
             options: {
                 aspectRatio: 2.6,
+                maintainAspectRatio: false,
                 scales: {
                     xAxes: [{
                         ticks: {
@@ -279,6 +283,7 @@ window.onloadFuncs.push(() => {
                 },
             ]},
             options: {
+                maintainAspectRatio: false,
                 title: {
                     display: true,
                     text: 'Figure 5: Year of Creation of Digital Sharing Communities'
@@ -314,6 +319,7 @@ window.onloadFuncs.push(() => {
             },
             options: {
                 aspectRatio: .7,
+                maintainAspectRatio: false,
                 scales: {
                     xAxes: [{
                         ticks: {
@@ -355,6 +361,7 @@ window.onloadFuncs.push(() => {
             },
             options: {
                 aspectRatio: .7,
+                maintainAspectRatio: false,
                 scales: {
                     xAxes: [{
                         ticks: {
@@ -403,6 +410,7 @@ window.onloadFuncs.push(() => {
             },
             options: {
                 aspectRatio: 2,
+                maintainAspectRatio: false,
                 scales: {
                     xAxes: [{
                         ticks: {
@@ -473,6 +481,7 @@ window.onloadFuncs.push(() => {
             },
             options: {
                 aspectRatio: 2,
+                maintainAspectRatio: false,
                 scales: {
                     xAxes: [{
                         ticks: {
@@ -537,6 +546,7 @@ window.onloadFuncs.push(() => {
             },
             options: {
                 aspectRatio: 2.6,
+                maintainAspectRatio: false,
                 scales: {
                     xAxes: [{
                         ticks: {

@@ -20,6 +20,14 @@
                 .table-responsive {
                     font-size: .5rem !important;
                 }
+                .chart-1{
+                    height: 300px;
+                    padding-bottom: 1rem;
+                }
+                .chart-2{
+                    height: 200px;
+                    padding-bottom: 1rem;
+                }
             }
         </style>
     </head>
@@ -97,8 +105,8 @@
                         <p class='fw-bold mt-4'>2.3. Results</p>
                         <p class='fw-bold mt-4'>2.3.1. Distribution Across Towns</p>
                         <p>In total, we found 81 instances of digital sharing communities between the three towns.</p>
-                        <div class='row'>
-                            <div class='col-5'>
+                        <div class='row row-cols-1 row-cols-md-2'>
+                            <div class='col chart-1'>
                                 <canvas class="mb-3" id='townDistribution'></canvas>
                             </div>
                             <div class='col'>
@@ -109,10 +117,14 @@
                         <p>This could be attributed to the higher digital literacy of Punggol residents, given their younger demographic makeup, with 22% of residents aged 30-39 years old, comparing to 13% in Toa Payoh and 14% in Jurong. (<a style="color:black;" id='citation3a' href='#citation3'>Singapore Department of Statistics, 2020</a>) This could also be due to the fact that there is higher focus on digital within newer towns, seen by the focus on developing Punggol as Singapore’s first digital district (<a style="color:black;" id='citation4a' href='#citation4'>URA, 2020</a>). This aligns with broader goals of Singapore’s goal to be a globally recognized leading smart city with a strong focus on digital innovation and technology (<a style="color:black;" id='citation5a' href='#citation5'>Yee, 2019</a>). Towns that were more recently redeveloped thus are more intertwined with technology perhaps as compared to older towns, meaning that residents interact with and use technology more in their day to day lives such as the method in which they reach out to like-minded individuals for community creation.</p>
                         <p class='fw-bold mt-4'>2.3.2. Distribution Across Platforms</p>
                         <p>Figure 2 breaks down the sharing communities found in each of the different towns into which platforms the groups were discovered on. The predominant platforms include Whatsapp, Telegram, Instagram and Facebook.</p>
-                        <canvas class="mb-3" id='platformDistribution'></canvas>
+                        <div class="chart-2">
+                            <canvas class="mb-3" id='platformDistribution'></canvas>
+                        </div>
                         <p>Among the social media platforms, Facebook and Telegram emerge as platforms that best facilitate the discovery of digital sharing communities.  A significant proportion of communities were discovered on Facebook amongst the three towns: Punggol (n=17), Toa Payoh (n=7), and Jurong (n=7).</p>
                         <p>We noted that WhatsApp communities were the least discoverable as the platform does not offer a search function, and entry into the community requires invite links. Only six communities were found from Punggol (n=4), Toa Payoh (n=1), and Jurong (n=1). The communities we did find were found via snowball sampling, as they had promoted their invite links on the other social platforms. We observed that instagram channels were popularly used as platforms for the promotion of invite links to other platforms. This is due to our observation that community accounts on Instagram rarely used the platform for community engagement, and instead used it as an advertising medium to direct people towards their actual community hosted on another social platform.</p>
+                        <div class="chart-1">
                         <canvas class="mb-3" id='platformTimeSeries'></canvas>
+                        </div>
                         <p>By observing the age of group creation, we can observe a trend in platform preferences. This is seen in Figure 3, where based on the year of creation, Facebook was the popular platform for many initial digital sharing communities from 2008 to 2014. Afterwhich other platforms such as Instagram and Whatsapp came into the picture and more community groups were formed there. We observed that Telegram has been gaining popularity in recent years, as seen from 2017 onwards where the number of communities formed on Telegram rose more as compared to other platforms. </p>
                         
                         <p class='fw-bold mt-4'>2.3.3. Purposes of Digital Sharing Communities</p>
@@ -127,9 +139,13 @@
                             </ul>
                         </div>
                         <p>The distribution of these different communities across the three towns can be seen in Figure 5.</p>
+                        <div class="chart-2">
                         <canvas class="mb-3" id='purposeDistribution'></canvas>
+                        </div>
                         <p>Residential (Punggol, n=14 ; Jurong, n=11 ; Toa Payoh, n=11)  and Groupbuys (Punggol, n=11 ; Jurong, n=7 ; Toa Payoh, n=4) were the most frequent communities observed, a characteristic observed in all three towns. This makes sense as these communities are relevant to the largest proportion of residents, while BTO (Punggol, n=6 ; Jurong, n=2 ; Toa Payoh, n=2)  and Interest Groups (Punggol, n=5 ; Jurong, n=3 ; Toa Payoh, n=4)  communities target a smaller demographic based on the specific common topic of the group.</p>
-                        <canvas class="mb-3" id='purposeTimeSeries'></canvas>
+                        <div class="chart-1">
+                            <canvas class="mb-3" id='purposeTimeSeries'></canvas>
+                        </div>
                         <p>By looking at when these communities were created along the years, we can also observe that while Residential communities have been around for a while, Groupbuys are a more recent phenomenon, experiencing sharp growth in 2020.</p>
                         <p class='fw-bold mt-4'>2.3.4. Association between Place Specificity and Community Size</p>
                         <p>Place specificity defines the physical boundary of the location associated with the community. We discovered that the communities found could grouped into three levels of place specificity:</p>
@@ -140,20 +156,20 @@
                                 <li class='list-group-item'><b>Region-level:</b> The largest sense of place physically, where the community is not just associated with the town, but also extends into its neighbouring towns.</li>
                             </ul>
                         </div>
-                        <div class='row'>
-                            <div class='col-6'>
+                        <div class='row row-cols-1 row-cols-md-2'>
+                            <div class='col'>
                                 <p>When we break down the communities by their place specificity, i.e. the physical bounded location that is associated with the community, we see that Punggol has the highest number of estate-level communitis, while Toa Payoh and Jurong have more town-level communities.</p>
                                 <p>One possible reason for this is that the younger demographic of Punggol residents might prefer smaller communities. Small communities are easier to manage and more capable of fostering stronger neighbourly ties.</p>
                             </div>
-                            <div class='col-6'>
+                            <div class='col chart-1'>
                                 <canvas class="mb-3" id='placeSpecificityGroup'></canvas>
                             </div>
                         </div>
-                        <div class='row'>
-                            <div class='col-6'>
+                        <div class='row row-cols-1 row-cols-md-2'>
+                            <div class='col chart-1'>
                                 <canvas class="mb-3" id='placeSpecificityMember'></canvas>
                             </div>
-                            <div class='col-6'>
+                            <div class='col'>
                                 <p>However, when we look at the mean size of these communities, it becomes apparent that generally, the size of the community scales as it is associated to a broader location. This makes sense as more residents would identify with the location associated with the community. Hence, region-level communities are able to reach a wider group of people, while estate-level communities are smaller and more diverse.</p>
                             </div>
                         </div>
@@ -167,12 +183,18 @@
                                 <li class='list-group-item'><b>Closed with Verification:</b> One needs to produce a verification of their identity and the community's manager verifies that they meet the membership criteria before given membership. Non-members are unable to see the activities occuring within the community.</li>
                             </ul>
                         </div>
-                        <canvas class="mb-3" id='accessibilitySpecificity'></canvas>
+                        <div class="chart-1">
+                            <canvas class="mb-3" id='accessibilitySpecificity'></canvas>
+                        </div>
                         <p>As seen in Figure 8, we find that there are most open communities on town level, though estate has many open communities, it may be thanks to its big cardinality. In addition, Estate level has most communities which are both closed with permission and verification. According to this finding, we can assume that smaller scales are more likely to have closed communities because their social circle may be smaller and more closed.</p>
-                        <canvas class="mb-3" id='accessibilitySize'></canvas>
+                        <div class="chart-1">
+                            <canvas class="mb-3" id='accessibilitySize'></canvas>
+                        </div>
                         <p>The mean size of the communities justifies our previous assumption. We observe that the mean size of open communities on estate level is about half of the closed with verification communities, though there are more open ones. And on town and region levels, we can see a trend that communities in large scale are more likely to open because their target users are in a bigger range and permission or verification will be the restriction to let people join in. In conclusion, the differences in accessibility are mainly related to the groups’ aim and users.</p>
                         <p class='fw-bold mt-4'>2.3.6. Association between Purpose of Community and Organisation Structure</p>
-                        <canvas class="mb-3" id='purposeOrg'></canvas>
+                        <div class="chart-2">
+                            <canvas class="mb-3" id='purposeOrg'></canvas>
+                        </div>
                         <p>The types of organization also implicates the characteristics of a particular community. We categorised our communities into  3 categories by types of organization:</p>
                         <div class='card-body py-4'>
                             <ul class=' list-group-flush p-0'>
