@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>🏙️ Understanding Digital Sharing Communities</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>🏘️📱👋 An Exploratory Study on Digital Sharing Communities through Quantitative Methods</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
         <!-- bootstrap -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
@@ -15,59 +15,61 @@
         <script src="scripts/main.js"></script>
         <script src="scripts/observational-charts.js"></script>
         <script src="scripts/d3-graphs.js"></script>
+        <style>
+            @media (max-width: 767.98px) {
+                .table-responsive {
+                    font-size: .5rem !important;
+                }
+            }
+        </style>
     </head>
     <body>
-        <div class="d-flex justify-content-center flex-column mx-auto mt-4 w-md-50">
-            <h3 class="text-center">🏘️ 📱 👋<br>Understanding the Influence of<br>Sharing Communities in Digital Spaces<br>on  Neighbourhood Engagement<br>[DRAFT]</h3>
-            <p class='text-center'>
-                <p class="link-secondary text-center shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#about" aria-expanded="false" aria-controls="collapseExample">About the Study</p>
-            </p>
-            <div class="collapse text-center" id="about">
-                <div style='text-align: justify;' class="mb-md-5 mb-4 mx-md-5 col-md-6 col-11 d-inline-block border-secondary border-bottom border-top pt-3git">
-                  <p>This study was conducted for 0.2562 Research Studio in fulfillment of M.Sc. of Urban Science, Planning and Policy (MUSPP) @ Singapore University of Technology and Design (SUTD).</p>
-                  <p style="font-size:.9em;">Authors: <b>Asha Suresh:</b> Observational Study, Interviews, Analysis, Writing. <b>Huang Yimin:</b> Observational Study, Data Curations, Analysis, Writing. <b>Gong Hailun:</b> Observational Study, Interviews, Analysis, Writing. <b>Ivan Chuang:</b> Observational Study, Data Curations, Data Visualisation, Analysis, Writing.</p>
-                </div>
-            </div>
+        <div class="d-flex justify-content-center flex-column mx-auto pt-5 w-md-50 mb-5">
+            <h3 class="text-center">🏘️📱👋<br>An Exploratory Study on Digital Sharing Communities<br>through Quantitative Methods</h3>
         </div>
         <div>
             <ul class="nav nav-tabs px-md-5 justify-content-center" id="myTab" role="tablist">
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="introduction-tab" data-bs-toggle="tab" data-bs-target="#introduction" type="button" role="tab" aria-controls="introduction" aria-selected="true">1) Introduction</button>
+                    <button class="nav-link active" id="introduction-tab" data-bs-toggle="tab" data-bs-target="#introduction" type="button" role="tab" aria-controls="introduction" aria-selected="true">1) Introduction</button>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="litreview-tab" data-bs-toggle="tab" data-bs-target="#litreview" type="button" role="tab" aria-controls="litreview" aria-selected="false">2) Lit. Review</button>
+                    <button class="nav-link" id="observational-tab" data-bs-toggle="tab" data-bs-target="#observational" type="button" role="tab" aria-controls="observational" aria-selected="false">2) Observational Study</button>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="observational-tab" data-bs-toggle="tab" data-bs-target="#observational" type="button" role="tab" aria-controls="observational" aria-selected="false">3) Observational Study</button>
+                    <button class="nav-link" id="networkanalysis-tab" data-bs-toggle="tab" data-bs-target="#networkanalysis" type="button" role="tab" aria-controls="networkanalysis" aria-selected="false">3) Social Network Analysis</button>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="analysis-tab" data-bs-toggle="tab" data-bs-target="#analysis" type="button" role="tab" aria-controls="analysis" aria-selected="false">4) Social Network Analysis</button>
+                    <button class="nav-link" id="contentanalysis-tab" data-bs-toggle="tab" data-bs-target="#contentanalysis" type="button" role="tab" aria-controls="contentanalysis" aria-selected="false">4) Content Analysis</button>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="interview-tab" data-bs-toggle="tab" data-bs-target="#interview" type="button" role="tab" aria-controls="interview" aria-selected="false">5) Interviews</button>
-                </li>
-                <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="discussion-tab" data-bs-toggle="tab" data-bs-target="#discussion" type="button" role="tab" aria-controls="discussion" aria-selected="false">6) Discussions</button>
-                </li>
-                <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="conclusion-tab" data-bs-toggle="tab" data-bs-target="#conclusion" type="button" role="tab" aria-controls="conclusion" aria-selected="false">7) Conclusion</button>
+                    <button class="nav-link" id="discussions-tab" data-bs-toggle="tab" data-bs-target="#discussions" type="button" role="tab" aria-controls="discussions" aria-selected="false">5) Discussions</button>
                 </li>
             </ul>
         </div>
             <div class="container-fluid d-flex justify-content-center">
             <div class="tab-content d-flex justify-content-center align-items-center flex-column m-md-5 px-md-4 my-3 col-md-6 col-11">
-                <div id='introduction' class='tab-pane fade'>
-                    <p>This is where the Background, Problem Statement, RQ, will go.</p>
+                <div id='introduction' class='tab-pane active'>
+                    <p class='fw-bold'>1.1. Background</p>
+                    <p class='fw-bold'>1.1.1. Sharing Neighbourhoods</p>
+                    <p>With more than 1 million flats that are under HDB’s management, HDB has committed to fostering social cohesion and social vibrancy within neighbourhoods. To do so, HDB had previously encouraged the development of sharing communities through initiatives such as Hello Neighbour! @ Tampines Central and the Good Neighbours Movement.</p>
+                    <p class='fw-bold'>1.1.2. The Rise of Online interactions</p>
+                    <p>The rise in digitisation and online platforms of communication has led HDB to observe digital space as new grounds for the development of these sharing communities. Sharing communities have been observed to move some of their activities from physical space to digital space, while those in digital space may have effects on physical engagement.</p>
+                    <p class='fw-bold'>1.2. Digital Sharing Communities</p>
+                    <p>Thus, we define Digital Sharing Communities to refer to communities that exist on online social media platforms, but also associated with a place (region, town, block), that not only share physical resources but also include knowledge sharing and social sharing.</p>
+                    <p class='fw-bold'>1.3. Research Questions</p>
+                    <p>How can we define characteristics to describe the various digital sharing communities?</p>
+                    <p>Do digital sharing communities have potential to generate neighbourhood engagement?</p>
+                    <div class='pt-3 mt-5 border-top border-secondary border-bottom pb-2'>
+                        <p class='fw-bold'>Authorship</p>
+                        <p>This study was conducted by Ivan Chuang, Asha Suresh, Gong Hailun & Huang Yimin, as a Research Studio for the Master's in Urban Science, Planning and Policy programme (MUSPP) @ Singapore University of Technology and Design (SUTD). 2021.</p>
+                    </div>
                 </div>
-                <div id='litreview' class='tab-pane fades'>
-                    This is where the lit review will go.
-                </div>
-                <div id='observational' class='tab-pane fades'>
+                <div id='observational' class='tab-pane fade'>
                     <div style='text-align: justify;'>
-                        <p class='fw-bold'>3.1. Rationale</p>
+                        <p class='fw-bold'>2.1. Rationale</p>
                         <p>Our rationale for this observational study was to sample examples of digital communities to construct a typology of digital communities, by uncovering the common and distinguishing characteristics between the variety of digital communities in the wild. Through this typology, we can then discover the factors that contribute to a vibrant and active digital community. 
                         </p>
-                        <p class='fw-bold'>3.2. Method</p>
+                        <p class='fw-bold'>2.2. Method</p>
                         <p>Our observational study involved the collection and curation of a list of sharing communities within neighbourhoods that we observed on digital platforms. After this initial data collection, we categorized and analyzed the groups.</p>
                         <p>We conducted our observational study on the digital sharing communities centred within three towns in Singapore: Punggol, Toa Payoh, and Jurong. The reason we chose these towns was due to their estate maturity—Punggol is considered a young town, Jurong a middle-aged town, while Toa Payoh is often considered an older town. We compare between these three towns to discover if the maturity of an estate has an effect on digital communities that belong to these estates.</p>
                         <p>Our selection criteria for a digital sharing community to belong to a town informed our search process to discovering these communities online. We consider a digital sharing community to belong to a town if it has one or more of these characteristics:</p>
@@ -75,9 +77,9 @@
                             <li>The community's name includes the town name, or the name of an estate located within the town.</li>
                             <li>Residence in the town is a prerequisite of community membership.</li>
                         </ol>
-                        <p>To discover these digital communities, we used a combination of keyword search and snowball sampling to search for these communities online. The main digital platforms search bars that we used were Facebook, Instagram and Google. We chose these platforms as social media is one of the key platforms of the building of strong communities (<a style="color:black;" id='citation1a' href='#citation1'>Dewi, 2020</a>). We used Microsoft Excel to collect, categorize and process our collected data.</p>
-                        <p class='fw-bold'>3.2.1. Keyword Search</p>
-                        <p>Keyword searches are defined as a method of searching for information which possess keywords specified by a user, whereby a search term list is applied to a full text index to find documents containing one or more words that are specified by a user (<a style="color:black;" id='citation2a' href='#citation2'>Chen et al, 2020</a>). For our keyword search, we used location names at three levels of place scales we had specified, as well as their combined names:</p>
+                        <p>To discover these digital communities, we used a combination of keyword search and snowball sampling to search for these communities online. The main digital platforms search bars that we used were Facebook, Instagram and Google.</p>
+                        <p class='fw-bold'>2.2.1. Keyword Search</p>
+                        <p>Keyword searches are defined as a method of searching for information which possess keywords specified by a user, whereby a search term list is applied to a full text index to find documents containing one or more words that are specified by a user (<a style="color:black;" id='citation1a' href='#citation1'>Chen et al, 2020</a>). For our keyword search, we used location names at three levels of place scales we had specified, as well as their combined names:</p>
                         <div class='card-body py-4'>
                             <ul class=' list-group-flush p-0'>
                                 <li class='list-group-item'><b>Level 1:</b> Town Name, e.g. "Punggol", "Toa Payoh"</li>
@@ -87,13 +89,13 @@
                             </ul>
                         </div>
                         <p>During actual application, additional keywords were added to allow for better searches. These additional keywords aligned with the group purpose, such as “group buy”, “interest group” or “BTO”. We felt that applying a combination of group place scale coupled with potential group purpose gave better search results in the form of sharing communities that fit our criteria.</p>
-                        <p class='fw-bold mt-4'>3.2.2. Snowball Sampling</p>
-                        <p>In traditional snowball sampling, researchers ask informants to recommend additional contacts who might be able to contribute to a study, thus partially reflecting the organic structure and development of social networks (<a style="color:black;" id='citation3a' href='#citation3'>Baltar, 2012</a>).</p> 
-                        <p>In our research, we used a modified form of snowball sampling in the digital space to reflect the complexities of digital networks recommendations and linked web pages. This took into account sharing communities that were not as discoverable on digital platforms, such as communities with unconventional group names that did not align with our keyword searches.</p>
+                        <p class='fw-bold mt-4'>2.2.2. Snowball Sampling</p>
+                        <p>In traditional snowball sampling, researchers ask informants to recommend additional contacts who might be able to contribute to a study, thus partially reflecting the organic structure and development of social networks (<a style="color:black;" id='citation2a' href='#citation2'>Baltar, 2012</a>).</p> 
+                        <p>In our study, we used a modified form of snowball sampling in the digital space to reflect the complexities of digital networks recommendations and linked web pages. This took into account sharing communities that were not as discoverable on digital platforms, such as communities with unconventional group names that did not align with our keyword searches.</p>
                         <p>For example, if we entered a group on Telegram and noticed that a user had shared a link to another sharing community in the group, we would click on sent link to see if the suggested group met our criteria (namely a neighbourhood sharing community from either Punggol, Toa Payoh or Jurong that was on a digital platform). If the suggested group met our criteria, we would include it in our observational study.</p>
                         <p>Another instance where snowball sampling came in useful would be a trend that we observed amongst some sharing communities, where the digital presence of these groups straddled multiple platforms. An example was sharing communities based on instagram that included a link in their group description to the shared Whatsapp group where the actual transactions occurred. Namely, Whatsapp was the primary digital basis of interaction, while Instagram was a secondary medium. In these instances, snowball sampling proved useful in enabling us to identify sharing communities that we may not have found solely via keyword searches.</p>
-                        <p class='fw-bold mt-4'>3.3. Results</p>
-                        <p class='fw-bold mt-4'>3.3.1. Distribution Across Towns</p>
+                        <p class='fw-bold mt-4'>2.3. Results</p>
+                        <p class='fw-bold mt-4'>2.3.1. Distribution Across Towns</p>
                         <p>In total, we found 81 instances of digital sharing communities between the three towns.</p>
                         <div class='row'>
                             <div class='col-5'>
@@ -104,8 +106,8 @@
                                 <p>Given our method of searching, we cannot confirm that these are the exact proportions of sharing communities within each neighbourhood. Rather, we can claim that the sharing communities in younger towns are most easily searchable and found on digital platforms.</p>
                             </div>
                         </div>
-                        <p>This could be attributed to the higher digital literacy of Punggol residents, given their younger demographic makeup, with 22% of residents aged 30-39 years old, comparing to 13% in Toa Payoh and 14% in Jurong. (<a style="color:black;" id='citation4a' href='#citation4'>Singapore Department of Statistics, 2020</a>) This could also be due to the fact that there is higher focus on digital within newer towns, seen by the focus on developing Punggol as Singapore’s first digital district (<a style="color:black;" id='citation5a' href='#citation5'>URA, 2020</a>). This aligns with broader goals of Singapore’s goal to be a globally recognized leading smart city with a strong focus on digital innovation and technology (<a style="color:black;" id='citation6a' href='#citation6'>Yee, 2019</a>). Towns that were more recently redeveloped thus are more intertwined with technology perhaps as compared to older towns, meaning that residents interact with and use technology more in their day to day lives such as the method in which they reach out to like-minded individuals for community creation.</p>
-                        <p class='fw-bold mt-4'>3.3.2. Distribution Across Platforms</p>
+                        <p>This could be attributed to the higher digital literacy of Punggol residents, given their younger demographic makeup, with 22% of residents aged 30-39 years old, comparing to 13% in Toa Payoh and 14% in Jurong. (<a style="color:black;" id='citation3a' href='#citation3'>Singapore Department of Statistics, 2020</a>) This could also be due to the fact that there is higher focus on digital within newer towns, seen by the focus on developing Punggol as Singapore’s first digital district (<a style="color:black;" id='citation4a' href='#citation4'>URA, 2020</a>). This aligns with broader goals of Singapore’s goal to be a globally recognized leading smart city with a strong focus on digital innovation and technology (<a style="color:black;" id='citation5a' href='#citation5'>Yee, 2019</a>). Towns that were more recently redeveloped thus are more intertwined with technology perhaps as compared to older towns, meaning that residents interact with and use technology more in their day to day lives such as the method in which they reach out to like-minded individuals for community creation.</p>
+                        <p class='fw-bold mt-4'>2.3.2. Distribution Across Platforms</p>
                         <p>Figure 2 breaks down the sharing communities found in each of the different towns into which platforms the groups were discovered on. The predominant platforms include Whatsapp, Telegram, Instagram and Facebook.</p>
                         <canvas class="mb-3" id='platformDistribution'></canvas>
                         <p>Among the social media platforms, Facebook and Telegram emerge as platforms that best facilitate the discovery of digital sharing communities.  A significant proportion of communities were discovered on Facebook amongst the three towns: Punggol (n=17), Toa Payoh (n=7), and Jurong (n=7).</p>
@@ -113,7 +115,7 @@
                         <canvas class="mb-3" id='platformTimeSeries'></canvas>
                         <p>By observing the age of group creation, we can observe a trend in platform preferences. This is seen in Figure 3, where based on the year of creation, Facebook was the popular platform for many initial digital sharing communities from 2008 to 2014. Afterwhich other platforms such as Instagram and Whatsapp came into the picture and more community groups were formed there. We observed that Telegram has been gaining popularity in recent years, as seen from 2017 onwards where the number of communities formed on Telegram rose more as compared to other platforms. </p>
                         
-                        <p class='fw-bold mt-4'>3.3.3. Purposes of Digital Sharing Communities</p>
+                        <p class='fw-bold mt-4'>2.3.3. Purposes of Digital Sharing Communities</p>
                         <p>The distribution of these different communities across the three towns can be seen in Figure 4. We discovered 5 classifications of purposes of digital sharing communities, which we have classified as: Residential, BTO, Interest Group, Groupbuys and Community Markets.</p>
                         <div class='card-body py-4'>
                             <ul class='list-group-flush p-0'>
@@ -129,7 +131,7 @@
                         <p>Residential (Punggol, n=14 ; Jurong, n=11 ; Toa Payoh, n=11)  and Groupbuys (Punggol, n=11 ; Jurong, n=7 ; Toa Payoh, n=4) were the most frequent communities observed, a characteristic observed in all three towns. This makes sense as these communities are relevant to the largest proportion of residents, while BTO (Punggol, n=6 ; Jurong, n=2 ; Toa Payoh, n=2)  and Interest Groups (Punggol, n=5 ; Jurong, n=3 ; Toa Payoh, n=4)  communities target a smaller demographic based on the specific common topic of the group.</p>
                         <canvas class="mb-3" id='purposeTimeSeries'></canvas>
                         <p>By looking at when these communities were created along the years, we can also observe that while Residential communities have been around for a while, Groupbuys are a more recent phenomenon, experiencing sharp growth in 2020.</p>
-                        <p class='fw-bold mt-4'>3.3.4. Association between Place Specificity and Community Size</p>
+                        <p class='fw-bold mt-4'>2.3.4. Association between Place Specificity and Community Size</p>
                         <p>Place specificity defines the physical boundary of the location associated with the community. We discovered that the communities found could grouped into three levels of place specificity:</p>
                         <div class='card-body py-4'>
                             <ul class=' list-group-flush p-0'>
@@ -155,7 +157,7 @@
                                 <p>However, when we look at the mean size of these communities, it becomes apparent that generally, the size of the community scales as it is associated to a broader location. This makes sense as more residents would identify with the location associated with the community. Hence, region-level communities are able to reach a wider group of people, while estate-level communities are smaller and more diverse.</p>
                             </div>
                         </div>
-                        <p class='fw-bold mt-4'>3.3.5. Association between Accessibility and Place Specificity</p>
+                        <p class='fw-bold mt-4'>2.3.5. Association between Accessibility and Place Specificity</p>
                         We were also able to categorise our communities by accessibility using 4 categories:
                         <div class='card-body py-4'>
                             <ul class=' list-group-flush p-0'>
@@ -169,7 +171,7 @@
                         <p>As seen in Figure 8, we find that there are most open communities on town level, though estate has many open communities, it may be thanks to its big cardinality. In addition, Estate level has most communities which are both closed with permission and verification. According to this finding, we can assume that smaller scales are more likely to have closed communities because their social circle may be smaller and more closed.</p>
                         <canvas class="mb-3" id='accessibilitySize'></canvas>
                         <p>The mean size of the communities justifies our previous assumption. We observe that the mean size of open communities on estate level is about half of the closed with verification communities, though there are more open ones. And on town and region levels, we can see a trend that communities in large scale are more likely to open because their target users are in a bigger range and permission or verification will be the restriction to let people join in. In conclusion, the differences in accessibility are mainly related to the groups’ aim and users.</p>
-                        <p class='fw-bold mt-4'>3.3.6. Association between Purpose of Community and Organisation Structure</p>
+                        <p class='fw-bold mt-4'>2.3.6. Association between Purpose of Community and Organisation Structure</p>
                         <canvas class="mb-3" id='purposeOrg'></canvas>
                         <p>The types of organization also implicates the characteristics of a particular community. We categorised our communities into  3 categories by types of organization:</p>
                         <div class='card-body py-4'>
@@ -183,32 +185,29 @@
                         <div class='pt-3 mt-5 border-top border-secondary border-bottom pb-5'>
                             <p class='fw-bold'>References</p>
                             <p>
-                                <span class='ps-4'>[<a style="color:black;" id='citation1' href='#citation1a'>1</a>]</span> Dewi, Ambar Sari. (2020). The Utilisation Of Facebook Group In Building Social Media-Based Brand Comunity By A Small Medium Enterprise In Yogyakarta. <i>Jurnal Sosiologi Reflektif</i>, 14(2), 307-324.
+                                <span class='ps-4'>[<a style="color:black;" id='citation1' href='#citation1a'>1</a>]</span> Chen, Lisi, Shang, Shuo, Yang, Chengcheng, & Li, Jing. (2020). Spatial keyword search: A survey. <i>GeoInformatica</i>, 24(1), 85-106.
                             </p>
                             <p>
-                                <span class='ps-4'>[<a style="color:black;" id='citation2' href='#citation2a'>2</a>]</span> Chen, Lisi, Shang, Shuo, Yang, Chengcheng, & Li, Jing. (2020). Spatial keyword search: A survey. <i>GeoInformatica</i>, 24(1), 85-106.
+                                <span class='ps-4'>[<a style="color:black;" id='citation2' href='#citation2a'>2</a>]</span> Baltar, Fabiola, & Brunet, Ignasi. (2012). Social research 2.0: Virtual snowball sampling method using Facebook. <i>Internet Research</i>, 22(1), 57-74.
                             </p>
                             <p>
-                                <span class='ps-4'>[<a style="color:black;" id='citation3' href='#citation3a'>3</a>]</span> Baltar, Fabiola, & Brunet, Ignasi. (2012). Social research 2.0: Virtual snowball sampling method using Facebook. <i>Internet Research</i>, 22(1), 57-74.
+                                <span class='ps-4'>[<a style="color:black;" id='citation3' href='#citation3a'>3</a>]</span> Singapore Residents by Planning AreaSubzone, Age Group, Sex and Type of Dwelling, June 2000-2020. (2020). <i>Singapore Department of Statistics</i>. (<a href="https://www.singstat.gov.sg/find-data/search-by-theme/population/geographic-distribution/latest-data">Source</a>)
                             </p>
                             <p>
-                                <span class='ps-4'>[<a style="color:black;" id='citation4' href='#citation4a'>4</a>]</span> Singapore Residents by Planning AreaSubzone, Age Group, Sex and Type of Dwelling, June 2000-2020. (2020). <i>Singapore Department of Statistics</i>. (<a href="https://www.singstat.gov.sg/find-data/search-by-theme/population/geographic-distribution/latest-data">Source</a>)
+                                <span class='ps-4'>[<a style="color:black;" id='citation4' href='#citation4a'>4</a>]</span> Urban Redevelopment Authority (URA). (2020d). Punggol Digital District: The Next Generation Smart & Integrated District. (<a href="https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Urban-Transformations/Punggol-Digital-District">Source</a>)
                             </p>
                             <p>
-                                <span class='ps-4'>[<a style="color:black;" id='citation5' href='#citation5a'>5</a>]</span> Urban Redevelopment Authority (URA). (2020d). Punggol Digital District: The Next Generation Smart & Integrated District. (<a href="https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Urban-Transformations/Punggol-Digital-District">Source</a>)
-                            </p>
-                            <p>
-                                <span class='ps-4'>[<a style="color:black;" id='citation6' href='#citation6a'>6</a>]</span> Yee, Y. W. (2019). Singapore is world’s smartest city: IMD Smart City Index. <i>Straits Times</i>. (<a href="https://www.straitstimes.com/singapore/singapore-is-worlds-smartest-city-imd-smart-city-index">Source</a>)
+                                <span class='ps-4'>[<a style="color:black;" id='citation5' href='#citation5a'>5</a>]</span> Yee, Y. W. (2019). Singapore is world’s smartest city: IMD Smart City Index. <i>Straits Times</i>. (<a href="https://www.straitstimes.com/singapore/singapore-is-worlds-smartest-city-imd-smart-city-index">Source</a>)
                             </p>
                         </div>
                     </div>
                 </div>
-                <div id='analysis' class='tab-pane fades active'>
-                    <div class="mb-5" style='text-align: justify;'>
-                        <p class='fw-bold mt-4'>4.1. Rationale</p>
+                <div id='networkanalysis' class='tab-pane fade'>
+                    <div style='text-align: justify;'>
+                        <p class='fw-bold'>3.1. Rationale</p>
                         <p>Our rationale behind conducting a social network analysis is to extract structures of digital communities and characterise them quantitatively, as well as characterise users within the community based on their interactions.</p>
-                        <p class='fw-bold mt-4'>4.2. Method</p>
-                        <p class='fw-bold mt-4'>4.2.1. Selection Criteria</p>
+                        <p class='fw-bold mt-4'>3.2. Method</p>
+                        <p class='fw-bold mt-4'>3.2.1. Selection Criteria</p>
                         <p>Data availability is a necessity for social network analysis. The only platform that satisfied this necessity was Telegram. On the Telegram platform, BTOs and Residential digital communities are the most prevalent type of digital community. Hence, we selected a BTO and Residential community for each of the three towns, providing us six communities for study through social network analysis.</p>
                         <p>The criteria for the 6 selected groups is as following:</p>
                         <ol>
@@ -218,7 +217,7 @@
                             <li>Selection with a preference of large > medium > small communities.</li>
                         </ol>
                         <p>The selected groups can be seen in Figure 11.</p>
-                        <table class="table table-bordered">
+                        <table class="table table-bordered" style="font-size: 0.8rem;">
                             <thead><tr>
                                 <th scope="col">#</th>
                                 <th scope="col">Town</th>
@@ -272,9 +271,9 @@
                             </tbody>
                             <caption>Figure 11. Selected Digital Communities for Social Network Analysis</caption>
                         </table>
-                        <p class='fw-bold mt-4'>4.2.2. Network Analysis</p>
+                        <p class='fw-bold mt-4'>3.2.2. Network Analysis</p>
                         We used the open-source GEPHI network visualisation software to analyse our social networks. To discover community structures within our social networks, we partitioned the users using modularity classes. Modularity produces clusters by looking for nodes that are more connected together than the rest of the network. We also measured the out-degree of each node to identify active users who engage with a wider proportion of their community.
-                        <p class='fw-bold mt-4'>4.3. Network Visualisation</p>
+                        <p class='fw-bold mt-4'>3.3. Network Visualisation</p>
                     </div>
                     <div class="d-flex flex-column align-items-center">
                         <form class="row g-2 align-items-center w-100 pb-4">
@@ -351,7 +350,7 @@
                         </div>
                     </div>
                     <div class="mb-5" style='text-align: justify;'>
-                        <p class='fw-bold mt-4'>4.4. Findings</p>
+                        <p class='fw-bold mt-4'>3.4. Findings</p>
                         <p>A network analysis of a social community allows us to define quantitative metrics that measure the interactivity of each member within the network. We calculate these three metrics for each member in the network:</p>
                         <div class='card-body py-4 pb-2'>
                             <ul class=' list-group-flush p-0'>
@@ -364,20 +363,29 @@
                             </ul>
                         </div>
                         <p>With this, we characterise the members within the six selected digital sharing communities:</p>
-                        <p class='fw-bold mt-4'>4.4.1. A typology of users</p>
-                        <p class='fw-bold mt-4'>4.4.1.1. Super Members</p>
+                        <p class='fw-bold mt-4'>3.4.1. Structural Forms of Communities</p>
+                        <p>We found that communities generally take three forms.</p>
+                        <div class='card-body py-4 pb-2'>
+                            <ul class=' list-group-flush p-0'>
+                                <li class='list-group-item'><b>Cohesive:</b> Members in these communities are tightly connected to each other, or connected to a 'super-member' which serves as the anchor for the community. For example, the Punggol Residential community.</li>
+                                <li class='list-group-item'><b>Multiple Sub-communities:</b> These communities have multiple smaller communities that do not interact with each other, except when they might be connected by 'bridging members'. For example, the Jurong Residential community.</li>
+                                <li class='list-group-item'><b>Sparse:</b> These communities consist of members who do not interact with each other at all, if not rarely. Many of these members are classified as 'lurkers', and there is little social activity within the community. For example, the Toa Payoh BTO community.</li>
+                            </ul>
+                        </div>
+                        <p class='fw-bold mt-4'>3.4.2. A typology of users</p>
+                        <p class='fw-bold mt-4'>3.4.2.1. Super Members</p>
                         <p>We identified a type of member called a <b>super member</b> which is characterised by a high degree relative to the other members in the community. Super members were found within 3 of the digital sharing communities: Punggol BTO, Punggol Residential and Jurong BTO, as seen in Figure 13.</p>
                         <figure class="figure">
                             <img src="img/degree-plot.png" class="figure-img img-fluid rounded" alt="...">
                             <figcaption class="figure-caption">Figure 13. Scatterplot of in-degree and out-degree against degree for each 6 communities</figcaption>
                         </figure>
-                        <p class='fw-bold mt-4'>4.4.1.2. Lurkers</p>
+                        <p class='fw-bold mt-4'>3.4.2.2. Lurkers</p>
                         <figure class="figure">
                             <img src="img/degree-hist-plot.png" class="figure-img img-fluid rounded" alt="...">
                             <figcaption class="figure-caption">Figure 14. Histogram of zero degree and non-zero degree members for each 6 communities</figcaption>
                         </figure>
                         <p>We observed the presence of many members within that do not interact with other members (degree=0), which we have labelled as <b>lurkers</b>. The high proportion of lurkers is characteristic of open groups, which do not exclude members based on their activeness. However, because we use the explicit mention of another user to measure interaction (such as tagging a user i.e. '@user123'), our method is limited in that it cannot detect interactions that happen without explicit mentions.</p>
-                        <p class='fw-bold mt-4'>4.4.1.3. Bridging Members</p>
+                        <p class='fw-bold mt-4'>3.4.2.3. Bridging Members</p>
                         <figure class="figure">
                             <img src="img/betweeness-plot.png" class="figure-img img-fluid rounded" alt="...">
                             <figcaption class="figure-caption">Figure 15. Scatterplot of betweeness centrality against degree for each 6 communities</figcaption>
@@ -386,14 +394,671 @@
                         <p>The presence of bridging members is also a measure of how cohesive a community is. In the Punggol communities, we observe both the lack of bridging users, as well as the identification of one majority cluster by modularity.</p>
                     </div>
                 </div>
-                <div id='interview' class='tab-pane fades'>
-                    This is where the interviews will go.
+                <div id='contentanalysis' class='tab-pane fade'>
+                    <div style='text-align: justify;'>
+                        <p class='fw-bold'>4.1. Rationale</p>
+                        <p>Our rationale behind performing a content analysis on the text messages within these communities is to discover the topics that 1) anchor members to the community and 2) lead to offline neighbourhood engagement. 
+                        </p>
+                        <p class='fw-bold'>4.2. Methodology</p>
+                        <p class='fw-bold'>4.2.1. Pre-processing</p>
+                        <p>To perform a computational content analysis, the text messages were first tokenised and lemmatised using the Spacy NLP library. Stopwords were also removed. This reduced the complexity of our unit of analysis.</p>
+                        <div class='card-body py-4'>
+                            <ul class=' list-group-flush p-0'>
+                                <li class='list-group-item'><b>Tokenisation:</b> The task of splitting a text into meaningful segments, called tokens. e.g. The sentence "He is at home." will be tokenised to ["He", "is", "at", "home", "."]</li>
+                                <li class='list-group-item'><b>Lemmatisation:</b> The task of reducing a word from its inflected form to its base form, also known as its lemma. e.g. "saw", "seeing", and "seen" share the same lemma, "see"</li>
+                                <li class='list-group-item'><b>Stopwords:</b> A list of words that are assumed to not contain important information for analysis. e.g. "a", "is", "the", "for"</li>
+                            </ul>
+                        </div>
+                        <p class='fw-bold'>4.2.2. Topic Modelling via Entity Recognition</p>
+                        <p>To identify the most common topics in each community group, we assume a topic to be composed of multiple Named Entities: real-world object, such as persons, locations, organizations, products. Hence, we apply a Named Entity Recognition (NER) model using the NLP Spacy library to extract entities from the text messages for each community.</p>
+                        <figure class="figure">
+                            <img src="img/ner-example.png" class="figure-img img-fluid rounded" alt="...">
+                            <figcaption class="figure-caption">Figure 16. Example of Named Entities identified and tagged by the the NER model.</figcaption>
+                        </figure>
+                        <p>We then count the frequency of occurrence of each entity, and identified 5 common topics across all six communities, which we code to the entities.</p>
+                        <p class='fw-bold'>4.2.3. Keyword-in-Context</p>
+                        <p>To measure the instances of messages that relate to offline neighbourhood engagement, we filtered for text messages after lemmatisation that fulfilled the following query:</p>
+                        <p class='text-center font-monospace'>contains(“meet” OR “go” OR “come”) AND contains(“we” OR “us” OR “you”)</p>
+                        <p>The filtered messages were then manually verified for content.</p>
+                        <p class='fw-bold'>4.3. Results</p>
+                        <p class='fw-bold'>4.3.1. Community Topics</p>
+                        <p>5 codes emerged from the analysis of named entities, which we interpret as topics of which these entities belong to:</p>
+                        <div class='card-body py-4'>
+                            <ul class=' list-group-flush p-0'>
+                                <li class='list-group-item'><b>Housing</b> These are entities related to the housing selection and process process.</li>
+                                <li class='list-group-item'><b>Location</b> These are entities that are physical location and addresses.</li>
+                                <li class='list-group-item'><b>Amenities & Services</b> These are entities that are objects and brands of household items or consumables, as well as monetary entities.</li>
+                                <li class='list-group-item'><b>Politics & Current Affairs</b> These are geopolitical entities, public figures, or events.</li>
+                                <li class='list-group-item'><b>Community</b> These are either named persons in the community, community platforms, or referring to a community.</li>
+                            </ul>
+                        </div>
+                        <p>Here we visualise the topic distribution across the six groups.</p>
+                        <div class='row text-start' style="font-size: .5rem;">   
+                            <div class='col-6 table-responsive'>
+                                <table class="table table-bordered table-sm">
+                                <caption>Figure 17. Distribution of Topics and Entities in a Punggol BTO Group</caption>
+                                <thead >
+                                    <tr>
+                                        <th scope="col">Entities</th>
+                                        <th scope="col">Counts</th>
+                                        <th scope="col">Category</th>
+                                    </tr>
+                                </thead>
+                                <tbody >
+                                    <tr>
+                                        <td>(HDB, ORG)</td>
+                                        <td>544</td>
+                                        <td style="background-color: lightcyan;">Housing</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(WWSR1, LOC)</td>
+                                        <td>73</td>
+                                        <td style="background-color: honeydew;">Location</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(656a, LOC)</td>
+                                        <td>68</td>
+                                        <td style="background-color: honeydew;">Location</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(HLE, ORG)</td>
+                                        <td>58</td>
+                                        <td style="background-color: lightcyan;">Housing</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(BTO, ORG)</td>
+                                        <td>58</td>
+                                        <td style="background-color: lightcyan;">Housing</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(Jackson, PERSON)</td>
+                                        <td>54</td>
+                                        <td style="background-color: lemonchiffon;">Housing</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(Punggol, LOC)</td>
+                                        <td>49</td>
+                                        <td style="background-color: honeydew;">Location</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(WWSR2, LOC)</td>
+                                        <td>46</td>
+                                        <td style="background-color: honeydew;">Location</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(Singapore, GPE)</td>
+                                        <td>40</td>
+                                        <td style="background-color: honeydew;">Location</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(CPF, ORG)</td>
+                                        <td>37</td>
+                                        <td style="background-color: lightcyan;">Housing</td>
+                                    </tr>
+                                </tbody>
+                                </table>
+                            </div>
+                            <div class='col-6 table-responsive'>
+                                <table class="table table-bordered table-sm">
+                                <caption>Figure 18. Distribution of Topics and Entities in a Punggol Residential Group</caption>
+                                <thead >
+                                    <tr>
+                                        <th scope="col">Entities</th>
+                                        <th scope="col">Counts</th>
+                                        <th scope="col">Category</th>
+                                    </tr>
+                                </thead>
+                                <tbody >
+                                    <tr>
+                                        <td>(HDB, ORG)</td>
+                                        <td>169</td>
+                                        <td style="background-color: lightcyan;">Housing</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(Punggol, LOC)</td>
+                                        <td>58</td>
+                                        <td style="background-color: honeydew;">Location</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(BTO, ORG)</td>
+                                        <td>38</td>
+                                        <td style="background-color: lightcyan;">Housing</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(NSR, LOC)</td>
+                                        <td>28</td>
+                                        <td style="background-color: honeydew;">Location</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(Singapore, GPE)</td>
+                                        <td>28</td>
+                                        <td style="background-color: lavender;">Politics & Current Affairs</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(HLE, ORG)</td>
+                                        <td>27</td>
+                                        <td style="background-color: lightcyan;">Housing</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(OA, OBJ)</td>
+                                        <td>60</td>
+                                        <td style="background-color: lightcyan;">Housing</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(Daikin, ORG)</td>
+                                        <td>23</td>
+                                        <td style="background-color: mistyrose;">Amenities & Services</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(WhatsApp, ORG)</td>
+                                        <td>46</td>
+                                        <td style="background-color: lemonchiffon;">Community</td>
+                                    </tr>
+                                    <tr>
+                                        <td>(Aircon, OBJ)</td>
+                                        <td>14</td>
+                                        <td style="background-color: mistyrose;">Amenities & Services</td>
+                                    </tr>
+                                </tbody>
+                                </table>
+                            </div>
+                            <div class='col-6 table-responsive'>
+                                <table class="table table-bordered table-sm">
+                            <caption>Figure 19. Distribution of Topics and Entities in a Jurong BTO Group</caption>
+                            <thead >
+                                <tr>
+                                    <th scope="col">Entities</th>
+                                    <th scope="col">Counts</th>
+                                    <th scope="col">Category</th>
+                                </tr>
+                            </thead>
+                            <tbody >
+                                <tr>
+                                    <td>(Singapore, GPE)</td>
+                                    <td>159</td>
+                                    <td style="background-color: lavender;">Politics & Current Affairs</td>
+                                </tr>
+                                <tr>
+                                    <td>(Hong Kong, GPE)</td>
+                                    <td>142</td>
+                                    <td style="background-color: lavender;">Politics & Current Affairs</td>
+                                </tr>
+                                <tr>
+                                    <td>(China, GPE)</td>
+                                    <td>105</td>
+                                    <td style="background-color: lavender;">Politics & Current Affairs</td>
+                                </tr>
+                                <tr>
+                                    <td>(SDP, NORP)</td>
+                                    <td>69</td>
+                                    <td style="background-color: lavender;">Politics & Current Affairs</td>
+                                </tr>
+                                <tr>
+                                    <td>(Parliament, ORG)</td>
+                                    <td>66</td>
+                                    <td style="background-color: lavender;">Politics & Current Affairs</td>
+                                </tr>
+                                <tr>
+                                    <td>(Chinese, NORP)</td>
+                                    <td>62</td>
+                                    <td style="background-color: lemonchiffon;">Community</td>
+                                </tr>
+                                <tr>
+                                    <td>(BB, LOC)</td>
+                                    <td>60</td>
+                                    <td style="background-color: honeydew;">Location</td>
+                                </tr>
+                                <tr>
+                                    <td>(Singaporeans, NORP)</td>
+                                    <td>59</td>
+                                    <td style="background-color: lemonchiffon;">Community</td>
+                                </tr>
+                                <tr>
+                                    <td>(GE, EVENT)</td>
+                                    <td>46</td>
+                                    <td style="background-color: lavender;">Politics & Current Affairs</td>
+                                </tr>
+                                <tr>
+                                    <td>(PAP, NORP)</td>
+                                    <td>39</td>
+                                    <td style="background-color: lavender;">Politics & Current Affairs</td>
+                                </tr>
+                            </tbody>
+                                </table>
+                            </div>
+                            <div class='col-6 table-responsive'>
+                                <table class="table table-bordered table-sm">
+                            <caption>Figure 20. Distribution of Topics and Entities in a Jurong Residential Group</caption>
+                            <thead >
+                                <tr>
+                                    <th scope="col">Entities</th>
+                                    <th scope="col">Counts</th>
+                                    <th scope="col">Category</th>
+                                </tr>
+                            </thead>
+                            <tbody >
+                                <tr>
+                                    <td>(Chinese, NORP)</td>
+                                    <td>34</td>
+                                    <td style="background-color: lemonchiffon;">Community</td>
+                                </tr>
+                                <tr>
+                                    <td>(CJ, PERSON)</td>
+                                    <td>28</td>
+                                    <td style="background-color: lemonchiffon;">Community</td>
+                                </tr>
+                                <tr>
+                                    <td>(Wolflet, PERSON)</td>
+                                    <td>28</td>
+                                    <td style="background-color: lemonchiffon;">Community</td>
+                                </tr>
+                                <tr>
+                                    <td>(Singapore, GPE)</td>
+                                    <td>26</td>
+                                    <td style="background-color: lavender;">Politics & Current Affairs</td>
+                                </tr>
+                                <tr>
+                                    <td>(10, MONEY)</td>
+                                    <td>21</td>
+                                    <td style="background-color: mistyrose;">Amenities & Services</td>
+                                </tr>
+                                <tr>
+                                    <td>(Clementi, LOC)</td>
+                                    <td>19</td>
+                                    <td style="background-color: honeydew;">Community</td>
+                                </tr>
+                                <tr>
+                                    <td>(MRY, PERSON)</td>
+                                    <td>15</td>
+                                    <td style="background-color: lemonchiffon;">Community</td>
+                                </tr>
+                                <tr>
+                                    <td>(Jurong, LOC)</td>
+                                    <td>15</td>
+                                    <td style="background-color: honeydew;">Location</td>
+                                </tr>
+                                <tr>
+                                    <td>(Joyce, PERSON)</td>
+                                    <td>15</td>
+                                    <td style="background-color: lemonchiffon;">Community</td>
+                                </tr>
+                                <tr>
+                                    <td>(Jim, PERSON)</td>
+                                    <td>15</td>
+                                    <td style="background-color: lemonchiffon;">Community</td>
+                                </tr>
+                            </tbody>
+                                </table>
+                            </div>
+                            <div class='col-6 table-responsive'>
+                                <table class="table table-bordered table-sm">
+                            <caption>Figure 21. Distribution of Topics and Entities in a Toa Payoh BTO Group</caption>
+                            <thead >
+                                <tr>
+                                    <th scope="col">Entities</th>
+                                    <th scope="col">Counts</th>
+                                    <th scope="col">Category</th>
+                                </tr>
+                            </thead>
+                            <tbody >
+                                <tr>
+                                    <td>(Bartley, LOC)</td>
+                                    <td>5</td>
+                                    <td style="background-color: honeydew;">Location</td>
+                                </tr>
+                                <tr>
+                                    <td>(HLE, OBJ)</td>
+                                    <td>3</td>
+                                    <td style="background-color: lightcyan;">Housing</td>
+                                </tr>
+                                <tr>
+                                    <td>(Bartley GreenRise, LOC)</td>
+                                    <td>2</td>
+                                    <td style="background-color: honeydew;">Location</td>
+                                </tr>
+                                <tr>
+                                    <td>(Toa Payoh, LOC)</td>
+                                    <td>5</td>
+                                    <td style="background-color: honeydew;">Location</td>
+                                </tr>
+                                <tr>
+                                    <td>(Optional Component Scheme, OBJ)</td>
+                                    <td>2</td>
+                                    <td style="background-color: lightcyan;">Housing</td>
+                                </tr>
+                                <tr>
+                                    <td>(900k, MONEY)</td>
+                                    <td>2</td>
+                                    <td style="background-color: lightcyan;">Housing</td>
+                                </tr>
+                                <tr>
+                                    <td>(Kim Keat, LOC)</td>
+                                    <td>2</td>
+                                    <td style="background-color: honeydew;">Location</td>
+                                </tr>
+                                <tr>
+                                    <td>(Bidari, LOC)</td>
+                                    <td>2</td>
+                                    <td style="background-color: honeydew;">Location</td>
+                                </tr>
+                                <tr>
+                                    <td>(Blk 650, LOC)</td>
+                                    <td>1</td>
+                                    <td style="background-color: honeydew;">Location</td>
+                                </tr>
+                                <tr>
+                                    <td>(Biddari, LOC)</td>
+                                    <td>1</td>
+                                    <td style="background-color: honeydew;">Location</td>
+                                </tr>
+                            </tbody>
+                                </table>
+                            </div>
+                            <div class='col-6 table-responsive'>
+                                <table class="table table-bordered table-sm">
+                            <caption>Figure 22. Distribution of Topics and Entities in a Toa Payoh Residential Group</caption>
+                            <thead >
+                                <tr>
+                                    <th scope="col">Entities</th>
+                                    <th scope="col">Counts</th>
+                                    <th scope="col">Category</th>
+                                </tr>
+                            </thead>
+                            <tbody >
+                                <tr>
+                                    <td>(50, MONEY)</td>
+                                    <td>27</td>
+                                    <td style="background-color: mistyrose;">Amenities & Services</td>
+                                </tr>
+                                <tr>
+                                    <td>(60, MONEY)</td>
+                                    <td>26</td>
+                                    <td style="background-color: mistyrose;">Amenities & Services</td>
+                                </tr>
+                                <tr>
+                                    <td>(5, MONEY)</td>
+                                    <td>25</td>
+                                    <td style="background-color: mistyrose;">Amenities & Services</td>
+                                </tr>
+                                <tr>
+                                    <td>(ChewApp, ORG)</td>
+                                    <td>23</td>
+                                    <td style="background-color: mistyrose;">Amenities & Services</td>
+                                </tr>
+                                <tr>
+                                    <td>(30, MONEY)</td>
+                                    <td>23</td>
+                                    <td style="background-color: mistyrose;">Amenities & Services</td>
+                                </tr>
+                                <tr>
+                                    <td>(7, MONEY)</td>
+                                    <td>23</td>
+                                    <td style="background-color: mistyrose;">Amenities & Services</td>
+                                </tr>
+                                <tr>
+                                    <td>(Singapore, GPE)</td>
+                                    <td>20</td>
+                                    <td style="background-color: honeydew;">Location</td>
+                                </tr>
+                                <tr>
+                                    <td>(WhatsApp, ORG)</td>
+                                    <td>19</td>
+                                    <td style="background-color: lemonchiffon;">Community</td>
+                                </tr>
+                                <tr>
+                                    <td>(Poseidon, ORG)</td>
+                                    <td>18</td>
+                                    <td style="background-color: mistyrose;">Amenities & Services</td>
+                                </tr>
+                                <tr>
+                                    <td>(Grounded Pleasures, ORG)</td>
+                                    <td>18</td>
+                                    <td style="background-color: mistyrose;">Amenities & Services</td>
+                                </tr>
+                            </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <p>We discovered that each community had a dominant topic whose entities make up more than 50% of identified entities for each community, with some communities having one or two secondary topic. Each community had at least three topics.</p>
+                        <table class="table table-bordered table-sm text-start table-responsive" style="font-size: .6rem;">
+                            <caption>Figure 23. Distribution of Topics and Entities across the six communities</caption>
+                            <thead >
+                                <tr>
+                                    <th scope="col">Location</th>
+                                    <th scope="col">Type</th>
+                                    <th scope="col">Amenities & Services</th>
+                                    <th scope="col">Community</th>
+                                    <th scope="col">Housing</th>
+                                    <th scope="col">Location</th>
+                                    <th scope="col">Politics & Current Affairs</th>
+                                </tr>
+                            </thead>
+                            <tbody >
+                                <tr>
+                                    <td>Punggol</td>
+                                    <td>BTO</td>
+                                    <td>2.72%</td>
+                                    <td>7.35%</td>
+                                    <td style="color: crimson">56.73%</td>
+                                    <td>29.10%</td>
+                                    <td>2.10%</td>
+                                </tr>
+                                <tr>
+                                    <td>Punggol</td>
+                                    <td>Residential</td>
+                                    <td>11.59%</td>
+                                    <td>2.99%</td>
+                                    <td style="color: crimson">51.96%</td>
+                                    <td>28.22%</td>
+                                    <td>5.23%</td>
+                                </tr>
+                                <tr>
+                                    <td>Jurong</td>
+                                    <td>BTO</td>
+                                    <td>-</td>
+                                    <td>16.55%</td>
+                                    <td>2.64%</td>
+                                    <td>8.36%</td>
+                                    <td style="color: crimson">72.45%</td>
+                                </tr>
+                                <tr>
+                                    <td>Jurong</td>
+                                    <td>Residential</td>
+                                    <td>21.26%</td>
+                                    <td style="color: crimson">54.19%</td>
+                                    <td>-</td>
+                                    <td>16.77%</td>
+                                    <td>7.78%</td>
+                                </tr>
+                                <tr>
+                                    <td>Toa Payoh</td>
+                                    <td>BTO</td>
+                                    <td>-</td>
+                                    <td>1.96%</td>
+                                    <td style="color: crimson">62.75%</td>
+                                    <td>35.29%</td>
+                                    <td>-</td>
+                                </tr>
+                                <tr>
+                                    <td>Toa Payoh</td>
+                                    <td>Residential</td>
+                                    <td style="color: crimson">90.13%</td>
+                                    <td>3.81%</td>
+                                    <td>-</td>
+                                    <td>-</td>
+                                    <td>5.06%</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>A community's name does not necessarily reveal the dominating topic within a community. In the Jurong BTO community, politics and current affairs was the dominant topic, with only 2.6% of identified entities related to housing. In the Toa Payoh residential community, amenities and services was the dominant topic (90.3%) due to the prevalance of messages related to groupbuys.</p>
+                        <p class='fw-bold'>4.3.2. Potential for Neighbourhood Engagement</p>
+                        <p>We found that messages in BTO and Residential groups rarely lead to offline neighborhood engagement, contributing to a tiny portion of the total messages.</p>
+                        <table class="table table-bordered table-sm text-start table-responsive" style="font-size: .6rem;">
+                            <caption>Figure 24. Distribution of Text Messages that lead to Offline Neighbourhood Engagement across the six communities</caption>
+                            <thead >
+                                <tr>
+                                    <th scope="col">Location</th>
+                                    <th scope="col">Type</th>
+                                    <th scope="col">Total Messages</th>
+                                    <th scope="col">Count</th>
+                                    <th scope="col">False Positives</th>
+                                    <th scope="col">True Positives</th>
+                                    <th scope="col">% of True Positives over Total Messages</th>
+                                </tr>
+                            </thead>
+                            <tbody >
+                                <tr>
+                                    <td>Punggol</td>
+                                    <td>BTO</td>
+                                    <td>18107</td>
+                                    <td>150</td>
+                                    <td>137</td>
+                                    <td style="color: crimson;">13</td>
+                                    <td>0.1%</td>
+                                </tr>
+                                <tr>
+                                    <td>Punggol</td>
+                                    <td>Residential</td>
+                                    <td>9373</td>
+                                    <td>69</td>
+                                    <td>55</td>
+                                    <td style="color: crimson;">14</td>
+                                    <td>0.2%</td>
+                                </tr>
+                                <tr>
+                                    <td>Jurong</td>
+                                    <td>BTO</td>
+                                    <td>3358</td>
+                                    <td>41</td>
+                                    <td>22</td>
+                                    <td style="color: crimson;">19</td>
+                                    <td>0.6%</td>
+                                </tr>
+                                <tr>
+                                    <td>Jurong</td>
+                                    <td>Residential</td>
+                                    <td>10558</td>
+                                    <td>57</td>
+                                    <td>29</td>
+                                    <td style="color: crimson;">28</td>
+                                    <td>0.3%</td>
+                                </tr>
+                                <tr>
+                                    <td>Toa Payoh</td>
+                                    <td>BTO</td>
+                                    <td>558</td>
+                                    <td>2</td>
+                                    <td>2</td>
+                                    <td style="color: crimson;">0</td>
+                                    <td>0%</td>
+                                </tr>
+                                <tr>
+                                    <td>Toa Payoh</td>
+                                    <td>Residential</td>
+                                    <td>377</td>
+                                    <td>10</td>
+                                    <td>9</td>
+                                    <td style="color: crimson;">1</td>
+                                    <td>0.3%</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>Our attempt at an automatic filtering also revealed the limitations of such an approach, and that there is still a need for manual verification.</p>
+                        <p>We also traced these messages that lead to offline neighbourhood engagement back to their users and discovered that while super-members were not the majority, in many instances, super-members were the initiators of the message chain related to neighborhood engagement.</p>
+                        <p>Looking at contents of the messages, we discovered that while motivations behind meeting up varied across the communities, socialising was a common factor.</p>
+                        <table class="table table-bordered table-sm text-start table-responsive" style="font-size: .6rem;">
+                            <caption>Figure 25. User and Topic of messages that lead to offline neighbourhood engagement across the six communities</caption>
+                            <thead >
+                                <tr>
+                                    <th scope="col">Location</th>
+                                    <th scope="col">Type</th>
+                                    <th scope="col">No. of Messages</th>
+                                    <th scope="col">No. of Unique Actors</th>
+                                    <th scope="col">No. of Super-members</th>
+                                    <th scope="col">Topic</th>
+                                </tr>
+                            </thead>
+                            <tbody >
+                                <tr>
+                                    <td>Punggol</td>
+                                    <td>BTO</td>
+                                    <td>13</td>
+                                    <td>9</td>
+                                    <td>2</td>
+                                    <td>Socialising</td>
+                                </tr>
+                                <tr>
+                                    <td>Punggol</td>
+                                    <td>Residential</td>
+                                    <td>14</td>
+                                    <td>12</td>
+                                    <td>2</td>
+                                    <td>BTO-related</td>
+                                </tr>
+                                <tr>
+                                    <td>Jurong</td>
+                                    <td>BTO</td>
+                                    <td>19</td>
+                                    <td>8</td>
+                                    <td>0</td>
+                                    <td>Organised Family Activities</td>
+                                </tr>
+                                <tr>
+                                    <td>Jurong</td>
+                                    <td>Residential</td>
+                                    <td>28</td>
+                                    <td>8</td>
+                                    <td>2</td>
+                                    <td>Socialising / Pokemon Go</td>
+                                </tr>
+                                <tr>
+                                    <td>Toa Payoh</td>
+                                    <td>BTO</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>-</td>
+                                </tr>
+                                <tr>
+                                    <td>Toa Payoh</td>
+                                    <td>Residential</td>
+                                    <td>1</td>
+                                    <td>1</td>
+                                    <td>0</td>
+                                    <td>-</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
                 </div>
-                <div id='discussion' class='tab-pane fades'>
-                    This is where the discussions will go.
-                </div>
-                <div id='conclusion' class='tab-pane fades'>
-                    This is where the conclusion will go.
+                <div id='discussions' class='tab-pane fade'>
+                    <div style='text-align: justify;'>
+                        <p class='fw-bold'>5.1. Summary of Findings</p>
+                        <ul>
+                            <li>In using quantitative methods for studying digital sharing communities, one is limited by the availability of data, which depends on the accessibility as well as the platform that hosts the community.
+                            </li>
+                            <li>Healthy communities can are visually recognisable in their network structure and can be characterised as cohesive or composed of multiple sub-communities.
+                            </li>
+                            <li>Healthy communities can are visually recognisable in their network structure and can be characterised as cohesive or composed of multiple sub-communities.
+                            </li>
+                            <li>In cohesive communities, you have super-members anchoring the rest of the membership. In sub-communities, you can have a both super-members as well as bridging members. Bridging members link sub-communities together.
+                            </li>
+                            <li>In each community, we observed one dominant topic, with at least 2 secondary topics. We observed that the dominant topic is not necessarily the same as the named intention of the community.
+                            </li>
+                            <li>For residential and BTO groups, there is not much instances of digital interaction leading to offline neighborhood engagement.
+                            </li>
+                            <li>However, in instances observed, they were often for socialising purposes and also primarily initiated by super-members.
+                            </li>
+                        </ul>
+                        <p class='fw-bold'>5.2. Conclusion</p>
+                        <p class='fw-bold'>5.2.1. Methods for Studying Digital Sharing Communities</p>
+                        <p>It is important that we study Digital Sharing Communities as they are new generators of neighborhood engagement. Studying the existing communities can inform us on how we can promote more of these communities, or even envision completely new forms.</p>
+                        <p>However, Digital Sharing Communities vary in form and function and each demands different methods for studying them. We have shown how several of both quantitative and qualitative methods can be used to gain insight on these communities. The primary topics and activities of a group cannot be based on their named intentions alone but requires a deeper analysis of the interactions exchanged in the group itself.</p>
+                        <p class='fw-bold'>5.2.2. Potential for Neighbourhood Engagement</p>
+                        <p>Interest groups and group buys show more potential for neighbourhood engagement. This is because neighborhood engagement is centred on recurring activities that people can commit to and set aside time for.</p>
+                        <p>However, this is not the case for interest groups and group buys. Instead, most neighborhood engagement took the form of spontaneous, impromptu, and informal meetups. There is no one ‘in-charge’ of fostering neighborhood engagement.</p>
+                        <p>In all healthy communities observed, there is at least one person that anchors the rest of the other members in the group. For residential and BTO groups, these are the super-members, not necessarily the admins. For Group Buys and Interest Groups, these are the admins themselves. In both communities, admins and super-members are the primary initiators of digital interaction that leads to neighbourhood engagement.</p>
+                    </div>
                 </div>
             </div>
         </div>
