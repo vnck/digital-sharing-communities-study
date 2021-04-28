@@ -16,11 +16,20 @@
         <script src="scripts/observational-charts.js"></script>
         <script src="scripts/d3-graphs.js"></script>
         <style>
+            .chart-1 {
+                height: 300px;
+            }
+            .chart-2 {
+                height: 200px;
+            }
+            .chart-3 {
+                height: 500px;
+            }
             @media (max-width: 767.98px) {
                 .table-responsive {
                     font-size: .5rem !important;
                 }
-                .chart-1{
+                .chart-1, .chart-3{
                     height: 300px;
                     padding-bottom: 1rem;
                 }
@@ -106,7 +115,7 @@
                         <p class='fw-bold mt-4'>2.3.1. Distribution Across Towns</p>
                         <p>In total, we found 81 instances of digital sharing communities between the three towns.</p>
                         <div class='row row-cols-1 row-cols-md-2'>
-                            <div class='col chart-1'>
+                            <div class='col chart-3'>
                                 <canvas class="mb-3" id='townDistribution'></canvas>
                             </div>
                             <div class='col'>
